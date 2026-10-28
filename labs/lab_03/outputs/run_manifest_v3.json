@@ -2,17 +2,26 @@
   "protocol": "Lab03 v3",
   "seed": 414,
   "development_budget": 0.1,
-  "experiment_complete": false,
-  "change": null,
+  "experiment_complete": true,
+  "change": {
+    "parent": "forest_sqrt",
+    "parameter": "min_samples_leaf",
+    "old": 30,
+    "new": 100,
+    "model_id": "forest_sqrt__min_samples_leaf_100",
+    "changed_parameters": [
+      "model__min_samples_leaf"
+    ]
+  },
   "completion_note": "Execution only; reasoning, error analysis and memo must be checked separately",
   "generated_sha256": {
-    "development_predictions_v3.csv": "136908f940dd3654a41631a105051fbea4e75b88220b70abe2ca44c385546683",
-    "context_errors_v3.csv": "89e145a97969485d7ac8718c666d9ecb41795078f85cc7d1c29d10acfa8f5747",
-    "event_errors_v3.csv": "121a174820cb6467bd9ee2bf80dca9400cef59fb2563db5e8c74b98056bceda4"
+    "development_predictions_v3.csv": "53b0721b26f272c891eb184c978ebf759fe2d8d3843a9577cc73f150ce72178f",
+    "context_errors_v3.csv": "2ed9c5a9d9dfc5b69e3550d1c1cff71b3a0369290d35246bd1d73dfb57124def",
+    "event_errors_v3.csv": "0f6cfd224193563bce1aac5ac4308d78647f8811d174994e9f8966e8aff7943b"
   },
-  "comparison_markdown_sha256": "e8c4fd04d0a9cbef55f43f7d15f79fa31ef8d444cd788ec59ca3a1804797bb64",
+  "comparison_markdown_sha256": "cd91ae9487e15b6eea50151e5a70548916d50aa66063ff8c268a476861b459c1",
   "learning_sha256": "6782cfca5940fbe7683c8b03cdb8e5a9f2990f426dc7b8f3182eec32cd7f0b3f",
-  "comparison_sha256": "f9a162787f12c81271cda60685a0c9338da8372faeeb2fb1a3a427fcdedc5251",
+  "comparison_sha256": "d42edbb7c872f43b19809758b48d957677d7982df12316e7f293fa201f6257e5",
   "support_sha256": {
     "lab03_support_v3.py": "25c2d1294aaf7628103fa98e59a252c8fbe23a33865bbb02321f33ff581fa423",
     "pitwindow_student_v2.py": "5e5369b7c43ce626273a7c3ca71de29644f88a2eb243df0cf73d5d711a6e1bf3"
@@ -69,9 +78,18 @@
       "FP": 605,
       "events_caught": 140,
       "event_recall": 0.3783783783783784
+    },
+    "forest_sqrt__min_samples_leaf_100": {
+      "threshold": 0.6019137575380266,
+      "no_alerts": false,
+      "alerts": 938,
+      "TP": 376,
+      "FP": 562,
+      "events_caught": 159,
+      "event_recall": 0.4297297297297297
     }
   },
-  "python": "3.12.4",
+  "python": "3.12.14",
   "versions": {
     "numpy": "2.0.2",
     "pandas": "2.3.1",

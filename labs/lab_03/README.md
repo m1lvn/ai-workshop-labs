@@ -47,6 +47,12 @@ relative paths only, so it must run with `labs/lab_03` as the working directory.
 the command-line run. Before running our candidate we checked that the five base systems reproduce exactly
 the supplied counts in `outputs/comparison_v3.csv`. `.venv/` is not committed.
 
+Determinism note: the setup cell calls `joblib.parallel_config(backend='sequential')`. Without it, the forest's
+multi-threaded `predict_proba` can differ by about 1e-16 between calls. One development window scores exactly at
+the candidate's selected threshold, and in one of our runs it flipped from TP to FN, so
+`development_predictions_v3.csv` disagreed with `comparison_v3.csv` (937 vs 938 alerts). The setting changes no
+model parameter, reproduces the supplied base table exactly and made two consecutive full runs byte-identical.
+
 ## One route through the work
 
 1. Run the environment/data check, complete “1. Define the prediction”, and try the illustrative metric check.
