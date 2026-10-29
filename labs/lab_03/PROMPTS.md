@@ -18,7 +18,7 @@ If used, one actual suggestion (quote or faithful summary):
 After an export, development_predictions_v3.csv showed 937 alerts while comparison_v3.csv showed 938. Claude traced this to one window scored exactly at the threshold (`2022-05-22:63:11:4711.281000`): the forest's multi-threaded `predict_proba` moved it by about 1e-16. It suggested adding `joblib.parallel_config(backend='sequential')` to the setup cell.
 
 What we accepted/rejected:
-We accepted the change because it changes no model parameter. We did not accept that suggestion's correctness on trust. We also rejected part of Claude's own pre-run expectation after the run: it predicted "140 ± 10 entries, no clear improvement" and the candidate caught 159. We kept that expectation unchanged in `experiment_spec.md` and explained the miss in section 4.
+We accepted the change because it changes no model parameter. We did not take it on trust; we verified it as follows. We also rejected part of Claude's own pre-run expectation after the run: it predicted "140 ± 10 entries, no clear improvement" and the candidate caught 159. We kept that expectation unchanged in `experiment_spec.md` and explained the miss in section 4.
 
 Exact check performed and repository evidence:
 1. With the setting, the five base systems still reproduce the supplied counts exactly.
