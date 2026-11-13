@@ -1,0 +1,1041 @@
+season,round,event_name,event_date,driver,driver_number,lap_number,lap_time_s,end_time_s,stint,compound,tyre_life,team,track_status,is_accurate,pit_in,pit_out,deleted
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,1.0,98.115,3540.108,1.0,MEDIUM,1.0,McLaren,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,2.0,92.77,3632.878,1.0,MEDIUM,2.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,3.0,93.263,3726.141,1.0,MEDIUM,3.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,4.0,93.814,3819.955,1.0,MEDIUM,4.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,5.0,93.842,3913.797,1.0,MEDIUM,5.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,6.0,130.35,4044.147,1.0,MEDIUM,6.0,McLaren,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,7.0,137.842,4181.989,1.0,MEDIUM,7.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,8.0,142.399,4324.388,1.0,MEDIUM,8.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,9.0,147.626,4472.014,1.0,MEDIUM,9.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,10.0,139.119,4611.133,1.0,MEDIUM,10.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,11.0,,4761.96,1.0,MEDIUM,11.0,McLaren,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,12.0,92.556,4854.516,1.0,MEDIUM,12.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,13.0,92.894,4947.41,1.0,MEDIUM,13.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,14.0,92.794,5040.204,1.0,MEDIUM,14.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,15.0,92.987,5133.191,1.0,MEDIUM,15.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,16.0,92.87,5226.061,1.0,MEDIUM,16.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,17.0,93.094,5319.155,1.0,MEDIUM,17.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,18.0,93.04,5412.195,1.0,MEDIUM,18.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,19.0,93.008,5505.203,1.0,MEDIUM,19.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,20.0,93.193,5598.396,1.0,MEDIUM,20.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,21.0,92.881,5691.277,1.0,MEDIUM,21.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,22.0,93.048,5784.325,1.0,MEDIUM,22.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,23.0,93.098,5877.423,1.0,MEDIUM,23.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,24.0,93.093,5970.516,1.0,MEDIUM,24.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,25.0,93.384,6063.9,1.0,MEDIUM,25.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,26.0,93.059,6156.959,1.0,MEDIUM,26.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,27.0,98.504,6255.463,1.0,MEDIUM,27.0,McLaren,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,28.0,107.153,6362.616,2.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,29.0,93.451,6456.067,2.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,30.0,92.247,6548.314,2.0,HARD,3.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,31.0,92.069,6640.383,2.0,HARD,4.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,32.0,92.155,6732.538,2.0,HARD,5.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,33.0,91.991,6824.529,2.0,HARD,6.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,34.0,92.32,6916.849,2.0,HARD,7.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,35.0,91.869,7008.718,2.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,36.0,92.326,7101.044,2.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,37.0,92.391,7193.435,2.0,HARD,10.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,38.0,92.383,7285.818,2.0,HARD,11.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,39.0,92.657,7378.475,2.0,HARD,12.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,40.0,92.64,7471.115,2.0,HARD,13.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,41.0,92.676,7563.791,2.0,HARD,14.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,42.0,92.662,7656.453,2.0,HARD,15.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,43.0,92.491,7748.944,2.0,HARD,16.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,44.0,92.591,7841.535,2.0,HARD,17.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,45.0,92.469,7934.004,2.0,HARD,18.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,46.0,92.715,8026.719,2.0,HARD,19.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,47.0,92.235,8118.954,2.0,HARD,20.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,48.0,92.398,8211.352,2.0,HARD,21.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,49.0,92.269,8303.621,2.0,HARD,22.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,50.0,92.428,8396.049,2.0,HARD,23.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,51.0,92.394,8488.443,2.0,HARD,24.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,52.0,92.464,8580.907,2.0,HARD,25.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,53.0,92.738,8673.645,2.0,HARD,26.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,54.0,92.038,8765.683,2.0,HARD,27.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,55.0,92.493,8858.176,2.0,HARD,28.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,56.0,92.849,8951.025,2.0,HARD,29.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,NOR,1,57.0,93.474,9044.499,2.0,HARD,30.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,GAS,10,1.0,105.243,3547.236,1.0,MEDIUM,1.0,Alpine,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,GAS,10,2.0,95.576,3642.812,1.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,GAS,10,3.0,95.046,3737.858,1.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,GAS,10,4.0,94.856,3832.714,1.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,GAS,10,5.0,,3982.714,1.0,MEDIUM,5.0,Alpine,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,1.0,107.924,3549.917,1.0,MEDIUM,1.0,Cadillac,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,2.0,96.783,3646.7,1.0,MEDIUM,2.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,3.0,97.009,3743.709,1.0,MEDIUM,3.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,4.0,96.307,3840.016,1.0,MEDIUM,4.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,5.0,96.828,3936.844,1.0,MEDIUM,5.0,Cadillac,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,6.0,134.677,4071.521,1.0,MEDIUM,6.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,7.0,128.893,4200.414,1.0,MEDIUM,7.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,8.0,141.449,4341.863,1.0,MEDIUM,8.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,9.0,143.123,4484.986,1.0,MEDIUM,9.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,10.0,140.172,4625.158,1.0,MEDIUM,10.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,11.0,142.406,4767.564,1.0,MEDIUM,11.0,Cadillac,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,12.0,96.951,4864.515,1.0,MEDIUM,12.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,13.0,96.605,4961.12,1.0,MEDIUM,13.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,14.0,96.571,5057.691,1.0,MEDIUM,14.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,15.0,96.214,5153.905,1.0,MEDIUM,15.0,Cadillac,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,16.0,96.404,5250.309,1.0,MEDIUM,16.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,17.0,96.436,5346.745,1.0,MEDIUM,17.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,18.0,96.558,5443.303,1.0,MEDIUM,18.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,19.0,96.405,5539.708,1.0,MEDIUM,19.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,20.0,96.498,5636.206,1.0,MEDIUM,20.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,21.0,96.52,5732.726,1.0,MEDIUM,21.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,22.0,96.255,5828.981,1.0,MEDIUM,22.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,23.0,96.617,5925.598,1.0,MEDIUM,23.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,24.0,96.353,6021.951,1.0,MEDIUM,24.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,25.0,96.732,6118.683,1.0,MEDIUM,25.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,26.0,96.278,6214.961,1.0,MEDIUM,26.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,27.0,96.385,6311.346,1.0,MEDIUM,27.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,28.0,96.919,6408.265,1.0,MEDIUM,28.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,29.0,102.282,6510.547,1.0,MEDIUM,29.0,Cadillac,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,30.0,109.853,6620.4,2.0,HARD,1.0,Cadillac,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,31.0,94.895,6715.295,2.0,HARD,2.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,32.0,95.379,6810.674,2.0,HARD,3.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,33.0,95.011,6905.685,2.0,HARD,4.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,34.0,95.312,7000.997,2.0,HARD,5.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,35.0,95.648,7096.645,2.0,HARD,6.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,36.0,97.862,7194.507,2.0,HARD,7.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,37.0,95.733,7290.24,2.0,HARD,8.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,38.0,95.539,7385.779,2.0,HARD,9.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,39.0,95.829,7481.608,2.0,HARD,10.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,40.0,97.17,7578.778,2.0,HARD,11.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,41.0,97.35,7676.128,2.0,HARD,12.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,42.0,96.678,7772.806,2.0,HARD,13.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,43.0,97.179,7869.985,2.0,HARD,14.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,44.0,95.557,7965.542,2.0,HARD,15.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,45.0,96.376,8061.918,2.0,HARD,16.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,46.0,96.409,8158.327,2.0,HARD,17.0,Cadillac,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,47.0,96.892,8255.219,2.0,HARD,18.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,48.0,96.634,8351.853,2.0,HARD,19.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,49.0,96.887,8448.74,2.0,HARD,20.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,50.0,96.556,8545.296,2.0,HARD,21.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,51.0,96.311,8641.607,2.0,HARD,22.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,52.0,95.814,8737.421,2.0,HARD,23.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,53.0,95.356,8832.777,2.0,HARD,24.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,54.0,95.502,8928.279,2.0,HARD,25.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,55.0,95.25,9023.529,2.0,HARD,26.0,Cadillac,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PER,11,56.0,95.25,9118.779,2.0,HARD,27.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,1.0,97.243,3539.236,1.0,MEDIUM,1.0,Mercedes,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,2.0,92.936,3632.172,1.0,MEDIUM,2.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,3.0,93.224,3725.396,1.0,MEDIUM,3.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,4.0,93.586,3818.982,1.0,MEDIUM,4.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,5.0,94.602,3913.584,1.0,MEDIUM,5.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,6.0,132.093,4045.677,1.0,MEDIUM,6.0,Mercedes,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,7.0,137.101,4182.778,1.0,MEDIUM,7.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,8.0,142.628,4325.406,1.0,MEDIUM,8.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,9.0,148.02,4473.426,1.0,MEDIUM,9.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,10.0,138.771,4612.197,1.0,MEDIUM,10.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,11.0,,4762.357,1.0,MEDIUM,11.0,Mercedes,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,12.0,93.043,4855.4,1.0,MEDIUM,12.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,13.0,93.07,4948.47,1.0,MEDIUM,13.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,14.0,93.314,5041.784,1.0,MEDIUM,14.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,15.0,93.18,5134.964,1.0,MEDIUM,15.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,16.0,93.658,5228.622,1.0,MEDIUM,16.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,17.0,93.053,5321.675,1.0,MEDIUM,17.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,18.0,93.244,5414.919,1.0,MEDIUM,18.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,19.0,93.345,5508.264,1.0,MEDIUM,19.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,20.0,93.011,5601.275,1.0,MEDIUM,20.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,21.0,93.149,5694.424,1.0,MEDIUM,21.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,22.0,92.779,5787.203,1.0,MEDIUM,22.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,23.0,92.994,5880.197,1.0,MEDIUM,23.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,24.0,92.802,5972.999,1.0,MEDIUM,24.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,25.0,93.068,6066.067,1.0,MEDIUM,25.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,26.0,97.884,6163.951,1.0,MEDIUM,26.0,Mercedes,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,27.0,105.601,6269.552,2.0,HARD,1.0,Mercedes,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,28.0,92.914,6362.466,2.0,HARD,2.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,29.0,92.331,6454.797,2.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,30.0,92.21,6547.007,2.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,31.0,92.258,6639.265,2.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,32.0,92.046,6731.311,2.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,33.0,92.113,6823.424,2.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,34.0,91.968,6915.392,2.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,35.0,92.487,7007.879,2.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,36.0,92.354,7100.233,2.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,37.0,92.483,7192.716,2.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,38.0,92.423,7285.139,2.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,39.0,92.382,7377.521,2.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,40.0,92.878,7470.399,2.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,41.0,92.331,7562.73,2.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,42.0,92.496,7655.226,2.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,43.0,92.186,7747.412,2.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,44.0,92.211,7839.623,2.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,45.0,92.399,7932.022,2.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,46.0,92.531,8024.553,2.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,47.0,92.782,8117.335,2.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,48.0,92.377,8209.712,2.0,HARD,22.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,49.0,92.243,8301.955,2.0,HARD,23.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,50.0,92.097,8394.052,2.0,HARD,24.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,51.0,92.418,8486.47,2.0,HARD,25.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,52.0,92.427,8578.897,2.0,HARD,26.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,53.0,92.354,8671.251,2.0,HARD,27.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,54.0,91.986,8763.237,2.0,HARD,28.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,55.0,92.347,8855.584,2.0,HARD,29.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,56.0,92.586,8948.17,2.0,HARD,30.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ANT,12,57.0,93.092,9041.262,2.0,HARD,31.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,1.0,109.952,3551.945,1.0,MEDIUM,1.0,Aston Martin,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,2.0,96.627,3648.572,1.0,MEDIUM,2.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,3.0,96.505,3745.077,1.0,MEDIUM,3.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,4.0,96.45,3841.527,1.0,MEDIUM,4.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,5.0,100.142,3941.669,1.0,MEDIUM,5.0,Aston Martin,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,6.0,135.182,4076.851,1.0,MEDIUM,6.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,7.0,129.956,4206.807,1.0,MEDIUM,7.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,8.0,142.381,4349.188,1.0,MEDIUM,8.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,9.0,142.229,4491.417,1.0,MEDIUM,9.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,10.0,140.195,4631.612,1.0,MEDIUM,10.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,11.0,137.815,4769.427,1.0,MEDIUM,11.0,Aston Martin,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,12.0,96.8,4866.227,1.0,MEDIUM,12.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,13.0,96.349,4962.576,1.0,MEDIUM,13.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,14.0,96.482,5059.058,1.0,MEDIUM,14.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,15.0,97.635,5156.693,1.0,MEDIUM,15.0,Aston Martin,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,16.0,96.143,5252.836,1.0,MEDIUM,16.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,17.0,96.453,5349.289,1.0,MEDIUM,17.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,18.0,96.939,5446.228,1.0,MEDIUM,18.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,19.0,96.836,5543.064,1.0,MEDIUM,19.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,20.0,96.221,5639.285,1.0,MEDIUM,20.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,21.0,96.561,5735.846,1.0,MEDIUM,21.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,22.0,96.294,5832.14,1.0,MEDIUM,22.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,23.0,96.386,5928.526,1.0,MEDIUM,23.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,24.0,96.666,6025.192,1.0,MEDIUM,24.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,25.0,96.477,6121.669,1.0,MEDIUM,25.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,26.0,96.269,6217.938,1.0,MEDIUM,26.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,27.0,96.071,6314.009,1.0,MEDIUM,27.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,28.0,95.985,6409.994,1.0,MEDIUM,28.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,29.0,96.08,6506.074,1.0,MEDIUM,29.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,30.0,96.191,6602.265,1.0,MEDIUM,30.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,31.0,96.39,6698.655,1.0,MEDIUM,31.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,32.0,96.335,6794.99,1.0,MEDIUM,32.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,33.0,96.708,6891.698,1.0,MEDIUM,33.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,34.0,95.644,6987.342,1.0,MEDIUM,34.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,35.0,96.543,7083.885,1.0,MEDIUM,35.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,36.0,96.451,7180.336,1.0,MEDIUM,36.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,37.0,96.558,7276.894,1.0,MEDIUM,37.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,38.0,96.87,7373.764,1.0,MEDIUM,38.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,39.0,96.394,7470.158,1.0,MEDIUM,39.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,40.0,97.717,7567.875,1.0,MEDIUM,40.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,41.0,101.789,7669.664,1.0,MEDIUM,41.0,Aston Martin,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,42.0,109.347,7779.011,2.0,SOFT,1.0,Aston Martin,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,43.0,95.55,7874.561,2.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,44.0,93.512,7968.073,2.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,45.0,94.594,8062.667,2.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,46.0,96.389,8159.056,2.0,SOFT,5.0,Aston Martin,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,47.0,96.191,8255.247,2.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,48.0,96.765,8352.012,2.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,49.0,97.677,8449.689,2.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,50.0,96.116,8545.805,2.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,51.0,95.159,8640.964,2.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,52.0,95.091,8736.055,2.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,53.0,95.015,8831.07,2.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,54.0,94.97,8926.04,2.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,55.0,94.944,9020.984,2.0,SOFT,14.0,Aston Martin,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALO,14,56.0,95.246,9116.23,2.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,1.0,96.094,3538.087,1.0,MEDIUM,1.0,Ferrari,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,2.0,93.036,3631.123,1.0,MEDIUM,2.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,3.0,93.357,3724.48,1.0,MEDIUM,3.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,4.0,94.73,3819.21,1.0,MEDIUM,4.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,5.0,93.697,3912.907,1.0,MEDIUM,5.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,6.0,129.463,4042.37,1.0,MEDIUM,6.0,Ferrari,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,7.0,138.014,4180.384,1.0,MEDIUM,7.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,8.0,142.808,4323.192,1.0,MEDIUM,8.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,9.0,147.484,4470.676,1.0,MEDIUM,9.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,10.0,138.762,4609.438,1.0,MEDIUM,10.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,11.0,,4761.3,1.0,MEDIUM,11.0,Ferrari,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,12.0,92.878,4854.178,1.0,MEDIUM,12.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,13.0,94.381,4948.559,1.0,MEDIUM,13.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,14.0,93.744,5042.303,1.0,MEDIUM,14.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,15.0,93.56,5135.863,1.0,MEDIUM,15.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,16.0,93.536,5229.399,1.0,MEDIUM,16.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,17.0,95.457,5324.856,1.0,MEDIUM,17.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,18.0,93.692,5418.548,1.0,MEDIUM,18.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,19.0,93.539,5512.087,1.0,MEDIUM,19.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,20.0,93.689,5605.776,1.0,MEDIUM,20.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,21.0,98.504,5704.28,1.0,MEDIUM,21.0,Ferrari,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,22.0,108.975,5813.255,2.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,23.0,93.886,5907.141,2.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,24.0,93.588,6000.729,2.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,25.0,92.986,6093.715,2.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,26.0,93.905,6187.62,2.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,27.0,92.922,6280.542,2.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,28.0,92.652,6373.194,2.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,29.0,92.786,6465.98,2.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,30.0,93.416,6559.396,2.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,31.0,92.945,6652.341,2.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,32.0,92.995,6745.336,2.0,HARD,11.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,33.0,93.075,6838.411,2.0,HARD,12.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,34.0,92.971,6931.382,2.0,HARD,13.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,35.0,92.993,7024.375,2.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,36.0,92.879,7117.254,2.0,HARD,15.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,37.0,93.155,7210.409,2.0,HARD,16.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,38.0,92.993,7303.402,2.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,39.0,92.755,7396.157,2.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,40.0,92.767,7488.924,2.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,41.0,92.686,7581.61,2.0,HARD,20.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,42.0,93.042,7674.652,2.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,43.0,92.612,7767.264,2.0,HARD,22.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,44.0,92.515,7859.779,2.0,HARD,23.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,45.0,92.874,7952.653,2.0,HARD,24.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,46.0,93.468,8046.121,2.0,HARD,25.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,47.0,93.678,8139.799,2.0,HARD,26.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,48.0,92.892,8232.691,2.0,HARD,27.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,49.0,92.734,8325.425,2.0,HARD,28.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,50.0,92.566,8417.991,2.0,HARD,29.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,51.0,92.578,8510.569,2.0,HARD,30.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,52.0,92.579,8603.148,2.0,HARD,31.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,53.0,92.679,8695.827,2.0,HARD,32.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,54.0,92.667,8788.494,2.0,HARD,33.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,55.0,92.941,8881.435,2.0,HARD,34.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,56.0,94.211,8975.646,2.0,HARD,35.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LEC,16,57.0,109.834,9085.48,2.0,HARD,36.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,1.0,107.631,3549.624,1.0,MEDIUM,1.0,Aston Martin,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,2.0,96.569,3646.193,1.0,MEDIUM,2.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,3.0,97.019,3743.212,1.0,MEDIUM,3.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,4.0,96.418,3839.63,1.0,MEDIUM,4.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,5.0,99.194,3938.824,1.0,MEDIUM,5.0,Aston Martin,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,6.0,136.722,4075.546,1.0,MEDIUM,6.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,7.0,128.505,4204.051,1.0,MEDIUM,7.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,8.0,141.458,4345.509,1.0,MEDIUM,8.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,9.0,142.647,4488.156,1.0,MEDIUM,9.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,10.0,139.176,4627.332,1.0,MEDIUM,10.0,Aston Martin,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,11.0,141.17,4768.502,1.0,MEDIUM,11.0,Aston Martin,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,12.0,97.442,4865.944,1.0,MEDIUM,12.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,13.0,96.085,4962.029,1.0,MEDIUM,13.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,14.0,96.582,5058.611,1.0,MEDIUM,14.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,15.0,100.953,5159.564,1.0,MEDIUM,15.0,Aston Martin,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,16.0,96.974,5256.538,1.0,MEDIUM,16.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,17.0,96.371,5352.909,1.0,MEDIUM,17.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,18.0,96.539,5449.448,1.0,MEDIUM,18.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,19.0,97.022,5546.47,1.0,MEDIUM,19.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,20.0,96.851,5643.321,1.0,MEDIUM,20.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,21.0,101.443,5744.764,1.0,MEDIUM,21.0,Aston Martin,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,22.0,110.529,5855.293,2.0,SOFT,4.0,Aston Martin,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,23.0,95.39,5950.683,2.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,24.0,97.141,6047.824,2.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,25.0,95.921,6143.745,2.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,26.0,96.024,6239.769,2.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,27.0,95.818,6335.587,2.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,28.0,95.942,6431.529,2.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,29.0,95.773,6527.302,2.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,30.0,95.505,6622.807,2.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,31.0,95.432,6718.239,2.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,32.0,95.601,6813.84,2.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,33.0,95.203,6909.043,2.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,34.0,95.849,7004.892,2.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,35.0,98.513,7103.405,2.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,36.0,96.018,7199.423,2.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,37.0,101.024,7300.447,2.0,SOFT,19.0,Aston Martin,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,38.0,109.547,7409.994,3.0,SOFT,1.0,Aston Martin,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,39.0,95.112,7505.106,3.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,40.0,94.958,7600.064,3.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,41.0,95.144,7695.208,3.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,42.0,95.324,7790.532,3.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,43.0,95.225,7885.757,3.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,44.0,97.379,7983.136,3.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,45.0,94.82,8077.956,3.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,46.0,95.174,8173.13,3.0,SOFT,9.0,Aston Martin,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,47.0,95.215,8268.345,3.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,48.0,95.135,8363.48,3.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,49.0,95.098,8458.578,3.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,50.0,95.187,8553.765,3.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,51.0,94.891,8648.656,3.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,52.0,94.759,8743.415,3.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,53.0,94.811,8838.226,3.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,54.0,94.806,8933.032,3.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,55.0,96.149,9029.181,3.0,SOFT,18.0,Aston Martin,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,STR,18,56.0,94.716,9123.897,3.0,SOFT,19.0,Aston Martin,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,1.0,104.983,3546.976,1.0,MEDIUM,1.0,Williams,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,2.0,95.404,3642.38,1.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,3.0,94.932,3737.312,1.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,4.0,94.77,3832.082,1.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,5.0,95.888,3927.97,1.0,MEDIUM,5.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,6.0,135.327,4063.297,1.0,MEDIUM,6.0,Williams,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,7.0,127.97,4191.267,1.0,MEDIUM,7.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,8.0,144.68,4335.947,1.0,MEDIUM,8.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,9.0,143.515,4479.462,1.0,MEDIUM,9.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,10.0,140.112,4619.574,1.0,MEDIUM,10.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,11.0,145.176,4764.75,1.0,MEDIUM,11.0,Williams,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,12.0,95.206,4859.956,1.0,MEDIUM,12.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,13.0,94.553,4954.509,1.0,MEDIUM,13.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,14.0,94.161,5048.67,1.0,MEDIUM,14.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,15.0,95.47,5144.14,1.0,MEDIUM,15.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,16.0,95.245,5239.385,1.0,MEDIUM,16.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,17.0,95.824,5335.209,1.0,MEDIUM,17.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,18.0,95.189,5430.398,1.0,MEDIUM,18.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,19.0,94.979,5525.377,1.0,MEDIUM,19.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,20.0,95.212,5620.589,1.0,MEDIUM,20.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,21.0,94.879,5715.468,1.0,MEDIUM,21.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,22.0,94.8,5810.268,1.0,MEDIUM,22.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,23.0,95.097,5905.365,1.0,MEDIUM,23.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,24.0,95.901,6001.266,1.0,MEDIUM,24.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,25.0,95.119,6096.385,1.0,MEDIUM,25.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,26.0,94.964,6191.349,1.0,MEDIUM,26.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,27.0,99.764,6291.113,1.0,MEDIUM,27.0,Williams,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,28.0,107.798,6398.911,2.0,HARD,1.0,Williams,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,29.0,93.875,6492.786,2.0,HARD,2.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,30.0,93.784,6586.57,2.0,HARD,3.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,31.0,93.837,6680.407,2.0,HARD,4.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,32.0,94.194,6774.601,2.0,HARD,5.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,33.0,94.24,6868.841,2.0,HARD,6.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,34.0,94.433,6963.274,2.0,HARD,7.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,35.0,94.296,7057.57,2.0,HARD,8.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,36.0,94.201,7151.771,2.0,HARD,9.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,37.0,94.485,7246.256,2.0,HARD,10.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,38.0,94.44,7340.696,2.0,HARD,11.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,39.0,94.337,7435.033,2.0,HARD,12.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,40.0,94.439,7529.472,2.0,HARD,13.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,41.0,94.172,7623.644,2.0,HARD,14.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,42.0,94.366,7718.01,2.0,HARD,15.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,43.0,94.29,7812.3,2.0,HARD,16.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,44.0,94.139,7906.439,2.0,HARD,17.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,45.0,94.31,8000.749,2.0,HARD,18.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,46.0,94.199,8094.948,2.0,HARD,19.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,47.0,94.561,8189.509,2.0,HARD,20.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,48.0,94.325,8283.834,2.0,HARD,21.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,49.0,94.18,8378.014,2.0,HARD,22.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,50.0,94.356,8472.37,2.0,HARD,23.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,51.0,94.407,8566.777,2.0,HARD,24.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,52.0,94.287,8661.064,2.0,HARD,25.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,53.0,94.351,8755.415,2.0,HARD,26.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,54.0,94.253,8849.668,2.0,HARD,27.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,55.0,94.109,8943.777,2.0,HARD,28.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,56.0,94.163,9037.94,2.0,HARD,29.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,ALB,23,57.0,94.298,9132.238,2.0,HARD,30.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,1.0,114.251,3556.244,1.0,MEDIUM,1.0,Audi,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,2.0,120.274,3676.518,2.0,MEDIUM,1.0,Audi,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,3.0,94.93,3771.448,2.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,4.0,94.523,3865.971,2.0,MEDIUM,3.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,5.0,109.487,3975.458,2.0,MEDIUM,4.0,Audi,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,6.0,135.15,4110.608,2.0,MEDIUM,5.0,Audi,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HUL,27,7.0,,4282.019,2.0,MEDIUM,6.0,Audi,4,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,1.0,104.911,3546.904,1.0,MEDIUM,1.0,Red Bull Racing,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,2.0,93.464,3640.368,1.0,MEDIUM,2.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,3.0,93.239,3733.607,1.0,MEDIUM,3.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,4.0,93.536,3827.143,1.0,MEDIUM,4.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,5.0,94.09,3921.233,1.0,MEDIUM,5.0,Red Bull Racing,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,6.0,140.948,4062.181,1.0,MEDIUM,6.0,Red Bull Racing,24,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,7.0,142.654,4204.835,2.0,HARD,1.0,Red Bull Racing,4,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,8.0,141.939,4346.774,2.0,HARD,2.0,Red Bull Racing,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,9.0,142.583,4489.357,2.0,HARD,3.0,Red Bull Racing,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,10.0,140.172,4629.529,2.0,HARD,4.0,Red Bull Racing,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,11.0,139.443,4768.972,2.0,HARD,5.0,Red Bull Racing,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,12.0,95.784,4864.756,2.0,HARD,6.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,13.0,93.56,4958.316,2.0,HARD,7.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,14.0,93.63,5051.946,2.0,HARD,8.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,15.0,93.552,5145.498,2.0,HARD,9.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,16.0,94.118,5239.616,2.0,HARD,10.0,Red Bull Racing,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,17.0,93.799,5333.415,2.0,HARD,11.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,18.0,93.67,5427.085,2.0,HARD,12.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,19.0,93.381,5520.466,2.0,HARD,13.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,20.0,93.862,5614.328,2.0,HARD,14.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,21.0,93.341,5707.669,2.0,HARD,15.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,22.0,93.324,5800.993,2.0,HARD,16.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,23.0,93.355,5894.348,2.0,HARD,17.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,24.0,93.11,5987.458,2.0,HARD,18.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,25.0,93.499,6080.957,2.0,HARD,19.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,26.0,93.844,6174.801,2.0,HARD,20.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,27.0,93.472,6268.273,2.0,HARD,21.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,28.0,93.778,6362.051,2.0,HARD,22.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,29.0,94.35,6456.401,2.0,HARD,23.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,30.0,94.172,6550.573,2.0,HARD,24.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,31.0,93.281,6643.854,2.0,HARD,25.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,32.0,93.582,6737.436,2.0,HARD,26.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,33.0,93.542,6830.978,2.0,HARD,27.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,34.0,93.462,6924.44,2.0,HARD,28.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,35.0,93.45,7017.89,2.0,HARD,29.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,36.0,93.354,7111.244,2.0,HARD,30.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,37.0,93.113,7204.357,2.0,HARD,31.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,38.0,93.148,7297.505,2.0,HARD,32.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,39.0,93.168,7390.673,2.0,HARD,33.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,40.0,93.505,7484.178,2.0,HARD,34.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,41.0,93.775,7577.953,2.0,HARD,35.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,42.0,93.382,7671.335,2.0,HARD,36.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,43.0,93.739,7765.074,2.0,HARD,37.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,44.0,93.651,7858.725,2.0,HARD,38.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,45.0,93.448,7952.173,2.0,HARD,39.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,46.0,93.693,8045.866,2.0,HARD,40.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,47.0,94.983,8140.849,2.0,HARD,41.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,48.0,94.368,8235.217,2.0,HARD,42.0,Red Bull Racing,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,49.0,94.4,8329.617,2.0,HARD,43.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,50.0,93.592,8423.209,2.0,HARD,44.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,51.0,93.895,8517.104,2.0,HARD,45.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,52.0,93.931,8611.035,2.0,HARD,46.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,53.0,93.873,8704.908,2.0,HARD,47.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,54.0,94.243,8799.151,2.0,HARD,48.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,55.0,95.873,8895.024,2.0,HARD,49.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,56.0,95.577,8990.601,2.0,HARD,50.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,VER,3,57.0,94.614,9085.215,2.0,HARD,51.0,Red Bull Racing,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LAW,30,1.0,102.841,3544.834,1.0,MEDIUM,1.0,Racing Bulls,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LAW,30,2.0,97.079,3641.913,1.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LAW,30,3.0,94.814,3736.727,1.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LAW,30,4.0,95.184,3831.911,1.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LAW,30,5.0,122.852,3954.763,1.0,MEDIUM,5.0,Racing Bulls,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LAW,30,6.0,,4117.851,1.0,MEDIUM,6.0,Racing Bulls,4,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,1.0,105.5,3547.493,1.0,MEDIUM,1.0,Haas F1 Team,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,2.0,97.468,3644.961,1.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,3.0,95.181,3740.142,1.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,4.0,95.464,3835.606,1.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,5.0,95.306,3930.912,1.0,MEDIUM,5.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,6.0,135.341,4066.253,1.0,MEDIUM,6.0,Haas F1 Team,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,7.0,128.906,4195.159,1.0,MEDIUM,7.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,8.0,143.901,4339.06,1.0,MEDIUM,8.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,9.0,143.155,4482.215,1.0,MEDIUM,9.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,10.0,139.98,4622.195,1.0,MEDIUM,10.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,11.0,144.14,4766.335,1.0,MEDIUM,11.0,Haas F1 Team,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,12.0,95.213,4861.548,1.0,MEDIUM,12.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,13.0,95.07,4956.618,1.0,MEDIUM,13.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,14.0,94.862,5051.48,1.0,MEDIUM,14.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,15.0,95.665,5147.145,1.0,MEDIUM,15.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,16.0,95.196,5242.341,1.0,MEDIUM,16.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,17.0,95.127,5337.468,1.0,MEDIUM,17.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,18.0,95.226,5432.694,1.0,MEDIUM,18.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,19.0,94.966,5527.66,1.0,MEDIUM,19.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,20.0,95.21,5622.87,1.0,MEDIUM,20.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,21.0,95.117,5717.987,1.0,MEDIUM,21.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,22.0,96.17,5814.157,1.0,MEDIUM,22.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,23.0,95.001,5909.158,1.0,MEDIUM,23.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,24.0,95.213,6004.371,1.0,MEDIUM,24.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,25.0,95.403,6099.774,1.0,MEDIUM,25.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,26.0,95.011,6194.785,1.0,MEDIUM,26.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,27.0,95.469,6290.254,1.0,MEDIUM,27.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,28.0,95.468,6385.722,1.0,MEDIUM,28.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,29.0,95.526,6481.248,1.0,MEDIUM,29.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,30.0,95.393,6576.641,1.0,MEDIUM,30.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,31.0,100.336,6676.977,1.0,MEDIUM,31.0,Haas F1 Team,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,32.0,109.454,6786.431,2.0,HARD,1.0,Haas F1 Team,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,33.0,93.712,6880.143,2.0,HARD,2.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,34.0,94.051,6974.194,2.0,HARD,3.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,35.0,93.87,7068.064,2.0,HARD,4.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,36.0,94.25,7162.314,2.0,HARD,5.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,37.0,94.361,7256.675,2.0,HARD,6.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,38.0,94.538,7351.213,2.0,HARD,7.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,39.0,94.429,7445.642,2.0,HARD,8.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,40.0,94.464,7540.106,2.0,HARD,9.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,41.0,94.449,7634.555,2.0,HARD,10.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,42.0,94.589,7729.144,2.0,HARD,11.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,43.0,94.592,7823.736,2.0,HARD,12.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,44.0,94.527,7918.263,2.0,HARD,13.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,45.0,94.806,8013.069,2.0,HARD,14.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,46.0,95.655,8108.724,2.0,HARD,15.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,47.0,94.551,8203.275,2.0,HARD,16.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,48.0,94.26,8297.535,2.0,HARD,17.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,49.0,94.259,8391.794,2.0,HARD,18.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,50.0,96.679,8488.473,2.0,HARD,19.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,51.0,94.853,8583.326,2.0,HARD,20.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,52.0,94.439,8677.765,2.0,HARD,21.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,53.0,94.427,8772.192,2.0,HARD,22.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,54.0,94.124,8866.316,2.0,HARD,23.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,55.0,94.416,8960.732,2.0,HARD,24.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,OCO,31,56.0,94.407,9055.139,2.0,HARD,25.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,1.0,106.549,3548.542,1.0,MEDIUM,1.0,Racing Bulls,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,2.0,96.74,3645.282,1.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,3.0,96.21,3741.492,1.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,4.0,95.655,3837.147,1.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,5.0,97.123,3934.27,1.0,MEDIUM,5.0,Racing Bulls,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,6.0,134.208,4068.478,1.0,MEDIUM,6.0,Racing Bulls,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,7.0,128.705,4197.183,1.0,MEDIUM,7.0,Racing Bulls,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,8.0,142.988,4340.171,1.0,MEDIUM,8.0,Racing Bulls,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,9.0,143.196,4483.367,1.0,MEDIUM,9.0,Racing Bulls,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,10.0,140.944,4624.311,1.0,MEDIUM,10.0,Racing Bulls,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,11.0,142.693,4767.004,1.0,MEDIUM,11.0,Racing Bulls,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,12.0,96.776,4863.78,1.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,13.0,95.706,4959.486,1.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,14.0,95.233,5054.719,1.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,15.0,96.164,5150.883,1.0,MEDIUM,15.0,Racing Bulls,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,16.0,95.817,5246.7,1.0,MEDIUM,16.0,Racing Bulls,21,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,17.0,95.95,5342.65,1.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,18.0,95.94,5438.59,1.0,MEDIUM,18.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,19.0,96.865,5535.455,1.0,MEDIUM,19.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,20.0,96.422,5631.877,1.0,MEDIUM,20.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,21.0,96.012,5727.889,1.0,MEDIUM,21.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,22.0,95.953,5823.842,1.0,MEDIUM,22.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,23.0,95.698,5919.54,1.0,MEDIUM,23.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,24.0,95.891,6015.431,1.0,MEDIUM,24.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,25.0,96.038,6111.469,1.0,MEDIUM,25.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,26.0,95.835,6207.304,1.0,MEDIUM,26.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,27.0,96.07,6303.374,1.0,MEDIUM,27.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,28.0,100.923,6404.297,1.0,MEDIUM,28.0,Racing Bulls,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,29.0,109.027,6513.324,2.0,HARD,1.0,Racing Bulls,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,30.0,94.058,6607.382,2.0,HARD,2.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,31.0,94.175,6701.557,2.0,HARD,3.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,32.0,94.378,6795.935,2.0,HARD,4.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,33.0,95.071,6891.006,2.0,HARD,5.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,34.0,95.023,6986.029,2.0,HARD,6.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,35.0,94.864,7080.893,2.0,HARD,7.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,36.0,94.863,7175.756,2.0,HARD,8.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,37.0,95.058,7270.814,2.0,HARD,9.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,38.0,94.729,7365.543,2.0,HARD,10.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,39.0,94.548,7460.091,2.0,HARD,11.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,40.0,94.681,7554.772,2.0,HARD,12.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,41.0,94.676,7649.448,2.0,HARD,13.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,42.0,94.51,7743.958,2.0,HARD,14.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,43.0,94.686,7838.644,2.0,HARD,15.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,44.0,98.417,7937.061,2.0,HARD,16.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,45.0,94.598,8031.659,2.0,HARD,17.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,46.0,94.578,8126.237,2.0,HARD,18.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,47.0,94.579,8220.816,2.0,HARD,19.0,Racing Bulls,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,48.0,95.358,8316.174,2.0,HARD,20.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,49.0,94.818,8410.992,2.0,HARD,21.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,50.0,94.605,8505.597,2.0,HARD,22.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,51.0,94.553,8600.15,2.0,HARD,23.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,52.0,94.298,8694.448,2.0,HARD,24.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,53.0,97.343,8791.791,2.0,HARD,25.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,54.0,94.832,8886.623,2.0,HARD,26.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,55.0,94.482,8981.105,2.0,HARD,27.0,Racing Bulls,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,LIN,41,56.0,104.942,9086.047,2.0,HARD,28.0,Racing Bulls,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,1.0,101.556,3543.549,1.0,MEDIUM,1.0,Alpine,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,2.0,94.113,3637.662,1.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,3.0,94.46,3732.122,1.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,4.0,94.339,3826.461,1.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,5.0,94.736,3921.197,1.0,MEDIUM,5.0,Alpine,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,6.0,136.173,4057.37,1.0,MEDIUM,6.0,Alpine,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,7.0,131.996,4189.366,1.0,MEDIUM,7.0,Alpine,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,8.0,143.127,4332.493,1.0,MEDIUM,8.0,Alpine,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,9.0,146.366,4478.859,1.0,MEDIUM,9.0,Alpine,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,10.0,138.133,4616.992,1.0,MEDIUM,10.0,Alpine,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,11.0,147.279,4764.271,1.0,MEDIUM,11.0,Alpine,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,12.0,95.134,4859.405,1.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,13.0,94.246,4953.651,1.0,MEDIUM,13.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,14.0,93.941,5047.592,1.0,MEDIUM,14.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,15.0,94.124,5141.716,1.0,MEDIUM,15.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,16.0,94.137,5235.853,1.0,MEDIUM,16.0,Alpine,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,17.0,94.4,5330.253,1.0,MEDIUM,17.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,18.0,94.654,5424.907,1.0,MEDIUM,18.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,19.0,94.505,5519.412,1.0,MEDIUM,19.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,20.0,94.591,5614.003,1.0,MEDIUM,20.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,21.0,94.967,5708.97,1.0,MEDIUM,21.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,22.0,94.275,5803.245,1.0,MEDIUM,22.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,23.0,94.009,5897.254,1.0,MEDIUM,23.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,24.0,94.203,5991.457,1.0,MEDIUM,24.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,25.0,94.237,6085.694,1.0,MEDIUM,25.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,26.0,93.991,6179.685,1.0,MEDIUM,26.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,27.0,94.275,6273.96,1.0,MEDIUM,27.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,28.0,94.391,6368.351,1.0,MEDIUM,28.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,29.0,94.323,6462.674,1.0,MEDIUM,29.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,30.0,94.192,6556.866,1.0,MEDIUM,30.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,31.0,99.432,6656.298,1.0,MEDIUM,31.0,Alpine,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,32.0,108.726,6765.024,2.0,HARD,1.0,Alpine,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,33.0,93.035,6858.059,2.0,HARD,2.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,34.0,93.07,6951.129,2.0,HARD,3.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,35.0,93.162,7044.291,2.0,HARD,4.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,36.0,93.341,7137.632,2.0,HARD,5.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,37.0,93.756,7231.388,2.0,HARD,6.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,38.0,93.724,7325.112,2.0,HARD,7.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,39.0,93.717,7418.829,2.0,HARD,8.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,40.0,93.734,7512.563,2.0,HARD,9.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,41.0,93.803,7606.366,2.0,HARD,10.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,42.0,93.859,7700.225,2.0,HARD,11.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,43.0,93.416,7793.641,2.0,HARD,12.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,44.0,93.384,7887.025,2.0,HARD,13.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,45.0,93.951,7980.976,2.0,HARD,14.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,46.0,93.612,8074.588,2.0,HARD,15.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,47.0,93.332,8167.92,2.0,HARD,16.0,Alpine,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,48.0,93.721,8261.641,2.0,HARD,17.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,49.0,93.38,8355.021,2.0,HARD,18.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,50.0,94.176,8449.197,2.0,HARD,19.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,51.0,93.775,8542.972,2.0,HARD,20.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,52.0,93.791,8636.763,2.0,HARD,21.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,53.0,93.528,8730.291,2.0,HARD,22.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,54.0,93.304,8823.595,2.0,HARD,23.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,55.0,93.335,8916.93,2.0,HARD,24.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,56.0,93.059,9009.989,2.0,HARD,25.0,Alpine,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,COL,43,57.0,93.148,9103.137,2.0,HARD,26.0,Alpine,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,1.0,100.683,3542.676,1.0,MEDIUM,1.0,Ferrari,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,2.0,93.545,3636.221,1.0,MEDIUM,2.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,3.0,93.789,3730.01,1.0,MEDIUM,3.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,4.0,93.971,3823.981,1.0,MEDIUM,4.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,5.0,94.184,3918.165,1.0,MEDIUM,5.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,6.0,135.026,4053.191,1.0,MEDIUM,6.0,Ferrari,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,7.0,134.27,4187.461,1.0,MEDIUM,7.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,8.0,142.859,4330.32,1.0,MEDIUM,8.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,9.0,147.2,4477.52,1.0,MEDIUM,9.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,10.0,137.89,4615.41,1.0,MEDIUM,10.0,Ferrari,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,11.0,148.268,4763.678,1.0,MEDIUM,11.0,Ferrari,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,12.0,94.726,4858.404,1.0,MEDIUM,12.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,13.0,93.754,4952.158,1.0,MEDIUM,13.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,14.0,93.554,5045.712,1.0,MEDIUM,14.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,15.0,93.777,5139.489,1.0,MEDIUM,15.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,16.0,93.705,5233.194,1.0,MEDIUM,16.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,17.0,94.005,5327.199,1.0,MEDIUM,17.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,18.0,94.232,5421.431,1.0,MEDIUM,18.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,19.0,94.024,5515.455,1.0,MEDIUM,19.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,20.0,94.217,5609.672,1.0,MEDIUM,20.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,21.0,94.197,5703.869,1.0,MEDIUM,21.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,22.0,94.167,5798.036,1.0,MEDIUM,22.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,23.0,93.926,5891.962,1.0,MEDIUM,23.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,24.0,94.057,5986.019,1.0,MEDIUM,24.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,25.0,94.19,6080.209,1.0,MEDIUM,25.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,26.0,94.984,6175.193,1.0,MEDIUM,26.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,27.0,99.396,6274.589,1.0,MEDIUM,27.0,Ferrari,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,28.0,107.869,6382.458,2.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,29.0,92.676,6475.134,2.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,30.0,92.712,6567.846,2.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,31.0,92.864,6660.71,2.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,32.0,93.121,6753.831,2.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,33.0,92.98,6846.811,2.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,34.0,93.174,6939.985,2.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,35.0,92.939,7032.924,2.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,36.0,93.669,7126.593,2.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,37.0,94.803,7221.396,2.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,38.0,93.552,7314.948,2.0,HARD,11.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,39.0,93.098,7408.046,2.0,HARD,12.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,40.0,93.451,7501.497,2.0,HARD,13.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,41.0,93.283,7594.78,2.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,42.0,93.237,7688.017,2.0,HARD,15.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,43.0,93.129,7781.146,2.0,HARD,16.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,44.0,92.893,7874.039,2.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,45.0,93.129,7967.168,2.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,46.0,93.135,8060.303,2.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,47.0,93.34,8153.643,2.0,HARD,20.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,48.0,93.575,8247.218,2.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,49.0,93.635,8340.853,2.0,HARD,22.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,50.0,93.506,8434.359,2.0,HARD,23.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,51.0,93.57,8527.929,2.0,HARD,24.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,52.0,94.634,8622.563,2.0,HARD,25.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,53.0,94.302,8716.865,2.0,HARD,26.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,54.0,94.33,8811.195,2.0,HARD,27.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,55.0,94.307,8905.502,2.0,HARD,28.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,56.0,94.567,9000.069,2.0,HARD,29.0,Ferrari,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAM,44,57.0,94.95,9095.019,2.0,HARD,30.0,Ferrari,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,1.0,109.249,3551.242,1.0,MEDIUM,1.0,Audi,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,2.0,96.799,3648.041,1.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,3.0,96.384,3744.425,1.0,MEDIUM,3.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,4.0,96.533,3840.958,1.0,MEDIUM,4.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,5.0,97.279,3938.237,1.0,MEDIUM,5.0,Audi,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,6.0,135.495,4073.732,1.0,MEDIUM,6.0,Audi,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,7.0,128.77,4202.502,1.0,MEDIUM,7.0,Audi,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,8.0,140.751,4343.253,1.0,MEDIUM,8.0,Audi,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,9.0,142.618,4485.871,1.0,MEDIUM,9.0,Audi,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,10.0,140.774,4626.645,1.0,MEDIUM,10.0,Audi,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,11.0,141.504,4768.149,1.0,MEDIUM,11.0,Audi,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,12.0,97.16,4865.309,1.0,MEDIUM,12.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,13.0,95.549,4960.858,1.0,MEDIUM,13.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,14.0,95.807,5056.665,1.0,MEDIUM,14.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,15.0,95.722,5152.387,1.0,MEDIUM,15.0,Audi,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,16.0,95.485,5247.872,1.0,MEDIUM,16.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,17.0,95.493,5343.365,1.0,MEDIUM,17.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,18.0,95.843,5439.208,1.0,MEDIUM,18.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,19.0,95.793,5535.001,1.0,MEDIUM,19.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,20.0,95.789,5630.79,1.0,MEDIUM,20.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,21.0,95.15,5725.94,1.0,MEDIUM,21.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,22.0,95.049,5820.989,1.0,MEDIUM,22.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,23.0,94.653,5915.642,1.0,MEDIUM,23.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,24.0,94.996,6010.638,1.0,MEDIUM,24.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,25.0,95.001,6105.639,1.0,MEDIUM,25.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,26.0,94.911,6200.55,1.0,MEDIUM,26.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,27.0,95.252,6295.802,1.0,MEDIUM,27.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,28.0,94.973,6390.775,1.0,MEDIUM,28.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,29.0,95.023,6485.798,1.0,MEDIUM,29.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,30.0,95.026,6580.824,1.0,MEDIUM,30.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,31.0,95.204,6676.028,1.0,MEDIUM,31.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,32.0,100.472,6776.5,1.0,MEDIUM,32.0,Audi,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,33.0,108.829,6885.329,2.0,HARD,1.0,Audi,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,34.0,93.559,6978.888,2.0,HARD,2.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,35.0,93.902,7072.79,2.0,HARD,3.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,36.0,93.59,7166.38,2.0,HARD,4.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,37.0,93.745,7260.125,2.0,HARD,5.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,38.0,93.932,7354.057,2.0,HARD,6.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,39.0,93.955,7448.012,2.0,HARD,7.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,40.0,94.035,7542.047,2.0,HARD,8.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,41.0,93.639,7635.686,2.0,HARD,9.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,42.0,94.042,7729.728,2.0,HARD,10.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,43.0,94.738,7824.466,2.0,HARD,11.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,44.0,94.51,7918.976,2.0,HARD,12.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,45.0,94.427,8013.403,2.0,HARD,13.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,46.0,94.863,8108.266,2.0,HARD,14.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,47.0,94.171,8202.437,2.0,HARD,15.0,Audi,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,48.0,93.841,8296.278,2.0,HARD,16.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,49.0,94.27,8390.548,2.0,HARD,17.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,50.0,94.409,8484.957,2.0,HARD,18.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,51.0,95.743,8580.7,2.0,HARD,19.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,52.0,94.751,8675.451,2.0,HARD,20.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,53.0,93.854,8769.305,2.0,HARD,21.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,54.0,93.726,8863.031,2.0,HARD,22.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,55.0,93.5,8956.531,2.0,HARD,23.0,Audi,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOR,5,56.0,94.088,9050.619,2.0,HARD,24.0,Audi,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,1.0,105.235,3547.228,1.0,MEDIUM,1.0,Williams,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,2.0,95.889,3643.117,1.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,3.0,95.295,3738.412,1.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,4.0,94.844,3833.256,1.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,5.0,96.681,3929.937,1.0,MEDIUM,5.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,6.0,134.301,4064.238,1.0,MEDIUM,6.0,Williams,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,7.0,128.424,4192.662,1.0,MEDIUM,7.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,8.0,144.658,4337.32,1.0,MEDIUM,8.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,9.0,143.29,4480.61,1.0,MEDIUM,9.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,10.0,140.239,4620.849,1.0,MEDIUM,10.0,Williams,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,11.0,144.363,4765.212,1.0,MEDIUM,11.0,Williams,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,12.0,95.161,4860.373,1.0,MEDIUM,12.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,13.0,94.884,4955.257,1.0,MEDIUM,13.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,14.0,93.978,5049.235,1.0,MEDIUM,14.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,15.0,94.223,5143.458,1.0,MEDIUM,15.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,16.0,94.767,5238.225,1.0,MEDIUM,16.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,17.0,94.819,5333.044,1.0,MEDIUM,17.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,18.0,95.463,5428.507,1.0,MEDIUM,18.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,19.0,94.773,5523.28,1.0,MEDIUM,19.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,20.0,94.8,5618.08,1.0,MEDIUM,20.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,21.0,94.968,5713.048,1.0,MEDIUM,21.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,22.0,94.601,5807.649,1.0,MEDIUM,22.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,23.0,94.651,5902.3,1.0,MEDIUM,23.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,24.0,94.624,5996.924,1.0,MEDIUM,24.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,25.0,95.297,6092.221,1.0,MEDIUM,25.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,26.0,96.136,6188.357,1.0,MEDIUM,26.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,27.0,94.842,6283.199,1.0,MEDIUM,27.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,28.0,99.86,6383.059,1.0,MEDIUM,28.0,Williams,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,29.0,108.534,6491.593,2.0,HARD,1.0,Williams,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,30.0,93.026,6584.619,2.0,HARD,2.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,31.0,93.311,6677.93,2.0,HARD,3.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,32.0,93.737,6771.667,2.0,HARD,4.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,33.0,93.547,6865.214,2.0,HARD,5.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,34.0,94.042,6959.256,2.0,HARD,6.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,35.0,93.968,7053.224,2.0,HARD,7.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,36.0,93.818,7147.042,2.0,HARD,8.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,37.0,94.082,7241.124,2.0,HARD,9.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,38.0,94.237,7335.361,2.0,HARD,10.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,39.0,94.234,7429.595,2.0,HARD,11.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,40.0,93.988,7523.583,2.0,HARD,12.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,41.0,94.315,7617.898,2.0,HARD,13.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,42.0,94.394,7712.292,2.0,HARD,14.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,43.0,94.241,7806.533,2.0,HARD,15.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,44.0,93.866,7900.399,2.0,HARD,16.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,45.0,94.046,7994.445,2.0,HARD,17.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,46.0,94.07,8088.515,2.0,HARD,18.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,47.0,93.978,8182.493,2.0,HARD,19.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,48.0,94.004,8276.497,2.0,HARD,20.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,49.0,93.98,8370.477,2.0,HARD,21.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,50.0,93.893,8464.37,2.0,HARD,22.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,51.0,94.102,8558.472,2.0,HARD,23.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,52.0,94.172,8652.644,2.0,HARD,24.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,53.0,93.989,8746.633,2.0,HARD,25.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,54.0,93.858,8840.491,2.0,HARD,26.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,55.0,93.951,8934.442,2.0,HARD,27.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,56.0,94.341,9028.783,2.0,HARD,28.0,Williams,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,SAI,55,57.0,94.555,9123.338,2.0,HARD,29.0,Williams,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAD,6,1.0,109.627,3551.62,1.0,HARD,1.0,Red Bull Racing,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,HAD,6,2.0,96.068,3647.688,1.0,HARD,2.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAD,6,3.0,95.188,3742.876,1.0,HARD,3.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAD,6,4.0,94.833,3837.709,1.0,HARD,4.0,Red Bull Racing,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,HAD,6,5.0,,3987.709,1.0,HARD,5.0,Red Bull Racing,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,1.0,99.258,3541.251,1.0,MEDIUM,1.0,Mercedes,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,2.0,93.194,3634.445,1.0,MEDIUM,2.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,3.0,93.574,3728.019,1.0,MEDIUM,3.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,4.0,93.873,3821.892,1.0,MEDIUM,4.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,5.0,93.837,3915.729,1.0,MEDIUM,5.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,6.0,130.928,4046.657,1.0,MEDIUM,6.0,Mercedes,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,7.0,137.484,4184.141,1.0,MEDIUM,7.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,8.0,142.95,4327.091,1.0,MEDIUM,8.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,9.0,147.445,4474.536,1.0,MEDIUM,9.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,10.0,138.393,4612.929,1.0,MEDIUM,10.0,Mercedes,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,11.0,149.958,4762.887,1.0,MEDIUM,11.0,Mercedes,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,12.0,94.951,4857.838,1.0,MEDIUM,12.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,13.0,93.583,4951.421,1.0,MEDIUM,13.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,14.0,93.818,5045.239,1.0,MEDIUM,14.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,15.0,93.495,5138.734,1.0,MEDIUM,15.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,16.0,93.565,5232.299,1.0,MEDIUM,16.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,17.0,93.99,5326.289,1.0,MEDIUM,17.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,18.0,94.058,5420.347,1.0,MEDIUM,18.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,19.0,93.873,5514.22,1.0,MEDIUM,19.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,20.0,99.114,5613.334,1.0,MEDIUM,20.0,Mercedes,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,21.0,105.973,5719.307,2.0,HARD,1.0,Mercedes,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,22.0,92.636,5811.943,2.0,HARD,2.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,23.0,93.752,5905.695,2.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,24.0,94.363,6000.058,2.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,25.0,93.069,6093.127,2.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,26.0,93.423,6186.55,2.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,27.0,93.205,6279.755,2.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,28.0,92.957,6372.712,2.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,29.0,92.906,6465.618,2.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,30.0,93.639,6559.257,2.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,31.0,94.234,6653.491,2.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,32.0,93.326,6746.817,2.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,33.0,93.547,6840.364,2.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,34.0,94.33,6934.694,2.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,35.0,94.952,7029.646,2.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,36.0,93.722,7123.368,2.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,37.0,93.203,7216.571,2.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,38.0,93.237,7309.808,2.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,39.0,92.977,7402.785,2.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,40.0,93.177,7495.962,2.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,41.0,92.898,7588.86,2.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,42.0,93.198,7682.058,2.0,HARD,22.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,43.0,93.293,7775.351,2.0,HARD,23.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,44.0,93.747,7869.098,2.0,HARD,24.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,45.0,93.07,7962.168,2.0,HARD,25.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,46.0,93.302,8055.47,2.0,HARD,26.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,47.0,93.261,8148.731,2.0,HARD,27.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,48.0,93.272,8242.003,2.0,HARD,28.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,49.0,92.741,8334.744,2.0,HARD,29.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,50.0,92.701,8427.445,2.0,HARD,30.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,51.0,92.807,8520.252,2.0,HARD,31.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,52.0,92.877,8613.129,2.0,HARD,32.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,53.0,92.446,8705.575,2.0,HARD,33.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,54.0,93.81,8799.385,2.0,HARD,34.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,55.0,96.203,8895.588,2.0,HARD,35.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,56.0,94.187,8989.775,2.0,HARD,36.0,Mercedes,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,RUS,63,57.0,94.542,9084.317,2.0,HARD,37.0,Mercedes,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,1.0,110.494,3552.487,1.0,MEDIUM,1.0,Cadillac,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,2.0,96.788,3649.275,1.0,MEDIUM,2.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,3.0,96.607,3745.882,1.0,MEDIUM,3.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,4.0,96.617,3842.499,1.0,MEDIUM,4.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,5.0,102.642,3945.141,1.0,MEDIUM,5.0,Cadillac,124,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,6.0,137.329,4082.47,1.0,MEDIUM,6.0,Cadillac,4,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,7.0,128.7,4211.17,2.0,SOFT,1.0,Cadillac,4,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,8.0,140.142,4351.312,2.0,SOFT,2.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,9.0,143.853,4495.165,2.0,SOFT,3.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,10.0,138.118,4633.283,2.0,SOFT,4.0,Cadillac,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,11.0,136.82,4770.103,2.0,SOFT,5.0,Cadillac,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,12.0,96.419,4866.522,2.0,SOFT,6.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,13.0,96.61,4963.132,2.0,SOFT,7.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,14.0,96.326,5059.458,2.0,SOFT,8.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,15.0,96.355,5155.813,2.0,SOFT,9.0,Cadillac,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,16.0,96.08,5251.893,2.0,SOFT,10.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,17.0,96.766,5348.659,2.0,SOFT,11.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,18.0,96.719,5445.378,2.0,SOFT,12.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,19.0,96.902,5542.28,2.0,SOFT,13.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,20.0,97.904,5640.184,2.0,SOFT,14.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,21.0,102.797,5742.981,2.0,SOFT,15.0,Cadillac,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,22.0,111.648,5854.629,3.0,MEDIUM,1.0,Cadillac,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,23.0,96.375,5951.004,3.0,MEDIUM,2.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,24.0,97.448,6048.452,3.0,MEDIUM,3.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,25.0,96.449,6144.901,3.0,MEDIUM,4.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,26.0,96.262,6241.163,3.0,MEDIUM,5.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,27.0,96.571,6337.734,3.0,MEDIUM,6.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,28.0,96.649,6434.383,3.0,MEDIUM,7.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,29.0,96.481,6530.864,3.0,MEDIUM,8.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,30.0,102.584,6633.448,3.0,MEDIUM,9.0,Cadillac,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,31.0,108.779,6742.227,4.0,MEDIUM,10.0,Cadillac,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,32.0,99.743,6841.97,4.0,MEDIUM,11.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,33.0,97.687,6939.657,4.0,MEDIUM,12.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,34.0,97.857,7037.514,4.0,MEDIUM,13.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,35.0,97.114,7134.628,4.0,MEDIUM,14.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,36.0,98.662,7233.29,4.0,MEDIUM,15.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,37.0,98.08,7331.37,4.0,MEDIUM,16.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,38.0,97.759,7429.129,4.0,MEDIUM,17.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,39.0,99.233,7528.362,4.0,MEDIUM,18.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,40.0,100.195,7628.557,4.0,MEDIUM,19.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,41.0,97.855,7726.412,4.0,MEDIUM,20.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,42.0,100.123,7826.535,4.0,MEDIUM,21.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,43.0,97.641,7924.176,4.0,MEDIUM,22.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,44.0,97.88,8022.056,4.0,MEDIUM,23.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,45.0,100.655,8122.711,4.0,MEDIUM,24.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,46.0,99.005,8221.716,4.0,MEDIUM,25.0,Cadillac,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,47.0,97.707,8319.423,4.0,MEDIUM,26.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,48.0,98.102,8417.525,4.0,MEDIUM,27.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,49.0,102.264,8519.789,4.0,MEDIUM,28.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,50.0,98.37,8618.159,4.0,MEDIUM,29.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,51.0,97.283,8715.442,4.0,MEDIUM,30.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,52.0,99.178,8814.62,4.0,MEDIUM,31.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,53.0,97.322,8911.942,4.0,MEDIUM,32.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,54.0,97.595,9009.537,4.0,MEDIUM,33.0,Cadillac,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BOT,77,55.0,99.984,9109.521,4.0,MEDIUM,34.0,Cadillac,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,1.0,98.7,3540.693,1.0,MEDIUM,1.0,McLaren,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,2.0,93.525,3634.218,1.0,MEDIUM,2.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,3.0,94.364,3728.582,1.0,MEDIUM,3.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,4.0,94.089,3822.671,1.0,MEDIUM,4.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,5.0,93.491,3916.162,1.0,MEDIUM,5.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,6.0,131.907,4048.069,1.0,MEDIUM,6.0,McLaren,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,7.0,137.314,4185.383,1.0,MEDIUM,7.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,8.0,143.63,4329.013,1.0,MEDIUM,8.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,9.0,147.376,4476.389,1.0,MEDIUM,9.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,10.0,138.535,4614.924,1.0,MEDIUM,10.0,McLaren,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,11.0,148.408,4763.332,1.0,MEDIUM,11.0,McLaren,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,12.0,93.518,4856.85,1.0,MEDIUM,12.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,13.0,93.463,4950.313,1.0,MEDIUM,13.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,14.0,93.22,5043.533,1.0,MEDIUM,14.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,15.0,93.497,5137.03,1.0,MEDIUM,15.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,16.0,93.744,5230.774,1.0,MEDIUM,16.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,17.0,94.581,5325.355,1.0,MEDIUM,17.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,18.0,94.013,5419.368,1.0,MEDIUM,18.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,19.0,93.718,5513.086,1.0,MEDIUM,19.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,20.0,93.477,5606.563,1.0,MEDIUM,20.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,21.0,93.541,5700.104,1.0,MEDIUM,21.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,22.0,93.874,5793.978,1.0,MEDIUM,22.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,23.0,93.83,5887.808,1.0,MEDIUM,23.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,24.0,93.64,5981.448,1.0,MEDIUM,24.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,25.0,94.551,6075.999,1.0,MEDIUM,25.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,26.0,94.071,6170.07,1.0,MEDIUM,26.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,27.0,93.95,6264.02,1.0,MEDIUM,27.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,28.0,98.991,6363.011,1.0,MEDIUM,28.0,McLaren,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,29.0,107.494,6470.505,2.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,30.0,91.949,6562.454,2.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,31.0,92.439,6654.893,2.0,HARD,3.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,32.0,92.398,6747.291,2.0,HARD,4.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,33.0,93.32,6840.611,2.0,HARD,5.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,34.0,94.217,6934.828,2.0,HARD,6.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,35.0,94.257,7029.085,2.0,HARD,7.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,36.0,93.268,7122.353,2.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,37.0,92.836,7215.189,2.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,38.0,92.55,7307.739,2.0,HARD,10.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,39.0,92.593,7400.332,2.0,HARD,11.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,40.0,92.524,7492.856,2.0,HARD,12.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,41.0,92.8,7585.656,2.0,HARD,13.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,42.0,92.664,7678.32,2.0,HARD,14.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,43.0,92.838,7771.158,2.0,HARD,15.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,44.0,92.784,7863.942,2.0,HARD,16.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,45.0,92.298,7956.24,2.0,HARD,17.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,46.0,92.496,8048.736,2.0,HARD,18.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,47.0,92.61,8141.346,2.0,HARD,19.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,48.0,93.578,8234.924,2.0,HARD,20.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,49.0,92.759,8327.683,2.0,HARD,21.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,50.0,92.425,8420.108,2.0,HARD,22.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,51.0,92.416,8512.524,2.0,HARD,23.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,52.0,92.449,8604.973,2.0,HARD,24.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,53.0,92.22,8697.193,2.0,HARD,25.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,54.0,91.986,8789.179,2.0,HARD,26.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,55.0,92.696,8881.875,2.0,HARD,27.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,56.0,93.246,8975.121,2.0,HARD,28.0,McLaren,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,PIA,81,57.0,93.237,9068.358,2.0,HARD,29.0,McLaren,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,1.0,105.758,3547.751,1.0,MEDIUM,1.0,Haas F1 Team,1,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,2.0,96.946,3644.697,1.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,3.0,94.892,3739.589,1.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,4.0,95.041,3834.63,1.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,5.0,95.796,3930.426,1.0,MEDIUM,5.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,6.0,134.875,4065.301,1.0,MEDIUM,6.0,Haas F1 Team,24,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,7.0,129.357,4194.658,1.0,MEDIUM,7.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,8.0,143.393,4338.051,1.0,MEDIUM,8.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,9.0,143.301,4481.352,1.0,MEDIUM,9.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,10.0,139.786,4621.138,1.0,MEDIUM,10.0,Haas F1 Team,4,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,11.0,144.654,4765.792,1.0,MEDIUM,11.0,Haas F1 Team,41,False,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,12.0,95.269,4861.061,1.0,MEDIUM,12.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,13.0,95.032,4956.093,1.0,MEDIUM,13.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,14.0,94.617,5050.71,1.0,MEDIUM,14.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,15.0,95.111,5145.821,1.0,MEDIUM,15.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,16.0,94.876,5240.697,1.0,MEDIUM,16.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,17.0,95.207,5335.904,1.0,MEDIUM,17.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,18.0,95.176,5431.08,1.0,MEDIUM,18.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,19.0,95.097,5526.177,1.0,MEDIUM,19.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,20.0,95.105,5621.282,1.0,MEDIUM,20.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,21.0,95.271,5716.553,1.0,MEDIUM,21.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,22.0,94.971,5811.524,1.0,MEDIUM,22.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,23.0,96.529,5908.053,1.0,MEDIUM,23.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,24.0,95.107,6003.16,1.0,MEDIUM,24.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,25.0,95.015,6098.175,1.0,MEDIUM,25.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,26.0,99.688,6197.863,1.0,MEDIUM,26.0,Haas F1 Team,1,False,True,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,27.0,108.534,6306.397,2.0,HARD,1.0,Haas F1 Team,1,False,False,True,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,28.0,93.744,6400.141,2.0,HARD,2.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,29.0,94.061,6494.202,2.0,HARD,3.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,30.0,93.841,6588.043,2.0,HARD,4.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,31.0,94.085,6682.128,2.0,HARD,5.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,32.0,94.102,6776.23,2.0,HARD,6.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,33.0,93.867,6870.097,2.0,HARD,7.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,34.0,94.303,6964.4,2.0,HARD,8.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,35.0,94.198,7058.598,2.0,HARD,9.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,36.0,94.273,7152.871,2.0,HARD,10.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,37.0,94.245,7247.116,2.0,HARD,11.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,38.0,94.369,7341.485,2.0,HARD,12.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,39.0,94.403,7435.888,2.0,HARD,13.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,40.0,94.359,7530.247,2.0,HARD,14.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,41.0,94.444,7624.691,2.0,HARD,15.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,42.0,94.408,7719.099,2.0,HARD,16.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,43.0,94.879,7813.978,2.0,HARD,17.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,44.0,94.482,7908.46,2.0,HARD,18.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,45.0,94.588,8003.048,2.0,HARD,19.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,46.0,94.353,8097.401,2.0,HARD,20.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,47.0,97.535,8194.936,2.0,HARD,21.0,Haas F1 Team,12,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,48.0,94.753,8289.689,2.0,HARD,22.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,49.0,94.342,8384.031,2.0,HARD,23.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,50.0,94.287,8478.318,2.0,HARD,24.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,51.0,94.447,8572.765,2.0,HARD,25.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,52.0,94.72,8667.485,2.0,HARD,26.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,53.0,94.356,8761.841,2.0,HARD,27.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,54.0,95.415,8857.256,2.0,HARD,28.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,55.0,95.896,8953.152,2.0,HARD,29.0,Haas F1 Team,1,True,False,False,False
+2026,4,Miami Grand Prix,2026-05-03,BEA,87,56.0,94.514,9047.666,2.0,HARD,30.0,Haas F1 Team,12,True,False,False,False

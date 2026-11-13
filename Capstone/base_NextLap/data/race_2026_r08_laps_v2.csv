@@ -1,0 +1,1340 @@
+season,round,event_name,event_date,driver,driver_number,lap_number,lap_time_s,end_time_s,stint,compound,tyre_life,team,track_status,is_accurate,pit_in,pit_out,deleted
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,1.0,78.505,3506.451,1.0,MEDIUM,1.0,McLaren,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,2.0,73.406,3579.857,1.0,MEDIUM,2.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,3.0,73.015,3652.872,1.0,MEDIUM,3.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,4.0,72.63,3725.502,1.0,MEDIUM,4.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,5.0,72.439,3797.941,1.0,MEDIUM,5.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,6.0,72.493,3870.434,1.0,MEDIUM,6.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,7.0,73.459,3943.893,1.0,MEDIUM,7.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,8.0,73.025,4016.918,1.0,MEDIUM,8.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,9.0,73.013,4089.931,1.0,MEDIUM,9.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,10.0,73.197,4163.128,1.0,MEDIUM,10.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,11.0,73.335,4236.463,1.0,MEDIUM,11.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,12.0,73.25,4309.713,1.0,MEDIUM,12.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,13.0,73.591,4383.304,1.0,MEDIUM,13.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,14.0,73.423,4456.727,1.0,MEDIUM,14.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,15.0,73.419,4530.146,1.0,MEDIUM,15.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,16.0,73.323,4603.469,1.0,MEDIUM,16.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,17.0,73.157,4676.626,1.0,MEDIUM,17.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,18.0,73.381,4750.007,1.0,MEDIUM,18.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,19.0,74.33,4824.337,1.0,MEDIUM,19.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,20.0,73.655,4897.992,1.0,MEDIUM,20.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,21.0,78.354,4976.346,1.0,MEDIUM,21.0,McLaren,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,22.0,90.005,5066.351,2.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,23.0,72.148,5138.499,2.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,24.0,78.463,5216.962,2.0,HARD,3.0,McLaren,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,25.0,96.995,5313.957,2.0,HARD,4.0,McLaren,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,26.0,84.972,5398.929,2.0,HARD,5.0,McLaren,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,27.0,71.773,5470.702,2.0,HARD,6.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,28.0,71.568,5542.27,2.0,HARD,7.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,29.0,71.843,5614.113,2.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,30.0,71.797,5685.91,2.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,31.0,71.666,5757.576,2.0,HARD,10.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,32.0,71.593,5829.169,2.0,HARD,11.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,33.0,71.542,5900.711,2.0,HARD,12.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,34.0,71.916,5972.627,2.0,HARD,13.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,35.0,71.547,6044.174,2.0,HARD,14.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,36.0,71.824,6115.998,2.0,HARD,15.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,37.0,72.345,6188.343,2.0,HARD,16.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,38.0,71.788,6260.131,2.0,HARD,17.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,39.0,72.229,6332.36,2.0,HARD,18.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,40.0,72.078,6404.438,2.0,HARD,19.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,41.0,72.134,6476.572,2.0,HARD,20.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,42.0,71.746,6548.318,2.0,HARD,21.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,43.0,72.194,6620.512,2.0,HARD,22.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,44.0,72.353,6692.865,2.0,HARD,23.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,45.0,72.274,6765.139,2.0,HARD,24.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,46.0,72.465,6837.604,2.0,HARD,25.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,47.0,76.801,6914.405,2.0,HARD,26.0,McLaren,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,48.0,88.64,7003.045,3.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,49.0,70.994,7074.039,3.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,50.0,70.865,7144.904,3.0,HARD,3.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,51.0,71.17,7216.074,3.0,HARD,4.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,52.0,82.848,7298.922,3.0,HARD,5.0,McLaren,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,53.0,70.659,7369.581,3.0,HARD,6.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,54.0,70.983,7440.564,3.0,HARD,7.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,55.0,70.652,7511.216,3.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,56.0,70.907,7582.123,3.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,57.0,70.979,7653.102,3.0,HARD,10.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,58.0,71.465,7724.567,3.0,HARD,11.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,59.0,71.584,7796.151,3.0,HARD,12.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,60.0,71.216,7867.367,3.0,HARD,13.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,61.0,71.205,7938.572,3.0,HARD,14.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,62.0,71.586,8010.158,3.0,HARD,15.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,63.0,71.385,8081.543,3.0,HARD,16.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,64.0,71.318,8152.861,3.0,HARD,17.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,65.0,71.409,8224.27,3.0,HARD,18.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,66.0,71.497,8295.767,3.0,HARD,19.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,67.0,72.49,8368.257,3.0,HARD,20.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,68.0,71.939,8440.196,3.0,HARD,21.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,69.0,71.821,8512.017,3.0,HARD,22.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,70.0,72.674,8584.691,3.0,HARD,23.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,NOR,1,71.0,72.739,8657.43,3.0,HARD,24.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,1.0,80.728,3508.674,1.0,MEDIUM,1.0,Alpine,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,2.0,74.455,3583.129,1.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,3.0,73.713,3656.842,1.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,4.0,74.015,3730.857,1.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,5.0,74.023,3804.88,1.0,MEDIUM,5.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,6.0,74.065,3878.945,1.0,MEDIUM,6.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,7.0,74.705,3953.65,1.0,MEDIUM,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,8.0,74.513,4028.163,1.0,MEDIUM,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,9.0,74.864,4103.027,1.0,MEDIUM,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,10.0,75.154,4178.181,1.0,MEDIUM,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,11.0,75.588,4253.769,1.0,MEDIUM,11.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,12.0,74.943,4328.712,1.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,13.0,79.306,4408.018,1.0,MEDIUM,13.0,Alpine,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,14.0,90.469,4498.487,2.0,HARD,1.0,Alpine,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,15.0,72.983,4571.47,2.0,HARD,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,16.0,73.349,4644.819,2.0,HARD,3.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,17.0,73.244,4718.063,2.0,HARD,4.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,18.0,73.04,4791.103,2.0,HARD,5.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,19.0,72.932,4864.035,2.0,HARD,6.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,20.0,72.916,4936.951,2.0,HARD,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,21.0,72.772,5009.723,2.0,HARD,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,22.0,72.985,5082.708,2.0,HARD,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,23.0,73.89,5156.598,2.0,HARD,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,24.0,83.514,5240.112,2.0,HARD,11.0,Alpine,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,25.0,96.491,5336.603,2.0,HARD,12.0,Alpine,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,26.0,82.551,5419.154,2.0,HARD,13.0,Alpine,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,27.0,73.061,5492.215,2.0,HARD,14.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,28.0,72.923,5565.138,2.0,HARD,15.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,29.0,73.094,5638.232,2.0,HARD,16.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,30.0,73.146,5711.378,2.0,HARD,17.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,31.0,73.156,5784.534,2.0,HARD,18.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,32.0,73.184,5857.718,2.0,HARD,19.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,33.0,73.464,5931.182,2.0,HARD,20.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,34.0,73.591,6004.773,2.0,HARD,21.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,35.0,73.749,6078.522,2.0,HARD,22.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,36.0,73.927,6152.449,2.0,HARD,23.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,37.0,73.947,6226.396,2.0,HARD,24.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,38.0,78.051,6304.447,2.0,HARD,25.0,Alpine,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,39.0,89.337,6393.784,3.0,MEDIUM,1.0,Alpine,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,40.0,72.259,6466.043,3.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,41.0,72.291,6538.334,3.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,42.0,72.583,6610.917,3.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,43.0,72.471,6683.388,3.0,MEDIUM,5.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,44.0,72.371,6755.759,3.0,MEDIUM,6.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,45.0,72.718,6828.477,3.0,MEDIUM,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,46.0,72.366,6900.843,3.0,MEDIUM,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,47.0,72.967,6973.81,3.0,MEDIUM,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,48.0,73.261,7047.071,3.0,MEDIUM,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,49.0,72.557,7119.628,3.0,MEDIUM,11.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,50.0,72.686,7192.314,3.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,51.0,78.808,7271.122,3.0,MEDIUM,13.0,Alpine,16,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,52.0,91.156,7362.278,4.0,SOFT,1.0,Alpine,671,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,53.0,73.63,7435.908,4.0,SOFT,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,54.0,71.466,7507.374,4.0,SOFT,3.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,55.0,72.805,7580.179,4.0,SOFT,4.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,56.0,72.053,7652.232,4.0,SOFT,5.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,57.0,73.102,7725.334,4.0,SOFT,6.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,58.0,73.762,7799.096,4.0,SOFT,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,59.0,71.953,7871.049,4.0,SOFT,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,60.0,71.581,7942.63,4.0,SOFT,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,61.0,71.651,8014.281,4.0,SOFT,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,62.0,71.625,8085.906,4.0,SOFT,11.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,63.0,71.779,8157.685,4.0,SOFT,12.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,64.0,73.001,8230.686,4.0,SOFT,13.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,65.0,72.076,8302.762,4.0,SOFT,14.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,66.0,72.223,8374.985,4.0,SOFT,15.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,67.0,72.562,8447.547,4.0,SOFT,16.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,68.0,71.986,8519.533,4.0,SOFT,17.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,69.0,72.97,8592.503,4.0,SOFT,18.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,GAS,10,70.0,72.673,8665.176,4.0,SOFT,19.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PER,11,1.0,82.791,3510.737,1.0,MEDIUM,1.0,Cadillac,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PER,11,2.0,75.275,3586.012,1.0,MEDIUM,2.0,Cadillac,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PER,11,3.0,74.448,3660.46,1.0,MEDIUM,3.0,Cadillac,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PER,11,4.0,84.857,3745.317,1.0,MEDIUM,4.0,Cadillac,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,1.0,76.931,3504.877,1.0,MEDIUM,1.0,Mercedes,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,2.0,74.216,3579.093,1.0,MEDIUM,2.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,3.0,72.568,3651.661,1.0,MEDIUM,3.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,4.0,72.114,3723.775,1.0,MEDIUM,4.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,5.0,72.168,3795.943,1.0,MEDIUM,5.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,6.0,72.285,3868.228,1.0,MEDIUM,6.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,7.0,72.607,3940.835,1.0,MEDIUM,7.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,8.0,72.163,4012.998,1.0,MEDIUM,8.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,9.0,72.268,4085.266,1.0,MEDIUM,9.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,10.0,72.586,4157.852,1.0,MEDIUM,10.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,11.0,73.147,4230.999,1.0,MEDIUM,11.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,12.0,73.221,4304.22,1.0,MEDIUM,12.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,13.0,72.782,4377.002,1.0,MEDIUM,13.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,14.0,72.696,4449.698,1.0,MEDIUM,14.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,15.0,72.993,4522.691,1.0,MEDIUM,15.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,16.0,72.883,4595.574,1.0,MEDIUM,16.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,17.0,72.474,4668.048,1.0,MEDIUM,17.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,18.0,72.816,4740.864,1.0,MEDIUM,18.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,19.0,72.476,4813.34,1.0,MEDIUM,19.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,20.0,73.419,4886.759,1.0,MEDIUM,20.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,21.0,72.804,4959.563,1.0,MEDIUM,21.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,22.0,73.952,5033.515,1.0,MEDIUM,22.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,23.0,73.136,5106.651,1.0,MEDIUM,23.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,24.0,78.234,5184.885,1.0,MEDIUM,24.0,Mercedes,12,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,25.0,113.381,5298.266,2.0,HARD,1.0,Mercedes,26,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,26.0,90.081,5388.347,2.0,HARD,2.0,Mercedes,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,27.0,71.342,5459.689,2.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,28.0,71.395,5531.084,2.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,29.0,72.092,5603.176,2.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,30.0,71.297,5674.473,2.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,31.0,71.43,5745.903,2.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,32.0,71.23,5817.133,2.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,33.0,71.368,5888.501,2.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,34.0,71.356,5959.857,2.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,35.0,71.363,6031.22,2.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,36.0,71.26,6102.48,2.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,37.0,71.327,6173.807,2.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,38.0,71.595,6245.402,2.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,39.0,71.644,6317.046,2.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,40.0,72.599,6389.645,2.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,41.0,72.131,6461.776,2.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,42.0,71.507,6533.283,2.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,43.0,71.691,6604.974,2.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,44.0,71.723,6676.697,2.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,45.0,71.825,6748.522,2.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,46.0,71.748,6820.27,2.0,HARD,22.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,47.0,71.785,6892.055,2.0,HARD,23.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,48.0,71.746,6963.801,2.0,HARD,24.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,49.0,72.214,7036.015,2.0,HARD,25.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,50.0,72.121,7108.136,2.0,HARD,26.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,51.0,76.579,7184.715,2.0,HARD,27.0,Mercedes,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,52.0,96.107,7280.822,3.0,HARD,1.0,Mercedes,16,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,53.0,75.677,7356.499,3.0,HARD,2.0,Mercedes,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,54.0,70.424,7426.923,3.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,55.0,70.444,7497.367,3.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,56.0,70.43,7567.797,3.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,57.0,70.47,7638.267,3.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,58.0,70.632,7708.899,3.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,59.0,70.374,7779.273,3.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,60.0,70.391,7849.664,3.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,61.0,70.442,7920.106,3.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,62.0,70.892,7990.998,3.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,63.0,71.051,8062.049,3.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,64.0,70.895,8132.944,3.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,65.0,70.64,8203.584,3.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,66.0,70.732,8274.316,3.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,67.0,71.031,8345.347,3.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,68.0,70.549,8415.896,3.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,69.0,70.407,8486.303,3.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,70.0,70.675,8556.978,3.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ANT,12,71.0,70.933,8627.911,3.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,1.0,83.498,3511.444,1.0,MEDIUM,1.0,Aston Martin,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,2.0,75.948,3587.392,1.0,MEDIUM,2.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,3.0,74.905,3662.297,1.0,MEDIUM,3.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,4.0,75.429,3737.726,1.0,MEDIUM,4.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,5.0,74.923,3812.649,1.0,MEDIUM,5.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,6.0,75.018,3887.667,1.0,MEDIUM,6.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,7.0,75.227,3962.894,1.0,MEDIUM,7.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,8.0,75.257,4038.151,1.0,MEDIUM,8.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,9.0,75.554,4113.705,1.0,MEDIUM,9.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,10.0,75.756,4189.461,1.0,MEDIUM,10.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,11.0,75.881,4265.342,1.0,MEDIUM,11.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,12.0,75.723,4341.065,1.0,MEDIUM,12.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,13.0,75.941,4417.006,1.0,MEDIUM,13.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,14.0,75.946,4492.952,1.0,MEDIUM,14.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,15.0,75.804,4568.756,1.0,MEDIUM,15.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,16.0,75.789,4644.545,1.0,MEDIUM,16.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,17.0,76.338,4720.883,1.0,MEDIUM,17.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,18.0,75.715,4796.598,1.0,MEDIUM,18.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,19.0,75.875,4872.473,1.0,MEDIUM,19.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,20.0,76.185,4948.658,1.0,MEDIUM,20.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,21.0,75.818,5024.476,1.0,MEDIUM,21.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,22.0,76.694,5101.17,1.0,MEDIUM,22.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,23.0,77.438,5178.608,1.0,MEDIUM,23.0,Aston Martin,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,24.0,92.536,5271.144,1.0,MEDIUM,24.0,Aston Martin,26,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,25.0,109.372,5380.516,2.0,SOFT,1.0,Aston Martin,671,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,26.0,74.944,5455.46,2.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,27.0,74.776,5530.236,2.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,28.0,75.591,5605.827,2.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,29.0,75.61,5681.437,2.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,30.0,73.997,5755.434,2.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,31.0,75.128,5830.562,2.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,32.0,74.869,5905.431,2.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,33.0,75.24,5980.671,2.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,34.0,75.439,6056.11,2.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,35.0,75.632,6131.742,2.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,36.0,75.213,6206.955,2.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,37.0,76.781,6283.736,2.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,38.0,76.961,6360.697,2.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,39.0,74.707,6435.404,2.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,40.0,75.383,6510.787,2.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,41.0,74.996,6585.783,2.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,42.0,74.917,6660.7,2.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,43.0,74.576,6735.276,2.0,SOFT,19.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,44.0,74.541,6809.817,2.0,SOFT,20.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,45.0,74.743,6884.56,2.0,SOFT,21.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,46.0,74.929,6959.489,2.0,SOFT,22.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,47.0,75.133,7034.622,2.0,SOFT,23.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,48.0,77.095,7111.717,2.0,SOFT,24.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,49.0,80.214,7191.931,2.0,SOFT,25.0,Aston Martin,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,50.0,108.485,7300.416,3.0,SOFT,1.0,Aston Martin,167,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,51.0,74.353,7374.769,3.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,52.0,72.501,7447.27,3.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,53.0,72.938,7520.208,3.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,54.0,73.384,7593.592,3.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,55.0,73.479,7667.071,3.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,56.0,73.439,7740.51,3.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,57.0,73.645,7814.155,3.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,58.0,73.449,7887.604,3.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,59.0,73.643,7961.247,3.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,60.0,74.801,8036.048,3.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,61.0,74.322,8110.37,3.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,62.0,73.519,8183.889,3.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,63.0,74.181,8258.07,3.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,64.0,73.986,8332.056,3.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,65.0,74.483,8406.539,3.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,66.0,73.84,8480.379,3.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,67.0,74.742,8555.121,3.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALO,14,68.0,75.637,8630.758,3.0,SOFT,19.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,1.0,76.526,3504.472,1.0,MEDIUM,1.0,Ferrari,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,2.0,74.142,3578.614,1.0,MEDIUM,2.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,3.0,72.446,3651.06,1.0,MEDIUM,3.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,4.0,71.971,3723.031,1.0,MEDIUM,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,5.0,72.252,3795.283,1.0,MEDIUM,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,6.0,72.216,3867.499,1.0,MEDIUM,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,7.0,73.951,3941.45,1.0,MEDIUM,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,8.0,72.717,4014.167,1.0,MEDIUM,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,9.0,72.895,4087.062,1.0,MEDIUM,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,10.0,73.061,4160.123,1.0,MEDIUM,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,11.0,73.493,4233.616,1.0,MEDIUM,11.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,12.0,73.433,4307.049,1.0,MEDIUM,12.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,13.0,77.722,4384.771,1.0,MEDIUM,13.0,Ferrari,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,14.0,89.806,4474.577,2.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,15.0,72.788,4547.365,2.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,16.0,72.567,4619.932,2.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,17.0,72.975,4692.907,2.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,18.0,72.591,4765.498,2.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,19.0,72.245,4837.743,2.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,20.0,72.066,4909.809,2.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,21.0,71.661,4981.47,2.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,22.0,71.932,5053.402,2.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,23.0,71.83,5125.232,2.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,24.0,72.699,5197.931,2.0,HARD,11.0,Ferrari,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,25.0,98.068,5295.999,2.0,HARD,12.0,Ferrari,26,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,26.0,90.934,5386.933,2.0,HARD,13.0,Ferrari,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,27.0,71.905,5458.838,2.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,28.0,71.737,5530.575,2.0,HARD,15.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,29.0,71.995,5602.57,2.0,HARD,16.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,30.0,72.682,5675.252,2.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,31.0,71.859,5747.111,2.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,32.0,72.044,5819.155,2.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,33.0,72.345,5891.5,2.0,HARD,20.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,34.0,72.316,5963.816,2.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,35.0,72.19,6036.006,2.0,HARD,22.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,36.0,72.588,6108.594,2.0,HARD,23.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,37.0,78.434,6187.028,2.0,HARD,24.0,Ferrari,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,38.0,88.302,6275.33,3.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,39.0,71.611,6346.941,3.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,40.0,71.701,6418.642,3.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,41.0,71.055,6489.697,3.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,42.0,70.916,6560.613,3.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,43.0,71.184,6631.797,3.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,44.0,71.165,6702.962,3.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,45.0,71.251,6774.213,3.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,46.0,71.718,6845.931,3.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,47.0,71.665,6917.596,3.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,48.0,72.597,6990.193,3.0,HARD,11.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,49.0,71.607,7061.8,3.0,HARD,12.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,50.0,71.537,7133.337,3.0,HARD,13.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,51.0,71.582,7204.919,3.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,52.0,81.968,7286.887,3.0,HARD,15.0,Ferrari,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,53.0,74.572,7361.459,3.0,HARD,16.0,Ferrari,71,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,54.0,72.063,7433.522,3.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,55.0,72.011,7505.533,3.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,56.0,74.03,7579.563,3.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,57.0,72.075,7651.638,3.0,HARD,20.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,58.0,72.651,7724.289,3.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,59.0,78.286,7802.575,3.0,HARD,22.0,Ferrari,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,60.0,89.606,7892.181,4.0,SOFT,4.0,Ferrari,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,61.0,70.87,7963.051,4.0,SOFT,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,62.0,71.098,8034.149,4.0,SOFT,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,63.0,70.936,8105.085,4.0,SOFT,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,64.0,70.878,8175.963,4.0,SOFT,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,65.0,71.021,8246.984,4.0,SOFT,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,66.0,70.684,8317.668,4.0,SOFT,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,67.0,70.606,8388.274,4.0,SOFT,11.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,68.0,70.713,8458.987,4.0,SOFT,12.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,69.0,70.803,8529.79,4.0,SOFT,13.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,70.0,70.998,8600.788,4.0,SOFT,14.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LEC,16,71.0,70.796,8671.584,4.0,SOFT,15.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,1.0,84.834,3512.78,1.0,MEDIUM,1.0,Aston Martin,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,2.0,76.042,3588.822,1.0,MEDIUM,2.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,3.0,75.015,3663.837,1.0,MEDIUM,3.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,4.0,75.217,3739.054,1.0,MEDIUM,4.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,5.0,74.987,3814.041,1.0,MEDIUM,5.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,6.0,74.995,3889.036,1.0,MEDIUM,6.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,7.0,75.59,3964.626,1.0,MEDIUM,7.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,8.0,75.485,4040.111,1.0,MEDIUM,8.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,9.0,75.455,4115.566,1.0,MEDIUM,9.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,10.0,75.64,4191.206,1.0,MEDIUM,10.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,11.0,75.956,4267.162,1.0,MEDIUM,11.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,12.0,75.835,4342.997,1.0,MEDIUM,12.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,13.0,75.717,4418.714,1.0,MEDIUM,13.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,14.0,75.964,4494.678,1.0,MEDIUM,14.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,15.0,75.826,4570.504,1.0,MEDIUM,15.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,16.0,76.64,4647.144,1.0,MEDIUM,16.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,17.0,75.683,4722.827,1.0,MEDIUM,17.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,18.0,75.879,4798.706,1.0,MEDIUM,18.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,19.0,76.515,4875.221,1.0,MEDIUM,19.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,20.0,76.451,4951.672,1.0,MEDIUM,20.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,21.0,77.047,5028.719,1.0,MEDIUM,21.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,22.0,76.336,5105.055,1.0,MEDIUM,22.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,23.0,77.269,5182.324,1.0,MEDIUM,23.0,Aston Martin,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,24.0,97.078,5279.402,1.0,MEDIUM,24.0,Aston Martin,26,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,25.0,108.627,5388.029,2.0,SOFT,1.0,Aston Martin,671,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,26.0,74.671,5462.7,2.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,27.0,76.193,5538.893,2.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,28.0,74.161,5613.054,2.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,29.0,75.246,5688.3,2.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,30.0,73.796,5762.096,2.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,31.0,74.006,5836.102,2.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,32.0,74.101,5910.203,2.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,33.0,74.416,5984.619,2.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,34.0,74.224,6058.843,2.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,35.0,74.355,6133.198,2.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,36.0,74.615,6207.813,2.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,37.0,74.863,6282.676,2.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,38.0,77.36,6360.036,2.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,39.0,74.619,6434.655,2.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,40.0,74.584,6509.239,2.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,41.0,76.04,6585.279,2.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,42.0,74.654,6659.933,2.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,43.0,74.641,6734.574,2.0,SOFT,19.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,44.0,74.53,6809.104,2.0,SOFT,20.0,Aston Martin,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,STR,18,45.0,107.427,6916.531,2.0,SOFT,21.0,Aston Martin,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,1.0,82.522,3510.468,1.0,MEDIUM,1.0,Williams,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,2.0,74.956,3585.424,1.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,3.0,74.318,3659.742,1.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,4.0,74.27,3734.012,1.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,5.0,74.288,3808.3,1.0,MEDIUM,5.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,6.0,74.684,3882.984,1.0,MEDIUM,6.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,7.0,74.463,3957.447,1.0,MEDIUM,7.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,8.0,74.716,4032.163,1.0,MEDIUM,8.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,9.0,75.298,4107.461,1.0,MEDIUM,9.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,10.0,75.141,4182.602,1.0,MEDIUM,10.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,11.0,75.982,4258.584,1.0,MEDIUM,11.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,12.0,75.281,4333.865,1.0,MEDIUM,12.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,13.0,75.112,4408.977,1.0,MEDIUM,13.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,14.0,74.921,4483.898,1.0,MEDIUM,14.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,15.0,74.858,4558.756,1.0,MEDIUM,15.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,16.0,74.979,4633.735,1.0,MEDIUM,16.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,17.0,75.072,4708.807,1.0,MEDIUM,17.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,18.0,78.858,4787.665,1.0,MEDIUM,18.0,Williams,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,19.0,91.904,4879.569,2.0,MEDIUM,1.0,Williams,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,20.0,73.642,4953.211,2.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,21.0,73.823,5027.034,2.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,22.0,74.202,5101.236,2.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,23.0,73.794,5175.03,2.0,MEDIUM,5.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,24.0,92.19,5267.22,2.0,MEDIUM,6.0,Williams,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,25.0,94.459,5361.679,2.0,MEDIUM,7.0,Williams,67,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,26.0,75.348,5437.027,2.0,MEDIUM,8.0,Williams,71,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,27.0,73.344,5510.371,2.0,MEDIUM,9.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,28.0,73.531,5583.902,2.0,MEDIUM,10.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,29.0,73.404,5657.306,2.0,MEDIUM,11.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,30.0,74.285,5731.591,2.0,MEDIUM,12.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,31.0,74.701,5806.292,2.0,MEDIUM,13.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,32.0,74.764,5881.056,2.0,MEDIUM,14.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,33.0,74.294,5955.35,2.0,MEDIUM,15.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,34.0,74.002,6029.352,2.0,MEDIUM,16.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,35.0,75.013,6104.365,2.0,MEDIUM,17.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,36.0,74.131,6178.496,2.0,MEDIUM,18.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,37.0,78.04,6256.536,2.0,MEDIUM,19.0,Williams,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,38.0,91.91,6348.446,3.0,HARD,1.0,Williams,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,39.0,73.202,6421.648,3.0,HARD,2.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,40.0,73.974,6495.622,3.0,HARD,3.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,41.0,73.163,6568.785,3.0,HARD,4.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,42.0,73.526,6642.311,3.0,HARD,5.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,43.0,73.137,6715.448,3.0,HARD,6.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,44.0,73.181,6788.629,3.0,HARD,7.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,45.0,73.39,6862.019,3.0,HARD,8.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,46.0,73.426,6935.445,3.0,HARD,9.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,47.0,73.635,7009.08,3.0,HARD,10.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,48.0,73.344,7082.424,3.0,HARD,11.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,49.0,74.02,7156.444,3.0,HARD,12.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,50.0,73.711,7230.155,3.0,HARD,13.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,51.0,84.164,7314.319,3.0,HARD,14.0,Williams,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,52.0,73.575,7387.894,3.0,HARD,15.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,53.0,73.197,7461.091,3.0,HARD,16.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,54.0,73.197,7534.288,3.0,HARD,17.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,55.0,73.301,7607.589,3.0,HARD,18.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,56.0,73.484,7681.073,3.0,HARD,19.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,57.0,73.664,7754.737,3.0,HARD,20.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,58.0,73.538,7828.275,3.0,HARD,21.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,59.0,73.351,7901.626,3.0,HARD,22.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,60.0,73.735,7975.361,3.0,HARD,23.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,61.0,74.077,8049.438,3.0,HARD,24.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,62.0,73.893,8123.331,3.0,HARD,25.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,63.0,76.208,8199.539,3.0,HARD,26.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,64.0,76.311,8275.85,3.0,HARD,27.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,65.0,74.656,8350.506,3.0,HARD,28.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,66.0,76.007,8426.513,3.0,HARD,29.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,67.0,75.416,8501.929,3.0,HARD,30.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,68.0,75.609,8577.538,3.0,HARD,31.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,ALB,23,69.0,76.469,8654.007,3.0,HARD,32.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,1.0,81.214,3509.16,1.0,MEDIUM,1.0,Audi,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,2.0,74.302,3583.462,1.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,3.0,73.988,3657.45,1.0,MEDIUM,3.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,4.0,73.905,3731.355,1.0,MEDIUM,4.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,5.0,74.026,3805.381,1.0,MEDIUM,5.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,6.0,74.391,3879.772,1.0,MEDIUM,6.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,7.0,74.418,3954.19,1.0,MEDIUM,7.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,8.0,74.675,4028.865,1.0,MEDIUM,8.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,9.0,74.506,4103.371,1.0,MEDIUM,9.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,10.0,75.271,4178.642,1.0,MEDIUM,10.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,11.0,75.626,4254.268,1.0,MEDIUM,11.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,12.0,75.137,4329.405,1.0,MEDIUM,12.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,13.0,75.169,4404.574,1.0,MEDIUM,13.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,14.0,74.773,4479.347,1.0,MEDIUM,14.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,15.0,74.945,4554.292,1.0,MEDIUM,15.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,16.0,74.474,4628.766,1.0,MEDIUM,16.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,17.0,75.244,4704.01,1.0,MEDIUM,17.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,18.0,74.765,4778.775,1.0,MEDIUM,18.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,19.0,74.434,4853.209,1.0,MEDIUM,19.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,20.0,74.408,4927.617,1.0,MEDIUM,20.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,21.0,78.389,5006.006,1.0,MEDIUM,21.0,Audi,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,22.0,90.115,5096.121,2.0,MEDIUM,1.0,Audi,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,23.0,73.21,5169.331,2.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,24.0,88.537,5257.868,2.0,MEDIUM,3.0,Audi,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,25.0,94.121,5351.989,2.0,MEDIUM,4.0,Audi,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,26.0,78.893,5430.882,2.0,MEDIUM,5.0,Audi,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,27.0,72.63,5503.512,2.0,MEDIUM,6.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,28.0,72.965,5576.477,2.0,MEDIUM,7.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,29.0,72.755,5649.232,2.0,MEDIUM,8.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,30.0,72.673,5721.905,2.0,MEDIUM,9.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,31.0,72.629,5794.534,2.0,MEDIUM,10.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,32.0,72.47,5867.004,2.0,MEDIUM,11.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,33.0,72.863,5939.867,2.0,MEDIUM,12.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,34.0,72.65,6012.517,2.0,MEDIUM,13.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,35.0,72.663,6085.18,2.0,MEDIUM,14.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,36.0,72.792,6157.972,2.0,MEDIUM,15.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,37.0,72.747,6230.719,2.0,MEDIUM,16.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,38.0,72.959,6303.678,2.0,MEDIUM,17.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,39.0,72.988,6376.666,2.0,MEDIUM,18.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,40.0,72.757,6449.423,2.0,MEDIUM,19.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,41.0,73.096,6522.519,2.0,MEDIUM,20.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,42.0,72.891,6595.41,2.0,MEDIUM,21.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,43.0,73.058,6668.468,2.0,MEDIUM,22.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,44.0,73.105,6741.573,2.0,MEDIUM,23.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,45.0,77.06,6818.633,2.0,MEDIUM,24.0,Audi,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,46.0,89.611,6908.244,3.0,HARD,1.0,Audi,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,47.0,72.534,6980.778,3.0,HARD,2.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,48.0,72.446,7053.224,3.0,HARD,3.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,49.0,72.255,7125.479,3.0,HARD,4.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,50.0,73.623,7199.102,3.0,HARD,5.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,51.0,80.193,7279.295,3.0,HARD,6.0,Audi,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,52.0,76.548,7355.843,3.0,HARD,7.0,Audi,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,53.0,73.956,7429.799,3.0,HARD,8.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,54.0,71.722,7501.521,3.0,HARD,9.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,55.0,71.634,7573.155,3.0,HARD,10.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,56.0,71.772,7644.927,3.0,HARD,11.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,57.0,73.683,7718.61,3.0,HARD,12.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,58.0,72.082,7790.692,3.0,HARD,13.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,59.0,72.413,7863.105,3.0,HARD,14.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,60.0,72.796,7935.901,3.0,HARD,15.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,61.0,75.042,8010.943,3.0,HARD,16.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,62.0,72.449,8083.392,3.0,HARD,17.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,63.0,73.081,8156.473,3.0,HARD,18.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,64.0,72.846,8229.319,3.0,HARD,19.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,65.0,72.344,8301.663,3.0,HARD,20.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,66.0,72.492,8374.155,3.0,HARD,21.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,67.0,72.301,8446.456,3.0,HARD,22.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,68.0,72.371,8518.827,3.0,HARD,23.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,69.0,73.022,8591.849,3.0,HARD,24.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HUL,27,70.0,72.56,8664.409,3.0,HARD,25.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,1.0,77.653,3505.599,1.0,MEDIUM,1.0,Red Bull Racing,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,2.0,72.102,3577.701,1.0,MEDIUM,2.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,3.0,72.084,3649.785,1.0,MEDIUM,3.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,4.0,71.733,3721.518,1.0,MEDIUM,4.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,5.0,71.846,3793.364,1.0,MEDIUM,5.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,6.0,71.845,3865.209,1.0,MEDIUM,6.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,7.0,72.072,3937.281,1.0,MEDIUM,7.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,8.0,72.396,4009.677,1.0,MEDIUM,8.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,9.0,72.558,4082.235,1.0,MEDIUM,9.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,10.0,72.875,4155.11,1.0,MEDIUM,10.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,11.0,74.413,4229.523,1.0,MEDIUM,11.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,12.0,73.34,4302.863,1.0,MEDIUM,12.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,13.0,72.789,4375.652,1.0,MEDIUM,13.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,14.0,72.607,4448.259,1.0,MEDIUM,14.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,15.0,72.765,4521.024,1.0,MEDIUM,15.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,16.0,72.626,4593.65,1.0,MEDIUM,16.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,17.0,72.733,4666.383,1.0,MEDIUM,17.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,18.0,76.633,4743.016,1.0,MEDIUM,18.0,Red Bull Racing,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,19.0,88.537,4831.553,2.0,HARD,1.0,Red Bull Racing,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,20.0,71.48,4903.033,2.0,HARD,2.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,21.0,71.484,4974.517,2.0,HARD,3.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,22.0,72.409,5046.926,2.0,HARD,4.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,23.0,71.787,5118.713,2.0,HARD,5.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,24.0,72.016,5190.729,2.0,HARD,6.0,Red Bull Racing,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,25.0,96.916,5287.645,2.0,HARD,7.0,Red Bull Racing,26,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,26.0,93.03,5380.675,2.0,HARD,8.0,Red Bull Racing,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,27.0,71.307,5451.982,2.0,HARD,9.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,28.0,71.072,5523.054,2.0,HARD,10.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,29.0,71.209,5594.263,2.0,HARD,11.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,30.0,71.041,5665.304,2.0,HARD,12.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,31.0,71.249,5736.553,2.0,HARD,13.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,32.0,71.492,5808.045,2.0,HARD,14.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,33.0,71.442,5879.487,2.0,HARD,15.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,34.0,71.846,5951.333,2.0,HARD,16.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,35.0,71.606,6022.939,2.0,HARD,17.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,36.0,71.931,6094.87,2.0,HARD,18.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,37.0,71.809,6166.679,2.0,HARD,19.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,38.0,72.159,6238.838,2.0,HARD,20.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,39.0,72.245,6311.083,2.0,HARD,21.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,40.0,72.132,6383.215,2.0,HARD,22.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,41.0,71.892,6455.107,2.0,HARD,23.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,42.0,72.168,6527.275,2.0,HARD,24.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,43.0,72.087,6599.362,2.0,HARD,25.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,44.0,72.414,6671.776,2.0,HARD,26.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,45.0,72.356,6744.132,2.0,HARD,27.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,46.0,72.38,6816.512,2.0,HARD,28.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,47.0,72.63,6889.142,2.0,HARD,29.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,48.0,72.681,6961.823,2.0,HARD,30.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,49.0,77.001,7038.824,2.0,HARD,31.0,Red Bull Racing,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,50.0,87.513,7126.337,3.0,HARD,1.0,Red Bull Racing,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,51.0,70.888,7197.225,3.0,HARD,2.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,52.0,77.264,7274.489,3.0,HARD,3.0,Red Bull Racing,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,53.0,76.936,7351.425,3.0,HARD,4.0,Red Bull Racing,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,54.0,70.596,7422.021,3.0,HARD,5.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,55.0,70.599,7492.62,3.0,HARD,6.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,56.0,70.633,7563.253,3.0,HARD,7.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,57.0,70.483,7633.736,3.0,HARD,8.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,58.0,70.622,7704.358,3.0,HARD,9.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,59.0,70.508,7774.866,3.0,HARD,10.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,60.0,70.9,7845.766,3.0,HARD,11.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,61.0,70.828,7916.594,3.0,HARD,12.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,62.0,71.077,7987.671,3.0,HARD,13.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,63.0,70.936,8058.607,3.0,HARD,14.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,64.0,70.846,8129.453,3.0,HARD,15.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,65.0,71.038,8200.491,3.0,HARD,16.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,66.0,71.149,8271.64,3.0,HARD,17.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,67.0,71.467,8343.107,3.0,HARD,18.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,68.0,71.016,8414.123,3.0,HARD,19.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,69.0,71.034,8485.157,3.0,HARD,20.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,70.0,71.133,8556.29,3.0,HARD,21.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,VER,3,71.0,71.246,8627.536,3.0,HARD,22.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,1.0,78.967,3506.913,1.0,MEDIUM,1.0,Racing Bulls,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,2.0,73.546,3580.459,1.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,3.0,73.61,3654.069,1.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,4.0,74.368,3728.437,1.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,5.0,73.224,3801.661,1.0,MEDIUM,5.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,6.0,73.108,3874.769,1.0,MEDIUM,6.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,7.0,73.265,3948.034,1.0,MEDIUM,7.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,8.0,73.244,4021.278,1.0,MEDIUM,8.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,9.0,73.428,4094.706,1.0,MEDIUM,9.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,10.0,73.576,4168.282,1.0,MEDIUM,10.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,11.0,73.714,4241.996,1.0,MEDIUM,11.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,12.0,73.624,4315.62,1.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,13.0,73.823,4389.443,1.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,14.0,73.824,4463.267,1.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,15.0,73.988,4537.255,1.0,MEDIUM,15.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,16.0,73.857,4611.112,1.0,MEDIUM,16.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,17.0,74.092,4685.204,1.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,18.0,75.098,4760.302,1.0,MEDIUM,18.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,19.0,78.467,4838.769,1.0,MEDIUM,19.0,Racing Bulls,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,20.0,91.043,4929.812,2.0,HARD,1.0,Racing Bulls,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,21.0,73.679,5003.491,2.0,HARD,2.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,22.0,73.088,5076.579,2.0,HARD,3.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,23.0,72.637,5149.216,2.0,HARD,4.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,24.0,81.637,5230.853,2.0,HARD,5.0,Racing Bulls,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,25.0,98.072,5328.925,2.0,HARD,6.0,Racing Bulls,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,26.0,81.479,5410.404,2.0,HARD,7.0,Racing Bulls,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,27.0,72.726,5483.13,2.0,HARD,8.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,28.0,72.416,5555.546,2.0,HARD,9.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,29.0,72.214,5627.76,2.0,HARD,10.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,30.0,72.544,5700.304,2.0,HARD,11.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,31.0,72.577,5772.881,2.0,HARD,12.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,32.0,72.468,5845.349,2.0,HARD,13.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,33.0,72.671,5918.02,2.0,HARD,14.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,34.0,72.784,5990.804,2.0,HARD,15.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,35.0,73.035,6063.839,2.0,HARD,16.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,36.0,72.96,6136.799,2.0,HARD,17.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,37.0,73.211,6210.01,2.0,HARD,18.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,38.0,74.115,6284.125,2.0,HARD,19.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,39.0,74.467,6358.592,2.0,HARD,20.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,40.0,73.118,6431.71,2.0,HARD,21.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,41.0,73.068,6504.778,2.0,HARD,22.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,42.0,73.279,6578.057,2.0,HARD,23.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,43.0,73.635,6651.692,2.0,HARD,24.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,44.0,73.993,6725.685,2.0,HARD,25.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,45.0,78.081,6803.766,2.0,HARD,26.0,Racing Bulls,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,46.0,89.493,6893.259,3.0,MEDIUM,1.0,Racing Bulls,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,47.0,72.099,6965.358,3.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,48.0,72.149,7037.507,3.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,49.0,72.133,7109.64,3.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,50.0,71.946,7181.586,3.0,MEDIUM,5.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,51.0,72.537,7254.123,3.0,MEDIUM,6.0,Racing Bulls,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,52.0,84.063,7338.186,3.0,MEDIUM,7.0,Racing Bulls,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,53.0,71.774,7409.96,3.0,MEDIUM,8.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,54.0,71.75,7481.71,3.0,MEDIUM,9.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,55.0,71.547,7553.257,3.0,MEDIUM,10.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,56.0,71.809,7625.066,3.0,MEDIUM,11.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,57.0,73.698,7698.764,3.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,58.0,71.944,7770.708,3.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,59.0,71.81,7842.518,3.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,60.0,71.875,7914.393,3.0,MEDIUM,15.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,61.0,72.118,7986.511,3.0,MEDIUM,16.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,62.0,74.159,8060.67,3.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,63.0,74.033,8134.703,3.0,MEDIUM,18.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,64.0,72.046,8206.749,3.0,MEDIUM,19.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,65.0,72.274,8279.023,3.0,MEDIUM,20.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,66.0,72.701,8351.724,3.0,MEDIUM,21.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,67.0,72.619,8424.343,3.0,MEDIUM,22.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,68.0,72.352,8496.695,3.0,MEDIUM,23.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,69.0,72.278,8568.973,3.0,MEDIUM,24.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LAW,30,70.0,72.286,8641.259,3.0,MEDIUM,25.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,1.0,80.541,3508.487,1.0,MEDIUM,1.0,Haas F1 Team,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,2.0,73.849,3582.336,1.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,3.0,73.645,3655.981,1.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,4.0,74.103,3730.084,1.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,5.0,73.793,3803.877,1.0,MEDIUM,5.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,6.0,74.125,3878.002,1.0,MEDIUM,6.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,7.0,75.075,3953.077,1.0,MEDIUM,7.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,8.0,74.546,4027.623,1.0,MEDIUM,8.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,9.0,74.897,4102.52,1.0,MEDIUM,9.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,10.0,75.155,4177.675,1.0,MEDIUM,10.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,11.0,75.543,4253.218,1.0,MEDIUM,11.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,12.0,74.927,4328.145,1.0,MEDIUM,12.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,13.0,75.144,4403.289,1.0,MEDIUM,13.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,14.0,75.494,4478.783,1.0,MEDIUM,14.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,15.0,75.154,4553.937,1.0,MEDIUM,15.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,16.0,75.691,4629.628,1.0,MEDIUM,16.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,17.0,75.477,4705.105,1.0,MEDIUM,17.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,18.0,79.724,4784.829,1.0,MEDIUM,18.0,Haas F1 Team,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,19.0,91.801,4876.63,2.0,MEDIUM,1.0,Haas F1 Team,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,20.0,74.42,4951.05,2.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,21.0,74.195,5025.245,2.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,22.0,73.867,5099.112,2.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,23.0,73.699,5172.811,2.0,MEDIUM,5.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,24.0,89.351,5262.162,2.0,MEDIUM,6.0,Haas F1 Team,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,25.0,96.309,5358.471,2.0,MEDIUM,7.0,Haas F1 Team,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,26.0,75.839,5434.31,2.0,MEDIUM,8.0,Haas F1 Team,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,27.0,73.308,5507.618,2.0,MEDIUM,9.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,28.0,73.207,5580.825,2.0,MEDIUM,10.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,29.0,73.117,5653.942,2.0,MEDIUM,11.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,30.0,73.428,5727.37,2.0,MEDIUM,12.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,31.0,73.201,5800.571,2.0,MEDIUM,13.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,32.0,73.406,5873.977,2.0,MEDIUM,14.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,33.0,78.946,5952.923,2.0,MEDIUM,15.0,Haas F1 Team,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,34.0,94.072,6046.995,3.0,HARD,1.0,Haas F1 Team,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,35.0,73.061,6120.056,3.0,HARD,2.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,36.0,73.17,6193.226,3.0,HARD,3.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,37.0,72.979,6266.205,3.0,HARD,4.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,38.0,73.275,6339.48,3.0,HARD,5.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,39.0,73.094,6412.574,3.0,HARD,6.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,40.0,73.149,6485.723,3.0,HARD,7.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,41.0,73.565,6559.288,3.0,HARD,8.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,42.0,74.782,6634.07,3.0,HARD,9.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,43.0,75.862,6709.932,3.0,HARD,10.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,44.0,73.412,6783.344,3.0,HARD,11.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,45.0,73.662,6857.006,3.0,HARD,12.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,46.0,73.402,6930.408,3.0,HARD,13.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,47.0,74.927,7005.335,3.0,HARD,14.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,48.0,73.239,7078.574,3.0,HARD,15.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,49.0,73.31,7151.884,3.0,HARD,16.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,50.0,73.463,7225.347,3.0,HARD,17.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,51.0,84.785,7310.132,3.0,HARD,18.0,Haas F1 Team,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,52.0,73.187,7383.319,3.0,HARD,19.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,53.0,73.217,7456.536,3.0,HARD,20.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,54.0,73.866,7530.402,3.0,HARD,21.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,55.0,73.346,7603.748,3.0,HARD,22.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,56.0,73.606,7677.354,3.0,HARD,23.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,57.0,73.59,7750.944,3.0,HARD,24.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,58.0,73.824,7824.768,3.0,HARD,25.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,59.0,73.929,7898.697,3.0,HARD,26.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,60.0,73.744,7972.441,3.0,HARD,27.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,61.0,74.012,8046.453,3.0,HARD,28.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,62.0,73.932,8120.385,3.0,HARD,29.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,63.0,74.39,8194.775,3.0,HARD,30.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,64.0,77.875,8272.65,3.0,HARD,31.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,65.0,76.05,8348.7,3.0,HARD,32.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,66.0,74.5,8423.2,3.0,HARD,33.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,67.0,75.967,8499.167,3.0,HARD,34.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,68.0,77.006,8576.173,3.0,HARD,35.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,OCO,31,69.0,75.684,8651.857,3.0,HARD,36.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,1.0,79.894,3507.84,1.0,MEDIUM,1.0,Racing Bulls,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,2.0,73.697,3581.537,1.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,3.0,73.483,3655.02,1.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,4.0,73.913,3728.933,1.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,5.0,73.52,3802.453,1.0,MEDIUM,5.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,6.0,73.177,3875.63,1.0,MEDIUM,6.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,7.0,73.614,3949.244,1.0,MEDIUM,7.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,8.0,74.051,4023.295,1.0,MEDIUM,8.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,9.0,73.564,4096.859,1.0,MEDIUM,9.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,10.0,73.686,4170.545,1.0,MEDIUM,10.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,11.0,73.999,4244.544,1.0,MEDIUM,11.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,12.0,73.698,4318.242,1.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,13.0,73.839,4392.081,1.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,14.0,73.975,4466.056,1.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,15.0,74.394,4540.45,1.0,MEDIUM,15.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,16.0,74.92,4615.37,1.0,MEDIUM,16.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,17.0,74.016,4689.386,1.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,18.0,77.791,4767.177,1.0,MEDIUM,18.0,Racing Bulls,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,19.0,89.66,4856.837,2.0,HARD,1.0,Racing Bulls,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,20.0,73.512,4930.349,2.0,HARD,2.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,21.0,72.455,5002.804,2.0,HARD,3.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,22.0,72.72,5075.524,2.0,HARD,4.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,23.0,72.602,5148.126,2.0,HARD,5.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,24.0,81.056,5229.182,2.0,HARD,6.0,Racing Bulls,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,25.0,97.419,5326.601,2.0,HARD,7.0,Racing Bulls,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,26.0,82.407,5409.008,2.0,HARD,8.0,Racing Bulls,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,27.0,72.707,5481.715,2.0,HARD,9.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,28.0,72.367,5554.082,2.0,HARD,10.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,29.0,72.227,5626.309,2.0,HARD,11.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,30.0,72.746,5699.055,2.0,HARD,12.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,31.0,72.593,5771.648,2.0,HARD,13.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,32.0,72.525,5844.173,2.0,HARD,14.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,33.0,72.78,5916.953,2.0,HARD,15.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,34.0,72.81,5989.763,2.0,HARD,16.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,35.0,72.963,6062.726,2.0,HARD,17.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,36.0,72.861,6135.587,2.0,HARD,18.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,37.0,73.281,6208.868,2.0,HARD,19.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,38.0,74.404,6283.272,2.0,HARD,20.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,39.0,73.357,6356.629,2.0,HARD,21.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,40.0,73.197,6429.826,2.0,HARD,22.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,41.0,73.377,6503.203,2.0,HARD,23.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,42.0,73.601,6576.804,2.0,HARD,24.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,43.0,73.901,6650.705,2.0,HARD,25.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,44.0,74.0,6724.705,2.0,HARD,26.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,45.0,73.962,6798.667,2.0,HARD,27.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,46.0,77.63,6876.297,2.0,HARD,28.0,Racing Bulls,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,47.0,90.286,6966.583,3.0,MEDIUM,1.0,Racing Bulls,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,48.0,72.142,7038.725,3.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,49.0,71.994,7110.719,3.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,50.0,72.007,7182.726,3.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,51.0,74.698,7257.424,3.0,MEDIUM,5.0,Racing Bulls,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,52.0,82.431,7339.855,3.0,MEDIUM,6.0,Racing Bulls,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,53.0,71.881,7411.736,3.0,MEDIUM,7.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,54.0,71.661,7483.397,3.0,MEDIUM,8.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,55.0,73.614,7557.011,3.0,MEDIUM,9.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,56.0,71.587,7628.598,3.0,MEDIUM,10.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,57.0,71.919,7700.517,3.0,MEDIUM,11.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,58.0,71.76,7772.277,3.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,59.0,71.918,7844.195,3.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,60.0,73.502,7917.697,3.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,61.0,72.065,7989.762,3.0,MEDIUM,15.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,62.0,74.045,8063.807,3.0,MEDIUM,16.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,63.0,72.347,8136.154,3.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,64.0,72.215,8208.369,3.0,MEDIUM,18.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,65.0,72.609,8280.978,3.0,MEDIUM,19.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,66.0,72.861,8353.839,3.0,MEDIUM,20.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,67.0,72.869,8426.708,3.0,MEDIUM,21.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,68.0,72.804,8499.512,3.0,MEDIUM,22.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,69.0,72.781,8572.293,3.0,MEDIUM,23.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,LIN,41,70.0,72.662,8644.955,3.0,MEDIUM,24.0,Racing Bulls,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,1.0,83.65,3511.596,1.0,MEDIUM,1.0,Alpine,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,2.0,74.754,3586.35,1.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,3.0,74.423,3660.773,1.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,4.0,73.852,3734.625,1.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,5.0,75.1,3809.725,1.0,MEDIUM,5.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,6.0,74.183,3883.908,1.0,MEDIUM,6.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,7.0,74.111,3958.019,1.0,MEDIUM,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,8.0,74.651,4032.67,1.0,MEDIUM,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,9.0,75.262,4107.932,1.0,MEDIUM,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,10.0,75.314,4183.246,1.0,MEDIUM,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,11.0,75.729,4258.975,1.0,MEDIUM,11.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,12.0,75.488,4334.463,1.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,13.0,75.387,4409.85,1.0,MEDIUM,13.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,14.0,76.335,4486.185,1.0,MEDIUM,14.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,15.0,75.24,4561.425,1.0,MEDIUM,15.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,16.0,74.61,4636.035,1.0,MEDIUM,16.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,17.0,74.417,4710.452,1.0,MEDIUM,17.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,18.0,74.47,4784.922,1.0,MEDIUM,18.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,19.0,74.775,4859.697,1.0,MEDIUM,19.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,20.0,79.177,4938.874,1.0,MEDIUM,20.0,Alpine,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,21.0,92.123,5030.997,2.0,HARD,1.0,Alpine,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,22.0,73.301,5104.298,2.0,HARD,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,23.0,73.444,5177.742,2.0,HARD,3.0,Alpine,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,24.0,92.991,5270.733,2.0,HARD,4.0,Alpine,26,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,25.0,93.53,5364.263,2.0,HARD,5.0,Alpine,67,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,26.0,74.927,5439.19,2.0,HARD,6.0,Alpine,71,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,27.0,72.963,5512.153,2.0,HARD,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,28.0,72.673,5584.826,2.0,HARD,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,29.0,73.104,5657.93,2.0,HARD,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,30.0,72.578,5730.508,2.0,HARD,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,31.0,74.472,5804.98,2.0,HARD,11.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,32.0,73.166,5878.146,2.0,HARD,12.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,33.0,74.5,5952.646,2.0,HARD,13.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,34.0,73.108,6025.754,2.0,HARD,14.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,35.0,73.265,6099.019,2.0,HARD,15.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,36.0,73.574,6172.593,2.0,HARD,16.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,37.0,75.029,6247.622,2.0,HARD,17.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,38.0,73.642,6321.264,2.0,HARD,18.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,39.0,74.048,6395.312,2.0,HARD,19.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,40.0,73.611,6468.923,2.0,HARD,20.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,41.0,76.339,6545.262,2.0,HARD,21.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,42.0,73.599,6618.861,2.0,HARD,22.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,43.0,75.108,6693.969,2.0,HARD,23.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,44.0,73.696,6767.665,2.0,HARD,24.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,45.0,74.111,6841.776,2.0,HARD,25.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,46.0,77.878,6919.654,2.0,HARD,26.0,Alpine,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,47.0,90.778,7010.432,3.0,MEDIUM,1.0,Alpine,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,48.0,72.326,7082.758,3.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,49.0,71.795,7154.553,3.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,50.0,72.494,7227.047,3.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,51.0,84.212,7311.259,3.0,MEDIUM,5.0,Alpine,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,52.0,72.496,7383.755,3.0,MEDIUM,6.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,53.0,73.164,7456.919,3.0,MEDIUM,7.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,54.0,72.385,7529.304,3.0,MEDIUM,8.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,55.0,72.361,7601.665,3.0,MEDIUM,9.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,56.0,71.981,7673.646,3.0,MEDIUM,10.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,57.0,72.287,7745.933,3.0,MEDIUM,11.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,58.0,72.149,7818.082,3.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,59.0,72.273,7890.355,3.0,MEDIUM,13.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,60.0,73.572,7963.927,3.0,MEDIUM,14.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,61.0,72.822,8036.749,3.0,MEDIUM,15.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,62.0,72.734,8109.483,3.0,MEDIUM,16.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,63.0,72.726,8182.209,3.0,MEDIUM,17.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,64.0,72.544,8254.753,3.0,MEDIUM,18.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,65.0,72.536,8327.289,3.0,MEDIUM,19.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,66.0,72.718,8400.007,3.0,MEDIUM,20.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,67.0,72.729,8472.736,3.0,MEDIUM,21.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,68.0,72.798,8545.534,3.0,MEDIUM,22.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,69.0,73.361,8618.895,3.0,MEDIUM,23.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,COL,43,70.0,72.677,8691.572,3.0,MEDIUM,24.0,Alpine,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,1.0,75.802,3503.748,1.0,MEDIUM,1.0,Ferrari,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,2.0,72.028,3575.776,1.0,MEDIUM,2.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,3.0,71.974,3647.75,1.0,MEDIUM,3.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,4.0,71.937,3719.687,1.0,MEDIUM,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,5.0,71.881,3791.568,1.0,MEDIUM,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,6.0,72.446,3864.014,1.0,MEDIUM,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,7.0,72.43,3936.444,1.0,MEDIUM,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,8.0,72.541,4008.985,1.0,MEDIUM,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,9.0,72.645,4081.63,1.0,MEDIUM,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,10.0,72.836,4154.466,1.0,MEDIUM,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,11.0,74.52,4228.986,1.0,MEDIUM,11.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,12.0,77.539,4306.525,1.0,MEDIUM,12.0,Ferrari,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,13.0,89.201,4395.726,2.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,14.0,72.317,4468.043,2.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,15.0,72.784,4540.827,2.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,16.0,72.318,4613.145,2.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,17.0,72.491,4685.636,2.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,18.0,72.303,4757.939,2.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,19.0,72.252,4830.191,2.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,20.0,71.887,4902.078,2.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,21.0,71.927,4974.005,2.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,22.0,74.016,5048.021,2.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,23.0,72.323,5120.344,2.0,HARD,11.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,24.0,72.517,5192.861,2.0,HARD,12.0,Ferrari,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,25.0,98.849,5291.71,2.0,HARD,13.0,Ferrari,26,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,26.0,101.949,5393.659,3.0,SOFT,3.0,Ferrari,671,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,27.0,71.284,5464.943,3.0,SOFT,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,28.0,71.079,5536.022,3.0,SOFT,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,29.0,71.397,5607.419,3.0,SOFT,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,30.0,71.85,5679.269,3.0,SOFT,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,31.0,71.704,5750.973,3.0,SOFT,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,32.0,71.59,5822.563,3.0,SOFT,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,33.0,71.749,5894.312,3.0,SOFT,10.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,34.0,71.496,5965.808,3.0,SOFT,11.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,35.0,71.727,6037.535,3.0,SOFT,12.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,36.0,72.13,6109.665,3.0,SOFT,13.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,37.0,72.552,6182.217,3.0,SOFT,14.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,38.0,72.247,6254.464,3.0,SOFT,15.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,39.0,72.506,6326.97,3.0,SOFT,16.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,40.0,72.159,6399.129,3.0,SOFT,17.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,41.0,72.183,6471.312,3.0,SOFT,18.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,42.0,76.494,6547.806,3.0,SOFT,19.0,Ferrari,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,43.0,88.003,6635.809,4.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,44.0,71.219,6707.028,4.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,45.0,70.946,6777.974,4.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,46.0,71.442,6849.416,4.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,47.0,71.292,6920.708,4.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,48.0,71.263,6991.971,4.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,49.0,70.999,7062.97,4.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,50.0,70.983,7133.953,4.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,51.0,71.513,7205.466,4.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,52.0,80.477,7285.943,4.0,HARD,10.0,Ferrari,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,53.0,74.374,7360.317,4.0,HARD,11.0,Ferrari,71,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,54.0,71.692,7432.009,4.0,HARD,12.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,55.0,71.579,7503.588,4.0,HARD,13.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,56.0,71.317,7574.905,4.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,57.0,71.231,7646.136,4.0,HARD,15.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,58.0,71.306,7717.442,4.0,HARD,16.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,59.0,71.384,7788.826,4.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,60.0,71.398,7860.224,4.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,61.0,71.469,7931.693,4.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,62.0,71.8,8003.493,4.0,HARD,20.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,63.0,71.505,8074.998,4.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,64.0,71.493,8146.491,4.0,HARD,22.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,65.0,71.658,8218.149,4.0,HARD,23.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,66.0,72.059,8290.208,4.0,HARD,24.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,67.0,72.08,8362.288,4.0,HARD,25.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,68.0,72.246,8434.534,4.0,HARD,26.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,69.0,72.173,8506.707,4.0,HARD,27.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,70.0,72.702,8579.409,4.0,HARD,28.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAM,44,71.0,72.909,8652.318,4.0,HARD,29.0,Ferrari,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,1.0,80.223,3508.169,1.0,SOFT,1.0,Audi,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,2.0,74.516,3582.685,1.0,SOFT,2.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,3.0,73.538,3656.223,1.0,SOFT,3.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,4.0,74.13,3730.353,1.0,SOFT,4.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,5.0,74.049,3804.402,1.0,SOFT,5.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,6.0,73.725,3878.127,1.0,SOFT,6.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,7.0,73.833,3951.96,1.0,SOFT,7.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,8.0,73.96,4025.92,1.0,SOFT,8.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,9.0,73.808,4099.728,1.0,SOFT,9.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,10.0,73.956,4173.684,1.0,SOFT,10.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,11.0,73.978,4247.662,1.0,SOFT,11.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,12.0,73.764,4321.426,1.0,SOFT,12.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,13.0,74.046,4395.472,1.0,SOFT,13.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,14.0,74.714,4470.186,1.0,SOFT,14.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,15.0,74.091,4544.277,1.0,SOFT,15.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,16.0,74.072,4618.349,1.0,SOFT,16.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,17.0,78.144,4696.493,1.0,SOFT,17.0,Audi,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,18.0,90.698,4787.191,2.0,MEDIUM,1.0,Audi,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,19.0,73.064,4860.255,2.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,20.0,72.538,4932.793,2.0,MEDIUM,3.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,21.0,73.017,5005.81,2.0,MEDIUM,4.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,22.0,72.981,5078.791,2.0,MEDIUM,5.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,23.0,72.431,5151.222,2.0,MEDIUM,6.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,24.0,81.475,5232.697,2.0,MEDIUM,7.0,Audi,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,25.0,98.256,5330.953,2.0,MEDIUM,8.0,Audi,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,26.0,82.075,5413.028,2.0,MEDIUM,9.0,Audi,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,27.0,72.556,5485.584,2.0,MEDIUM,10.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,28.0,72.458,5558.042,2.0,MEDIUM,11.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,29.0,72.496,5630.538,2.0,MEDIUM,12.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,30.0,72.771,5703.309,2.0,MEDIUM,13.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,31.0,72.88,5776.189,2.0,MEDIUM,14.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,32.0,72.898,5849.087,2.0,MEDIUM,15.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,33.0,73.034,5922.121,2.0,MEDIUM,16.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,34.0,73.192,5995.313,2.0,MEDIUM,17.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,35.0,73.366,6068.679,2.0,MEDIUM,18.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,36.0,73.252,6141.931,2.0,MEDIUM,19.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,37.0,73.535,6215.466,2.0,MEDIUM,20.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,38.0,73.537,6289.003,2.0,MEDIUM,21.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,39.0,73.355,6362.358,2.0,MEDIUM,22.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,40.0,73.826,6436.184,2.0,MEDIUM,23.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,41.0,73.73,6509.914,2.0,MEDIUM,24.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,42.0,74.21,6584.124,2.0,MEDIUM,25.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,43.0,74.387,6658.511,2.0,MEDIUM,26.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,44.0,78.407,6736.918,2.0,MEDIUM,27.0,Audi,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,45.0,89.12,6826.038,3.0,HARD,1.0,Audi,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,46.0,72.136,6898.174,3.0,HARD,2.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,47.0,72.131,6970.305,3.0,HARD,3.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,48.0,72.313,7042.618,3.0,HARD,4.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,49.0,72.125,7114.743,3.0,HARD,5.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,50.0,73.446,7188.189,3.0,HARD,6.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,51.0,77.129,7265.318,3.0,HARD,7.0,Audi,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,52.0,79.903,7345.221,3.0,HARD,8.0,Audi,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,53.0,72.1,7417.321,3.0,HARD,9.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,54.0,72.171,7489.492,3.0,HARD,10.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,55.0,72.229,7561.721,3.0,HARD,11.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,56.0,73.56,7635.281,3.0,HARD,12.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,57.0,72.132,7707.413,3.0,HARD,13.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,58.0,73.493,7780.906,3.0,HARD,14.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,59.0,71.866,7852.772,3.0,HARD,15.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,60.0,71.897,7924.669,3.0,HARD,16.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,61.0,72.314,7996.983,3.0,HARD,17.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,62.0,72.451,8069.434,3.0,HARD,18.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,63.0,74.277,8143.711,3.0,HARD,19.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,64.0,72.393,8216.104,3.0,HARD,20.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,65.0,72.488,8288.592,3.0,HARD,21.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,66.0,72.929,8361.521,3.0,HARD,22.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,67.0,74.258,8435.779,3.0,HARD,23.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,68.0,72.818,8508.597,3.0,HARD,24.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,69.0,72.816,8581.413,3.0,HARD,25.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOR,5,70.0,74.827,8656.24,3.0,HARD,26.0,Audi,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,1.0,82.045,3509.991,1.0,SOFT,1.0,Williams,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,2.0,74.69,3584.681,1.0,SOFT,2.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,3.0,74.166,3658.847,1.0,SOFT,3.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,4.0,74.249,3733.096,1.0,SOFT,4.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,5.0,74.144,3807.24,1.0,SOFT,5.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,6.0,74.257,3881.497,1.0,SOFT,6.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,7.0,74.62,3956.117,1.0,SOFT,7.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,8.0,74.621,4030.738,1.0,SOFT,8.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,9.0,74.899,4105.637,1.0,SOFT,9.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,10.0,75.616,4181.253,1.0,SOFT,10.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,11.0,75.455,4256.708,1.0,SOFT,11.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,12.0,75.338,4332.046,1.0,SOFT,12.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,13.0,75.069,4407.115,1.0,SOFT,13.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,14.0,78.818,4485.933,1.0,SOFT,14.0,Williams,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,15.0,91.666,4577.599,2.0,MEDIUM,1.0,Williams,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,16.0,74.303,4651.902,2.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,17.0,74.143,4726.045,2.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,18.0,73.865,4799.91,2.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,19.0,73.878,4873.788,2.0,MEDIUM,5.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,20.0,73.759,4947.547,2.0,MEDIUM,6.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,21.0,73.799,5021.346,2.0,MEDIUM,7.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,22.0,73.694,5095.04,2.0,MEDIUM,8.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,23.0,76.44,5171.48,2.0,MEDIUM,9.0,Williams,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,SAI,55,24.0,,5321.48,2.0,MEDIUM,10.0,Williams,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,1.0,79.548,3507.494,1.0,MEDIUM,1.0,Red Bull Racing,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,2.0,73.413,3580.907,1.0,MEDIUM,2.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,3.0,73.499,3654.406,1.0,MEDIUM,3.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,4.0,73.029,3727.435,1.0,MEDIUM,4.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,5.0,72.593,3800.028,1.0,MEDIUM,5.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,6.0,72.357,3872.385,1.0,MEDIUM,6.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,7.0,72.706,3945.091,1.0,MEDIUM,7.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,8.0,72.917,4018.008,1.0,MEDIUM,8.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,9.0,72.857,4090.865,1.0,MEDIUM,9.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,10.0,73.262,4164.127,1.0,MEDIUM,10.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,11.0,73.449,4237.576,1.0,MEDIUM,11.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,12.0,73.467,4311.043,1.0,MEDIUM,12.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,13.0,73.556,4384.599,1.0,MEDIUM,13.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,14.0,73.885,4458.484,1.0,MEDIUM,14.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,15.0,73.518,4532.002,1.0,MEDIUM,15.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,16.0,73.745,4605.747,1.0,MEDIUM,16.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,17.0,73.478,4679.225,1.0,MEDIUM,17.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,18.0,76.939,4756.164,1.0,MEDIUM,18.0,Red Bull Racing,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,19.0,89.177,4845.341,2.0,MEDIUM,1.0,Red Bull Racing,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,20.0,71.839,4917.18,2.0,MEDIUM,2.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,21.0,71.268,4988.448,2.0,MEDIUM,3.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,22.0,71.798,5060.246,2.0,MEDIUM,4.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,23.0,71.527,5131.773,2.0,MEDIUM,5.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,24.0,72.139,5203.912,2.0,MEDIUM,6.0,Red Bull Racing,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,25.0,100.46,5304.372,2.0,MEDIUM,7.0,Red Bull Racing,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,26.0,87.592,5391.964,2.0,MEDIUM,8.0,Red Bull Racing,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,27.0,71.621,5463.585,2.0,MEDIUM,9.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,28.0,71.801,5535.386,2.0,MEDIUM,10.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,29.0,71.664,5607.05,2.0,MEDIUM,11.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,30.0,72.824,5679.874,2.0,MEDIUM,12.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,31.0,72.244,5752.118,2.0,MEDIUM,13.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,32.0,72.187,5824.305,2.0,MEDIUM,14.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,33.0,72.202,5896.507,2.0,MEDIUM,15.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,34.0,72.337,5968.844,2.0,MEDIUM,16.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,35.0,72.292,6041.136,2.0,MEDIUM,17.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,36.0,72.562,6113.698,2.0,MEDIUM,18.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,37.0,72.699,6186.397,2.0,MEDIUM,19.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,38.0,72.228,6258.625,2.0,MEDIUM,20.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,39.0,72.443,6331.068,2.0,MEDIUM,21.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,40.0,75.797,6406.865,2.0,MEDIUM,22.0,Red Bull Racing,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,41.0,87.758,6494.623,3.0,HARD,1.0,Red Bull Racing,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,42.0,70.947,6565.57,3.0,HARD,2.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,43.0,71.227,6636.797,3.0,HARD,3.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,44.0,72.197,6708.994,3.0,HARD,4.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,45.0,71.002,6779.996,3.0,HARD,5.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,46.0,71.295,6851.291,3.0,HARD,6.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,47.0,71.498,6922.789,3.0,HARD,7.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,48.0,71.364,6994.153,3.0,HARD,8.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,49.0,71.383,7065.536,3.0,HARD,9.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,50.0,71.663,7137.199,3.0,HARD,10.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,51.0,71.462,7208.661,3.0,HARD,11.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,52.0,81.799,7290.46,3.0,HARD,12.0,Red Bull Racing,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,53.0,73.021,7363.481,3.0,HARD,13.0,Red Bull Racing,71,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,54.0,71.285,7434.766,3.0,HARD,14.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,55.0,71.464,7506.23,3.0,HARD,15.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,56.0,72.413,7578.643,3.0,HARD,16.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,57.0,71.518,7650.161,3.0,HARD,17.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,58.0,71.647,7721.808,3.0,HARD,18.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,59.0,71.559,7793.367,3.0,HARD,19.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,60.0,71.567,7864.934,3.0,HARD,20.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,61.0,71.835,7936.769,3.0,HARD,21.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,62.0,71.455,8008.224,3.0,HARD,22.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,63.0,71.492,8079.716,3.0,HARD,23.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,64.0,71.641,8151.357,3.0,HARD,24.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,65.0,71.799,8223.156,3.0,HARD,25.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,66.0,71.728,8294.884,3.0,HARD,26.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,67.0,71.861,8366.745,3.0,HARD,27.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,68.0,71.91,8438.655,3.0,HARD,28.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,69.0,71.647,8510.302,3.0,HARD,29.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,70.0,72.384,8582.686,3.0,HARD,30.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,HAD,6,71.0,72.638,8655.324,3.0,HARD,31.0,Red Bull Racing,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,1.0,75.002,3502.948,1.0,MEDIUM,1.0,Mercedes,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,2.0,72.037,3574.985,1.0,MEDIUM,2.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,3.0,71.818,3646.803,1.0,MEDIUM,3.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,4.0,71.779,3718.582,1.0,MEDIUM,4.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,5.0,71.686,3790.268,1.0,MEDIUM,5.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,6.0,71.947,3862.215,1.0,MEDIUM,6.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,7.0,71.975,3934.19,1.0,MEDIUM,7.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,8.0,72.069,4006.259,1.0,MEDIUM,8.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,9.0,72.403,4078.662,1.0,MEDIUM,9.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,10.0,72.516,4151.178,1.0,MEDIUM,10.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,11.0,72.652,4223.83,1.0,MEDIUM,11.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,12.0,72.912,4296.742,1.0,MEDIUM,12.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,13.0,73.164,4369.906,1.0,MEDIUM,13.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,14.0,72.965,4442.871,1.0,MEDIUM,14.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,15.0,72.786,4515.657,1.0,MEDIUM,15.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,16.0,72.78,4588.437,1.0,MEDIUM,16.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,17.0,72.911,4661.348,1.0,MEDIUM,17.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,18.0,72.904,4734.252,1.0,MEDIUM,18.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,19.0,77.085,4811.337,1.0,MEDIUM,19.0,Mercedes,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,20.0,89.073,4900.41,2.0,HARD,1.0,Mercedes,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,21.0,71.93,4972.34,2.0,HARD,2.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,22.0,71.458,5043.798,2.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,23.0,71.226,5115.024,2.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,24.0,71.88,5186.904,2.0,HARD,5.0,Mercedes,12,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,25.0,96.896,5283.8,2.0,HARD,6.0,Mercedes,26,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,26.0,91.266,5375.066,2.0,HARD,7.0,Mercedes,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,27.0,71.926,5446.992,2.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,28.0,71.263,5518.255,2.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,29.0,71.253,5589.508,2.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,30.0,71.274,5660.782,2.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,31.0,71.554,5732.336,2.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,32.0,71.706,5804.042,2.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,33.0,71.546,5875.588,2.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,34.0,72.066,5947.654,2.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,35.0,72.074,6019.728,2.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,36.0,72.715,6092.443,2.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,37.0,72.143,6164.586,2.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,38.0,72.365,6236.951,2.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,39.0,72.616,6309.567,2.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,40.0,72.234,6381.801,2.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,41.0,71.935,6453.736,2.0,HARD,22.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,42.0,72.225,6525.961,2.0,HARD,23.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,43.0,76.208,6602.169,2.0,HARD,24.0,Mercedes,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,44.0,87.853,6690.022,3.0,HARD,1.0,Mercedes,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,45.0,70.86,6760.882,3.0,HARD,2.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,46.0,71.045,6831.927,3.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,47.0,70.904,6902.831,3.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,48.0,71.215,6974.046,3.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,49.0,70.683,7044.729,3.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,50.0,70.952,7115.681,3.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,51.0,71.171,7186.852,3.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,52.0,75.641,7262.493,3.0,HARD,9.0,Mercedes,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,53.0,80.031,7342.524,3.0,HARD,10.0,Mercedes,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,54.0,70.937,7413.461,3.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,55.0,70.896,7484.357,3.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,56.0,70.78,7555.137,3.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,57.0,71.503,7626.64,3.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,58.0,71.01,7697.65,3.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,59.0,71.143,7768.793,3.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,60.0,71.361,7840.154,3.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,61.0,71.113,7911.267,3.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,62.0,71.162,7982.429,3.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,63.0,71.068,8053.497,3.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,64.0,71.291,8124.788,3.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,65.0,71.581,8196.369,3.0,HARD,22.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,66.0,71.615,8267.984,3.0,HARD,23.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,67.0,71.557,8339.541,3.0,HARD,24.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,68.0,71.489,8411.03,3.0,HARD,25.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,69.0,71.425,8482.455,3.0,HARD,26.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,70.0,71.638,8554.093,3.0,HARD,27.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,RUS,63,71.0,71.832,8625.925,3.0,HARD,28.0,Mercedes,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOT,77,1.0,84.016,3512.022,1.0,MEDIUM,1.0,Cadillac,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BOT,77,2.0,87.748,3599.77,1.0,MEDIUM,2.0,Cadillac,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,1.0,78.123,3506.069,1.0,MEDIUM,1.0,McLaren,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,2.0,73.5,3579.569,1.0,MEDIUM,2.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,3.0,72.701,3652.27,1.0,MEDIUM,3.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,4.0,72.36,3724.63,1.0,MEDIUM,4.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,5.0,72.234,3796.864,1.0,MEDIUM,5.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,6.0,72.39,3869.254,1.0,MEDIUM,6.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,7.0,72.773,3942.027,1.0,MEDIUM,7.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,8.0,73.221,4015.248,1.0,MEDIUM,8.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,9.0,73.118,4088.366,1.0,MEDIUM,9.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,10.0,73.22,4161.586,1.0,MEDIUM,10.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,11.0,73.384,4234.97,1.0,MEDIUM,11.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,12.0,73.426,4308.396,1.0,MEDIUM,12.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,13.0,73.675,4382.071,1.0,MEDIUM,13.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,14.0,73.418,4455.489,1.0,MEDIUM,14.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,15.0,73.235,4528.724,1.0,MEDIUM,15.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,16.0,73.179,4601.903,1.0,MEDIUM,16.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,17.0,73.101,4675.004,1.0,MEDIUM,17.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,18.0,73.451,4748.455,1.0,MEDIUM,18.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,19.0,78.254,4826.709,1.0,MEDIUM,19.0,McLaren,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,20.0,89.535,4916.244,2.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,21.0,71.464,4987.708,2.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,22.0,71.578,5059.286,2.0,HARD,3.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,23.0,71.427,5130.713,2.0,HARD,4.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,24.0,72.21,5202.923,2.0,HARD,5.0,McLaren,126,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,25.0,98.314,5301.237,2.0,HARD,6.0,McLaren,6,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,26.0,90.128,5391.365,2.0,HARD,7.0,McLaren,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,27.0,71.658,5463.023,2.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,28.0,71.227,5534.25,2.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,29.0,71.918,5606.168,2.0,HARD,10.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,30.0,71.149,5677.317,2.0,HARD,11.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,31.0,71.768,5749.085,2.0,HARD,12.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,32.0,71.854,5820.939,2.0,HARD,13.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,33.0,71.78,5892.719,2.0,HARD,14.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,34.0,72.048,5964.767,2.0,HARD,15.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,35.0,71.941,6036.708,2.0,HARD,16.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,36.0,72.318,6109.026,2.0,HARD,17.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,37.0,72.544,6181.57,2.0,HARD,18.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,38.0,72.385,6253.955,2.0,HARD,19.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,39.0,72.024,6325.979,2.0,HARD,20.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,40.0,72.017,6397.996,2.0,HARD,21.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,41.0,72.116,6470.112,2.0,HARD,22.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,42.0,76.481,6546.593,2.0,HARD,23.0,McLaren,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,43.0,88.093,6634.686,3.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,44.0,70.753,6705.439,3.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,45.0,70.595,6776.034,3.0,HARD,3.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,46.0,70.844,6846.878,3.0,HARD,4.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,47.0,71.102,6917.98,3.0,HARD,5.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,48.0,71.389,6989.369,3.0,HARD,6.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,49.0,71.275,7060.644,3.0,HARD,7.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,50.0,71.247,7131.891,3.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,51.0,71.101,7202.992,3.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,52.0,79.815,7282.807,3.0,HARD,10.0,McLaren,16,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,53.0,75.298,7358.105,3.0,HARD,11.0,McLaren,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,54.0,70.999,7429.104,3.0,HARD,12.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,55.0,71.056,7500.16,3.0,HARD,13.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,56.0,71.067,7571.227,3.0,HARD,14.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,57.0,71.335,7642.562,3.0,HARD,15.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,58.0,71.219,7713.781,3.0,HARD,16.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,59.0,71.332,7785.113,3.0,HARD,17.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,60.0,71.132,7856.245,3.0,HARD,18.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,61.0,71.363,7927.608,3.0,HARD,19.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,62.0,71.525,7999.133,3.0,HARD,20.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,63.0,71.883,8071.016,3.0,HARD,21.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,64.0,71.318,8142.334,3.0,HARD,22.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,65.0,71.479,8213.813,3.0,HARD,23.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,66.0,72.133,8285.946,3.0,HARD,24.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,67.0,71.937,8357.883,3.0,HARD,25.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,68.0,71.774,8429.657,3.0,HARD,26.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,69.0,72.509,8502.166,3.0,HARD,27.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,70.0,73.065,8575.231,3.0,HARD,28.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,PIA,81,71.0,72.503,8647.734,3.0,HARD,29.0,McLaren,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,1.0,81.542,3509.488,1.0,MEDIUM,1.0,Haas F1 Team,1,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,2.0,74.398,3583.886,1.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,3.0,74.107,3657.993,1.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,4.0,74.103,3732.096,1.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,5.0,74.17,3806.266,1.0,MEDIUM,5.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,6.0,74.329,3880.595,1.0,MEDIUM,6.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,7.0,74.492,3955.087,1.0,MEDIUM,7.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,8.0,74.79,4029.877,1.0,MEDIUM,8.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,9.0,74.971,4104.848,1.0,MEDIUM,9.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,10.0,75.771,4180.619,1.0,MEDIUM,10.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,11.0,75.198,4255.817,1.0,MEDIUM,11.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,12.0,75.35,4331.167,1.0,MEDIUM,12.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,13.0,75.003,4406.17,1.0,MEDIUM,13.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,14.0,75.366,4481.536,1.0,MEDIUM,14.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,15.0,75.041,4556.577,1.0,MEDIUM,15.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,16.0,74.751,4631.328,1.0,MEDIUM,16.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,17.0,74.709,4706.037,1.0,MEDIUM,17.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,18.0,75.344,4781.381,1.0,MEDIUM,18.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,19.0,74.827,4856.208,1.0,MEDIUM,19.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,20.0,75.908,4932.116,1.0,MEDIUM,20.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,21.0,74.936,5007.052,1.0,MEDIUM,21.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,22.0,74.645,5081.697,1.0,MEDIUM,22.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,23.0,75.472,5157.169,1.0,MEDIUM,23.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,24.0,86.766,5243.935,1.0,MEDIUM,24.0,Haas F1 Team,126,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,25.0,109.866,5353.801,2.0,HARD,1.0,Haas F1 Team,6,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,26.0,78.057,5431.858,2.0,HARD,2.0,Haas F1 Team,671,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,27.0,73.101,5504.959,2.0,HARD,3.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,28.0,73.102,5578.061,2.0,HARD,4.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,29.0,73.025,5651.086,2.0,HARD,5.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,30.0,73.063,5724.149,2.0,HARD,6.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,31.0,73.147,5797.296,2.0,HARD,7.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,32.0,73.075,5870.371,2.0,HARD,8.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,33.0,73.27,5943.641,2.0,HARD,9.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,34.0,73.138,6016.779,2.0,HARD,10.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,35.0,73.161,6089.94,2.0,HARD,11.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,36.0,73.403,6163.343,2.0,HARD,12.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,37.0,76.268,6239.611,2.0,HARD,13.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,38.0,74.08,6313.691,2.0,HARD,14.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,39.0,74.004,6387.695,2.0,HARD,15.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,40.0,75.228,6462.923,2.0,HARD,16.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,41.0,73.839,6536.762,2.0,HARD,17.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,42.0,73.708,6610.47,2.0,HARD,18.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,43.0,74.806,6685.276,2.0,HARD,19.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,44.0,73.877,6759.153,2.0,HARD,20.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,45.0,78.343,6837.496,2.0,HARD,21.0,Haas F1 Team,1,False,True,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,46.0,89.486,6926.982,3.0,MEDIUM,1.0,Haas F1 Team,1,False,False,True,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,47.0,72.405,6999.387,3.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,48.0,72.626,7072.013,3.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,49.0,73.475,7145.488,3.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,50.0,72.579,7218.067,3.0,MEDIUM,5.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,51.0,83.153,7301.22,3.0,MEDIUM,6.0,Haas F1 Team,167,False,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,52.0,72.808,7374.028,3.0,MEDIUM,7.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,53.0,72.266,7446.294,3.0,MEDIUM,8.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,54.0,72.207,7518.501,3.0,MEDIUM,9.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,55.0,72.506,7591.007,3.0,MEDIUM,10.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,56.0,72.764,7663.771,3.0,MEDIUM,11.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,57.0,72.952,7736.723,3.0,MEDIUM,12.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,58.0,72.989,7809.712,3.0,MEDIUM,13.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,59.0,73.054,7882.766,3.0,MEDIUM,14.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,60.0,73.01,7955.776,3.0,MEDIUM,15.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,61.0,73.132,8028.908,3.0,MEDIUM,16.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,62.0,73.325,8102.233,3.0,MEDIUM,17.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,63.0,74.962,8177.195,3.0,MEDIUM,18.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,64.0,73.241,8250.436,3.0,MEDIUM,19.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,65.0,73.191,8323.627,3.0,MEDIUM,20.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,66.0,73.044,8396.671,3.0,MEDIUM,21.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,67.0,73.032,8469.703,3.0,MEDIUM,22.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,68.0,72.895,8542.598,3.0,MEDIUM,23.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,69.0,73.35,8615.948,3.0,MEDIUM,24.0,Haas F1 Team,1,True,False,False,False
+2026,8,Austrian Grand Prix,2026-06-28,BEA,87,70.0,72.654,8688.602,3.0,MEDIUM,25.0,Haas F1 Team,1,True,False,False,False

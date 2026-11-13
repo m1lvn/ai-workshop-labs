@@ -1,0 +1,1453 @@
+season,round,event_name,event_date,driver,driver_number,lap_number,lap_time_s,end_time_s,stint,compound,tyre_life,team,track_status,is_accurate,pit_in,pit_out,deleted
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,1.0,90.629,3410.495,1.0,MEDIUM,1.0,McLaren,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,2.0,80.684,3491.179,1.0,MEDIUM,2.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,3.0,80.195,3571.374,1.0,MEDIUM,3.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,4.0,79.491,3650.865,1.0,MEDIUM,4.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,5.0,78.988,3729.853,1.0,MEDIUM,5.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,6.0,78.233,3808.086,1.0,MEDIUM,6.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,7.0,78.243,3886.329,1.0,MEDIUM,7.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,8.0,78.079,3964.408,1.0,MEDIUM,8.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,9.0,78.059,4042.467,1.0,MEDIUM,9.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,10.0,78.628,4121.095,1.0,MEDIUM,10.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,11.0,78.413,4199.508,1.0,MEDIUM,11.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,12.0,77.722,4277.23,1.0,MEDIUM,12.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,13.0,78.391,4355.621,1.0,MEDIUM,13.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,14.0,78.17,4433.791,1.0,MEDIUM,14.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,15.0,78.623,4512.414,1.0,MEDIUM,15.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,16.0,78.638,4591.052,1.0,MEDIUM,16.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,17.0,78.742,4669.794,1.0,MEDIUM,17.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,18.0,78.994,4748.788,1.0,MEDIUM,18.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,19.0,78.706,4827.494,1.0,MEDIUM,19.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,20.0,78.312,4905.806,1.0,MEDIUM,20.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,21.0,79.066,4984.872,1.0,MEDIUM,21.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,22.0,77.925,5062.797,1.0,MEDIUM,22.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,23.0,78.249,5141.046,1.0,MEDIUM,23.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,24.0,78.676,5219.722,1.0,MEDIUM,24.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,25.0,78.316,5298.038,1.0,MEDIUM,25.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,26.0,78.478,5376.516,1.0,MEDIUM,26.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,27.0,78.376,5454.892,1.0,MEDIUM,27.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,28.0,78.464,5533.356,1.0,MEDIUM,28.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,29.0,78.198,5611.554,1.0,MEDIUM,29.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,30.0,78.321,5689.875,1.0,MEDIUM,30.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,31.0,78.3,5768.175,1.0,MEDIUM,31.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,32.0,78.189,5846.364,1.0,MEDIUM,32.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,33.0,80.23,5926.594,1.0,MEDIUM,33.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,34.0,77.67,6004.264,1.0,MEDIUM,34.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,35.0,77.833,6082.097,1.0,MEDIUM,35.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,36.0,78.224,6160.321,1.0,MEDIUM,36.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,37.0,78.739,6239.06,1.0,MEDIUM,37.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,38.0,79.008,6318.068,1.0,MEDIUM,38.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,39.0,79.311,6397.379,1.0,MEDIUM,39.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,40.0,78.948,6476.327,1.0,MEDIUM,40.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,41.0,80.881,6557.208,1.0,MEDIUM,41.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,42.0,80.144,6637.352,1.0,MEDIUM,42.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,43.0,79.223,6716.575,1.0,MEDIUM,43.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,NOR,1,44.0,,6794.519,1.0,MEDIUM,44.0,McLaren,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,1.0,90.105,3409.971,1.0,MEDIUM,1.0,Alpine,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,2.0,80.715,3490.686,1.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,3.0,80.073,3570.759,1.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,4.0,79.124,3649.883,1.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,5.0,79.092,3728.975,1.0,MEDIUM,5.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,6.0,78.305,3807.28,1.0,MEDIUM,6.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,7.0,78.58,3885.86,1.0,MEDIUM,7.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,8.0,77.946,3963.806,1.0,MEDIUM,8.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,9.0,78.13,4041.936,1.0,MEDIUM,9.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,10.0,78.04,4119.976,1.0,MEDIUM,10.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,11.0,78.404,4198.38,1.0,MEDIUM,11.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,12.0,78.358,4276.738,1.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,13.0,78.333,4355.071,1.0,MEDIUM,13.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,14.0,78.204,4433.275,1.0,MEDIUM,14.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,15.0,78.092,4511.367,1.0,MEDIUM,15.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,16.0,79.128,4590.495,1.0,MEDIUM,16.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,17.0,78.782,4669.277,1.0,MEDIUM,17.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,18.0,79.055,4748.332,1.0,MEDIUM,18.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,19.0,78.687,4827.019,1.0,MEDIUM,19.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,20.0,78.231,4905.25,1.0,MEDIUM,20.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,21.0,78.386,4983.636,1.0,MEDIUM,21.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,22.0,78.475,5062.111,1.0,MEDIUM,22.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,23.0,78.461,5140.572,1.0,MEDIUM,23.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,24.0,78.52,5219.092,1.0,MEDIUM,24.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,25.0,78.386,5297.478,1.0,MEDIUM,25.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,26.0,78.461,5375.939,1.0,MEDIUM,26.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,27.0,78.521,5454.46,1.0,MEDIUM,27.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,28.0,78.596,5533.056,1.0,MEDIUM,28.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,29.0,78.056,5611.112,1.0,MEDIUM,29.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,30.0,78.178,5689.29,1.0,MEDIUM,30.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,31.0,78.36,5767.65,1.0,MEDIUM,31.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,32.0,78.029,5845.679,1.0,MEDIUM,32.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,33.0,78.807,5924.486,1.0,MEDIUM,33.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,34.0,78.659,6003.145,1.0,MEDIUM,34.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,35.0,78.332,6081.477,1.0,MEDIUM,35.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,36.0,78.178,6159.655,1.0,MEDIUM,36.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,37.0,78.949,6238.604,1.0,MEDIUM,37.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,38.0,79.068,6317.672,1.0,MEDIUM,38.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,39.0,79.227,6396.899,1.0,MEDIUM,39.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,40.0,79.024,6475.923,1.0,MEDIUM,40.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,41.0,78.934,6554.857,1.0,MEDIUM,41.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,42.0,78.656,6633.513,1.0,MEDIUM,42.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,43.0,78.909,6712.422,1.0,MEDIUM,43.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,44.0,78.777,6791.199,1.0,MEDIUM,44.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,45.0,97.189,6888.388,1.0,MEDIUM,45.0,Alpine,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,46.0,83.643,6972.031,2.0,HARD,1.0,Alpine,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,47.0,78.675,7050.706,2.0,HARD,2.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,48.0,78.218,7128.924,2.0,HARD,3.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,49.0,80.722,7209.646,2.0,HARD,4.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,50.0,78.925,7288.571,2.0,HARD,5.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,51.0,79.348,7367.919,2.0,HARD,6.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,52.0,77.95,7445.869,2.0,HARD,7.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,53.0,77.055,7522.924,2.0,HARD,8.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,54.0,77.287,7600.211,2.0,HARD,9.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,55.0,77.126,7677.337,2.0,HARD,10.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,56.0,77.509,7754.846,2.0,HARD,11.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,57.0,77.963,7832.809,2.0,HARD,12.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,58.0,77.612,7910.421,2.0,HARD,13.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,59.0,99.182,8009.603,2.0,HARD,14.0,Alpine,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,60.0,113.136,8122.739,2.0,HARD,15.0,Alpine,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,61.0,93.183,8215.922,3.0,HARD,16.0,Alpine,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,62.0,118.441,8334.363,3.0,HARD,17.0,Alpine,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,63.0,92.959,8427.322,3.0,HARD,18.0,Alpine,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,64.0,84.677,8511.999,3.0,HARD,19.0,Alpine,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,65.0,81.81,8593.809,3.0,HARD,20.0,Alpine,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,66.0,114.401,8708.21,3.0,HARD,21.0,Alpine,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,67.0,106.41,8814.62,4.0,HARD,22.0,Alpine,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,68.0,,11070.224,4.0,HARD,23.0,Alpine,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,69.0,96.522,11166.746,5.0,SOFT,5.0,Alpine,14,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,70.0,,11331.61,5.0,SOFT,6.0,Alpine,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,71.0,86.19,11417.8,5.0,SOFT,7.0,Alpine,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,72.0,77.461,11495.261,5.0,SOFT,8.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,73.0,76.054,11571.315,5.0,SOFT,9.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,74.0,76.599,11647.914,5.0,SOFT,10.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,75.0,76.296,11724.21,5.0,SOFT,11.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,76.0,75.899,11800.109,5.0,SOFT,12.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,77.0,75.497,11875.606,5.0,SOFT,13.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,GAS,10,78.0,75.881,11951.487,5.0,SOFT,14.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,1.0,95.173,3415.039,1.0,SOFT,1.0,Cadillac,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,2.0,81.504,3496.543,1.0,SOFT,2.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,3.0,80.479,3577.022,1.0,SOFT,3.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,4.0,100.066,3677.088,1.0,SOFT,4.0,Cadillac,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,5.0,82.032,3759.12,2.0,MEDIUM,1.0,Cadillac,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,6.0,79.524,3838.644,2.0,MEDIUM,2.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,7.0,77.89,3916.534,2.0,MEDIUM,3.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,8.0,78.694,3995.228,2.0,MEDIUM,4.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,9.0,91.503,4086.731,2.0,MEDIUM,5.0,Cadillac,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,10.0,82.204,4168.935,3.0,MEDIUM,6.0,Cadillac,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,11.0,78.736,4247.671,3.0,MEDIUM,7.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,12.0,81.649,4329.32,3.0,MEDIUM,8.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,13.0,80.223,4409.543,3.0,MEDIUM,9.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,14.0,78.51,4488.053,3.0,MEDIUM,10.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,15.0,80.811,4568.864,3.0,MEDIUM,11.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,16.0,78.578,4647.442,3.0,MEDIUM,12.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,17.0,79.129,4726.571,3.0,MEDIUM,13.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,18.0,78.7,4805.271,3.0,MEDIUM,14.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,19.0,78.907,4884.178,3.0,MEDIUM,15.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,20.0,78.93,4963.108,3.0,MEDIUM,16.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,21.0,79.091,5042.199,3.0,MEDIUM,17.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,22.0,80.559,5122.758,3.0,MEDIUM,18.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,23.0,79.5,5202.258,3.0,MEDIUM,19.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,24.0,79.325,5281.583,3.0,MEDIUM,20.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,25.0,79.538,5361.121,3.0,MEDIUM,21.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,26.0,78.698,5439.819,3.0,MEDIUM,22.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,27.0,78.77,5518.589,3.0,MEDIUM,23.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,28.0,78.848,5597.437,3.0,MEDIUM,24.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,29.0,78.872,5676.309,3.0,MEDIUM,25.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,30.0,78.903,5755.212,3.0,MEDIUM,26.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,31.0,79.338,5834.55,3.0,MEDIUM,27.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,32.0,79.656,5914.206,3.0,MEDIUM,28.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,33.0,79.917,5994.123,3.0,MEDIUM,29.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,34.0,79.981,6074.104,3.0,MEDIUM,30.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,35.0,81.476,6155.58,3.0,MEDIUM,31.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,36.0,79.751,6235.331,3.0,MEDIUM,32.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,37.0,79.799,6315.13,3.0,MEDIUM,33.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,38.0,79.37,6394.5,3.0,MEDIUM,34.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,39.0,81.687,6476.187,3.0,MEDIUM,35.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,40.0,82.33,6558.517,3.0,MEDIUM,36.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,41.0,80.839,6639.356,3.0,MEDIUM,37.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,42.0,82.094,6721.45,3.0,MEDIUM,38.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,43.0,81.039,6802.489,3.0,MEDIUM,39.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,44.0,81.217,6883.706,3.0,MEDIUM,40.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,45.0,79.567,6963.273,3.0,MEDIUM,41.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,46.0,79.155,7042.428,3.0,MEDIUM,42.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,47.0,79.032,7121.46,3.0,MEDIUM,43.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,48.0,81.387,7202.847,3.0,MEDIUM,44.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,49.0,80.917,7283.764,3.0,MEDIUM,45.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,50.0,81.591,7365.355,3.0,MEDIUM,46.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,51.0,82.941,7448.296,3.0,MEDIUM,47.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,52.0,80.832,7529.128,3.0,MEDIUM,48.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,53.0,80.833,7609.961,3.0,MEDIUM,49.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,54.0,80.051,7690.012,3.0,MEDIUM,50.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,55.0,81.863,7771.875,3.0,MEDIUM,51.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,56.0,79.824,7851.699,3.0,MEDIUM,52.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,57.0,81.055,7932.754,3.0,MEDIUM,53.0,Cadillac,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,58.0,108.502,8041.256,3.0,MEDIUM,54.0,Cadillac,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,59.0,117.191,8158.447,3.0,MEDIUM,55.0,Cadillac,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,60.0,95.59,8254.037,4.0,SOFT,1.0,Cadillac,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,61.0,86.682,8340.719,4.0,SOFT,2.0,Cadillac,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,62.0,91.661,8432.38,4.0,SOFT,3.0,Cadillac,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,63.0,83.608,8515.988,4.0,SOFT,4.0,Cadillac,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,64.0,81.255,8597.243,4.0,SOFT,5.0,Cadillac,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,65.0,116.375,8713.618,4.0,SOFT,6.0,Cadillac,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,66.0,105.31,8818.928,5.0,SOFT,7.0,Cadillac,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,67.0,,10952.299,5.0,SOFT,8.0,Cadillac,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,68.0,149.156,11101.455,6.0,SOFT,7.0,Cadillac,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,69.0,87.787,11189.242,7.0,SOFT,1.0,Cadillac,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,70.0,144.525,11333.767,7.0,SOFT,2.0,Cadillac,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,71.0,89.934,11423.701,7.0,SOFT,3.0,Cadillac,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,72.0,80.966,11504.667,7.0,SOFT,4.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,73.0,79.857,11584.524,7.0,SOFT,5.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,74.0,77.518,11662.042,7.0,SOFT,6.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,75.0,77.393,11739.435,7.0,SOFT,7.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,76.0,77.117,11816.552,7.0,SOFT,8.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,77.0,76.894,11893.446,7.0,SOFT,9.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PER,11,78.0,76.891,11970.337,7.0,SOFT,10.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,1.0,82.525,3402.391,1.0,MEDIUM,1.0,Mercedes,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,2.0,77.653,3480.044,1.0,MEDIUM,2.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,3.0,76.996,3557.04,1.0,MEDIUM,3.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,4.0,77.048,3634.088,1.0,MEDIUM,4.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,5.0,76.661,3710.749,1.0,MEDIUM,5.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,6.0,76.723,3787.472,1.0,MEDIUM,6.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,7.0,76.05,3863.522,1.0,MEDIUM,7.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,8.0,76.284,3939.806,1.0,MEDIUM,8.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,9.0,76.298,4016.104,1.0,MEDIUM,9.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,10.0,77.067,4093.171,1.0,MEDIUM,10.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,11.0,78.223,4171.394,1.0,MEDIUM,11.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,12.0,77.43,4248.824,1.0,MEDIUM,12.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,13.0,77.313,4326.137,1.0,MEDIUM,13.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,14.0,77.222,4403.359,1.0,MEDIUM,14.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,15.0,77.193,4480.552,1.0,MEDIUM,15.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,16.0,77.24,4557.792,1.0,MEDIUM,16.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,17.0,77.05,4634.842,1.0,MEDIUM,17.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,18.0,76.802,4711.644,1.0,MEDIUM,18.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,19.0,76.061,4787.705,1.0,MEDIUM,19.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,20.0,76.468,4864.173,1.0,MEDIUM,20.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,21.0,76.65,4940.823,1.0,MEDIUM,21.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,22.0,76.369,5017.192,1.0,MEDIUM,22.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,23.0,76.538,5093.73,1.0,MEDIUM,23.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,24.0,76.669,5170.399,1.0,MEDIUM,24.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,25.0,76.888,5247.287,1.0,MEDIUM,25.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,26.0,76.964,5324.251,1.0,MEDIUM,26.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,27.0,77.29,5401.541,1.0,MEDIUM,27.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,28.0,76.644,5478.185,1.0,MEDIUM,28.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,29.0,76.957,5555.142,1.0,MEDIUM,29.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,30.0,76.838,5631.98,1.0,MEDIUM,30.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,31.0,76.617,5708.597,1.0,MEDIUM,31.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,32.0,76.788,5785.385,1.0,MEDIUM,32.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,33.0,76.862,5862.247,1.0,MEDIUM,33.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,34.0,77.201,5939.448,1.0,MEDIUM,34.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,35.0,76.191,6015.639,1.0,MEDIUM,35.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,36.0,76.356,6091.995,1.0,MEDIUM,36.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,37.0,93.595,6185.59,1.0,MEDIUM,37.0,Mercedes,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,38.0,82.214,6267.804,2.0,HARD,1.0,Mercedes,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,39.0,76.806,6344.61,2.0,HARD,2.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,40.0,76.757,6421.367,2.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,41.0,76.066,6497.433,2.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,42.0,76.342,6573.775,2.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,43.0,77.071,6650.846,2.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,44.0,75.716,6726.562,2.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,45.0,77.103,6803.665,2.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,46.0,76.976,6880.641,2.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,47.0,75.572,6956.213,2.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,48.0,76.247,7032.46,2.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,49.0,76.127,7108.587,2.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,50.0,76.858,7185.445,2.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,51.0,75.937,7261.382,2.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,52.0,76.218,7337.6,2.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,53.0,76.737,7414.337,2.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,54.0,75.889,7490.226,2.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,55.0,74.99,7565.216,2.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,56.0,75.302,7640.518,2.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,57.0,75.138,7715.656,2.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,58.0,75.812,7791.468,2.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,59.0,76.057,7867.525,2.0,HARD,22.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,60.0,82.472,7949.997,2.0,HARD,23.0,Mercedes,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,61.0,136.745,8086.742,2.0,HARD,24.0,Mercedes,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,62.0,120.361,8207.103,3.0,SOFT,5.0,Mercedes,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,63.0,120.412,8327.515,3.0,SOFT,6.0,Mercedes,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,64.0,132.838,8460.353,3.0,SOFT,7.0,Mercedes,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,65.0,119.223,8579.576,3.0,SOFT,8.0,Mercedes,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,66.0,111.182,8690.758,3.0,SOFT,9.0,Mercedes,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,67.0,105.482,8796.24,4.0,SOFT,10.0,Mercedes,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,68.0,,11059.06,4.0,SOFT,11.0,Mercedes,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,69.0,103.473,11162.533,5.0,SOFT,5.0,Mercedes,14,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,70.0,,11329.8,5.0,SOFT,6.0,Mercedes,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,71.0,80.271,11410.071,5.0,SOFT,7.0,Mercedes,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,72.0,75.737,11485.808,5.0,SOFT,8.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,73.0,74.585,11560.393,5.0,SOFT,9.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,74.0,73.958,11634.351,5.0,SOFT,10.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,75.0,74.008,11708.359,5.0,SOFT,11.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,76.0,73.481,11781.84,5.0,SOFT,12.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,77.0,73.728,11855.568,5.0,SOFT,13.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ANT,12,78.0,75.614,11931.182,5.0,SOFT,14.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,1.0,97.265,3417.131,1.0,MEDIUM,1.0,Aston Martin,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,2.0,82.343,3499.474,1.0,MEDIUM,2.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,3.0,99.049,3598.523,1.0,MEDIUM,3.0,Aston Martin,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,4.0,83.312,3681.835,2.0,SOFT,1.0,Aston Martin,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,5.0,80.326,3762.161,2.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,6.0,79.772,3841.933,2.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,7.0,79.16,3921.093,2.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,8.0,79.213,4000.306,2.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,9.0,79.431,4079.737,2.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,10.0,79.993,4159.73,2.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,11.0,79.595,4239.325,2.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,12.0,79.031,4318.356,2.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,13.0,79.032,4397.388,2.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,14.0,79.338,4476.726,2.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,15.0,79.415,4556.141,2.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,16.0,80.915,4637.056,2.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,17.0,81.52,4718.576,2.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,18.0,80.779,4799.355,2.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,19.0,79.936,4879.291,2.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,20.0,79.287,4958.578,2.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,21.0,79.246,5037.824,2.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,22.0,79.169,5116.993,2.0,SOFT,19.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,23.0,79.157,5196.15,2.0,SOFT,20.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,24.0,79.072,5275.222,2.0,SOFT,21.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,25.0,79.017,5354.239,2.0,SOFT,22.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,26.0,78.881,5433.12,2.0,SOFT,23.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,27.0,79.287,5512.407,2.0,SOFT,24.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,28.0,79.172,5591.579,2.0,SOFT,25.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,29.0,79.251,5670.83,2.0,SOFT,26.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,30.0,79.23,5750.06,2.0,SOFT,27.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,31.0,79.014,5829.074,2.0,SOFT,28.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,32.0,78.798,5907.872,2.0,SOFT,29.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,33.0,78.696,5986.568,2.0,SOFT,30.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,34.0,78.754,6065.322,2.0,SOFT,31.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,35.0,79.137,6144.459,2.0,SOFT,32.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,36.0,78.911,6223.37,2.0,SOFT,33.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,37.0,79.01,6302.38,2.0,SOFT,34.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,38.0,78.898,6381.278,2.0,SOFT,35.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,39.0,78.896,6460.174,2.0,SOFT,36.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,40.0,79.02,6539.194,2.0,SOFT,37.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,41.0,79.215,6618.409,2.0,SOFT,38.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,42.0,79.414,6697.823,2.0,SOFT,39.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,43.0,79.699,6777.522,2.0,SOFT,40.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,44.0,79.618,6857.14,2.0,SOFT,41.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,45.0,79.913,6937.053,2.0,SOFT,42.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,46.0,80.144,7017.197,2.0,SOFT,43.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,47.0,81.262,7098.459,2.0,SOFT,44.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,48.0,81.05,7179.509,2.0,SOFT,45.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,49.0,81.64,7261.149,2.0,SOFT,46.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,50.0,80.924,7342.073,2.0,SOFT,47.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,51.0,81.245,7423.318,2.0,SOFT,48.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,52.0,79.528,7502.846,2.0,SOFT,49.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,53.0,79.985,7582.831,2.0,SOFT,50.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,54.0,79.72,7662.551,2.0,SOFT,51.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,55.0,80.968,7743.519,2.0,SOFT,52.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,56.0,82.466,7825.985,2.0,SOFT,53.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,57.0,79.628,7905.613,2.0,SOFT,54.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,58.0,115.284,8020.897,2.0,SOFT,55.0,Aston Martin,124,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,59.0,113.313,8134.21,3.0,SOFT,1.0,Aston Martin,4,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,60.0,92.376,8226.586,4.0,SOFT,2.0,Aston Martin,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,61.0,110.181,8336.767,4.0,SOFT,3.0,Aston Martin,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,62.0,93.687,8430.454,4.0,SOFT,4.0,Aston Martin,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,63.0,83.982,8514.436,4.0,SOFT,5.0,Aston Martin,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,64.0,82.122,8596.558,4.0,SOFT,6.0,Aston Martin,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,65.0,115.551,8712.109,4.0,SOFT,7.0,Aston Martin,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,66.0,106.295,8818.404,5.0,SOFT,8.0,Aston Martin,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,67.0,,10948.674,5.0,SOFT,9.0,Aston Martin,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,68.0,,11098.911,6.0,SOFT,9.0,Aston Martin,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,69.0,89.317,11188.228,7.0,SOFT,9.0,Aston Martin,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,70.0,145.293,11333.521,7.0,SOFT,10.0,Aston Martin,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,71.0,90.552,11424.073,7.0,SOFT,11.0,Aston Martin,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,72.0,80.898,11504.971,7.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,73.0,80.15,11585.121,7.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,74.0,78.301,11663.422,7.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,75.0,78.056,11741.478,7.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,76.0,77.276,11818.754,7.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,77.0,77.12,11895.874,7.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALO,14,78.0,77.14,11973.014,7.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,1.0,85.514,3405.38,1.0,MEDIUM,1.0,Ferrari,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,2.0,78.553,3483.933,1.0,MEDIUM,2.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,3.0,77.793,3561.726,1.0,MEDIUM,3.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,4.0,77.47,3639.196,1.0,MEDIUM,4.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,5.0,77.655,3716.851,1.0,MEDIUM,5.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,6.0,77.74,3794.591,1.0,MEDIUM,6.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,7.0,77.338,3871.929,1.0,MEDIUM,7.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,8.0,76.909,3948.838,1.0,MEDIUM,8.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,9.0,77.188,4026.026,1.0,MEDIUM,9.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,10.0,76.84,4102.866,1.0,MEDIUM,10.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,11.0,77.013,4179.879,1.0,MEDIUM,11.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,12.0,77.56,4257.439,1.0,MEDIUM,12.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,13.0,77.081,4334.52,1.0,MEDIUM,13.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,14.0,77.156,4411.676,1.0,MEDIUM,14.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,15.0,77.313,4488.989,1.0,MEDIUM,15.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,16.0,77.015,4566.004,1.0,MEDIUM,16.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,17.0,77.688,4643.692,1.0,MEDIUM,17.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,18.0,77.363,4721.055,1.0,MEDIUM,18.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,19.0,77.698,4798.753,1.0,MEDIUM,19.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,20.0,77.219,4875.972,1.0,MEDIUM,20.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,21.0,76.881,4952.853,1.0,MEDIUM,21.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,22.0,76.971,5029.824,1.0,MEDIUM,22.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,23.0,77.884,5107.708,1.0,MEDIUM,23.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,24.0,76.955,5184.663,1.0,MEDIUM,24.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,25.0,76.983,5261.646,1.0,MEDIUM,25.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,26.0,77.021,5338.667,1.0,MEDIUM,26.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,27.0,77.168,5415.835,1.0,MEDIUM,27.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,28.0,77.572,5493.407,1.0,MEDIUM,28.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,29.0,77.188,5570.595,1.0,MEDIUM,29.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,30.0,77.07,5647.665,1.0,MEDIUM,30.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,31.0,77.579,5725.244,1.0,MEDIUM,31.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,32.0,77.919,5803.163,1.0,MEDIUM,32.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,33.0,77.666,5880.829,1.0,MEDIUM,33.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,34.0,77.907,5958.736,1.0,MEDIUM,34.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,35.0,96.5,6055.236,1.0,MEDIUM,35.0,Ferrari,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,36.0,83.426,6138.662,2.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,37.0,77.652,6216.314,2.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,38.0,76.872,6293.186,2.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,39.0,76.569,6369.755,2.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,40.0,76.564,6446.319,2.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,41.0,77.872,6524.191,2.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,42.0,77.536,6601.727,2.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,43.0,76.574,6678.301,2.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,44.0,76.345,6754.646,2.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,45.0,76.538,6831.184,2.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,46.0,76.271,6907.455,2.0,HARD,11.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,47.0,76.037,6983.492,2.0,HARD,12.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,48.0,76.217,7059.709,2.0,HARD,13.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,49.0,76.195,7135.904,2.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,50.0,76.211,7212.115,2.0,HARD,15.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,51.0,76.474,7288.589,2.0,HARD,16.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,52.0,76.696,7365.285,2.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,53.0,75.964,7441.249,2.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,54.0,76.15,7517.399,2.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,55.0,76.056,7593.455,2.0,HARD,20.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,56.0,77.088,7670.543,2.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,57.0,76.393,7746.936,2.0,HARD,22.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,58.0,76.378,7823.314,2.0,HARD,23.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,59.0,76.476,7899.79,2.0,HARD,24.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,60.0,121.657,8021.447,2.0,HARD,25.0,Ferrari,124,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,61.0,115.305,8136.752,3.0,SOFT,5.0,Ferrari,4,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,62.0,94.67,8231.422,4.0,SOFT,6.0,Ferrari,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,63.0,106.85,8338.272,4.0,SOFT,7.0,Ferrari,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,64.0,124.443,8462.715,4.0,SOFT,8.0,Ferrari,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LEC,16,65.0,,8834.713,4.0,SOFT,9.0,Ferrari,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,1.0,99.197,3419.063,1.0,MEDIUM,1.0,Aston Martin,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,2.0,82.082,3501.145,1.0,MEDIUM,2.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,3.0,81.9,3583.045,1.0,MEDIUM,3.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,4.0,98.509,3681.554,1.0,MEDIUM,4.0,Aston Martin,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,5.0,84.018,3765.572,2.0,SOFT,1.0,Aston Martin,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,6.0,79.755,3845.327,2.0,SOFT,2.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,7.0,79.602,3924.929,2.0,SOFT,3.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,8.0,79.176,4004.105,2.0,SOFT,4.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,9.0,79.144,4083.249,2.0,SOFT,5.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,10.0,79.314,4162.563,2.0,SOFT,6.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,11.0,79.543,4242.106,2.0,SOFT,7.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,12.0,79.438,4321.544,2.0,SOFT,8.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,13.0,79.14,4400.684,2.0,SOFT,9.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,14.0,80.9,4481.584,2.0,SOFT,10.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,15.0,81.621,4563.205,2.0,SOFT,11.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,16.0,81.441,4644.646,2.0,SOFT,12.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,17.0,79.611,4724.257,2.0,SOFT,13.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,18.0,79.331,4803.588,2.0,SOFT,14.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,19.0,79.246,4882.834,2.0,SOFT,15.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,20.0,79.147,4961.981,2.0,SOFT,16.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,21.0,79.333,5041.314,2.0,SOFT,17.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,22.0,79.396,5120.71,2.0,SOFT,18.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,23.0,79.471,5200.181,2.0,SOFT,19.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,24.0,79.046,5279.227,2.0,SOFT,20.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,25.0,78.873,5358.1,2.0,SOFT,21.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,26.0,79.243,5437.343,2.0,SOFT,22.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,27.0,79.21,5516.553,2.0,SOFT,23.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,28.0,79.178,5595.731,2.0,SOFT,24.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,29.0,78.968,5674.699,2.0,SOFT,25.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,30.0,79.045,5753.744,2.0,SOFT,26.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,31.0,78.966,5832.71,2.0,SOFT,27.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,32.0,79.052,5911.762,2.0,SOFT,28.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,33.0,79.219,5990.981,2.0,SOFT,29.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,34.0,78.95,6069.931,2.0,SOFT,30.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,35.0,79.099,6149.03,2.0,SOFT,31.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,36.0,78.845,6227.875,2.0,SOFT,32.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,37.0,79.008,6306.883,2.0,SOFT,33.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,38.0,79.192,6386.075,2.0,SOFT,34.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,39.0,79.236,6465.311,2.0,SOFT,35.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,40.0,82.815,6548.126,2.0,SOFT,36.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,41.0,79.36,6627.486,2.0,SOFT,37.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,42.0,78.995,6706.481,2.0,SOFT,38.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,43.0,79.304,6785.785,2.0,SOFT,39.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,44.0,79.428,6865.213,2.0,SOFT,40.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,45.0,79.237,6944.45,2.0,SOFT,41.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,46.0,79.582,7024.032,2.0,SOFT,42.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,47.0,82.15,7106.182,2.0,SOFT,43.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,48.0,83.701,7189.883,2.0,SOFT,44.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,49.0,79.95,7269.833,2.0,SOFT,45.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,50.0,79.361,7349.194,2.0,SOFT,46.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,51.0,79.816,7429.01,2.0,SOFT,47.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,52.0,79.29,7508.3,2.0,SOFT,48.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,53.0,81.326,7589.626,2.0,SOFT,49.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,54.0,83.108,7672.734,2.0,SOFT,50.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,55.0,79.56,7752.294,2.0,SOFT,51.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,56.0,79.333,7831.627,2.0,SOFT,52.0,Aston Martin,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,STR,18,57.0,,8834.713,2.0,SOFT,53.0,Aston Martin,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,1.0,92.115,3411.981,1.0,MEDIUM,1.0,Williams,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,2.0,81.06,3493.041,1.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,3.0,80.341,3573.382,1.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,4.0,79.888,3653.27,1.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,5.0,79.662,3732.932,1.0,MEDIUM,5.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,6.0,79.374,3812.306,1.0,MEDIUM,6.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,7.0,78.947,3891.253,1.0,MEDIUM,7.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,8.0,78.742,3969.995,1.0,MEDIUM,8.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,9.0,78.647,4048.642,1.0,MEDIUM,9.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,10.0,78.487,4127.129,1.0,MEDIUM,10.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,11.0,78.578,4205.707,1.0,MEDIUM,11.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,12.0,78.364,4284.071,1.0,MEDIUM,12.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,13.0,78.834,4362.905,1.0,MEDIUM,13.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,14.0,78.836,4441.741,1.0,MEDIUM,14.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,15.0,78.453,4520.194,1.0,MEDIUM,15.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,16.0,78.746,4598.94,1.0,MEDIUM,16.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,17.0,78.725,4677.665,1.0,MEDIUM,17.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,18.0,78.823,4756.488,1.0,MEDIUM,18.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,19.0,78.862,4835.35,1.0,MEDIUM,19.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,20.0,78.724,4914.074,1.0,MEDIUM,20.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,21.0,79.114,4993.188,1.0,MEDIUM,21.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,22.0,79.55,5072.738,1.0,MEDIUM,22.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,23.0,79.12,5151.858,1.0,MEDIUM,23.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,24.0,79.131,5230.989,1.0,MEDIUM,24.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,25.0,79.133,5310.122,1.0,MEDIUM,25.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,26.0,79.319,5389.441,1.0,MEDIUM,26.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,27.0,78.975,5468.416,1.0,MEDIUM,27.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,28.0,78.997,5547.413,1.0,MEDIUM,28.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,29.0,79.119,5626.532,1.0,MEDIUM,29.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,30.0,79.052,5705.584,1.0,MEDIUM,30.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,31.0,79.731,5785.315,1.0,MEDIUM,31.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,32.0,80.849,5866.164,1.0,MEDIUM,32.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,33.0,79.508,5945.672,1.0,MEDIUM,33.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,34.0,79.675,6025.347,1.0,MEDIUM,34.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,35.0,79.622,6104.969,1.0,MEDIUM,35.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,36.0,79.326,6184.295,1.0,MEDIUM,36.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,37.0,79.436,6263.731,1.0,MEDIUM,37.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,38.0,79.891,6343.622,1.0,MEDIUM,38.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,39.0,82.772,6426.394,1.0,MEDIUM,39.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,40.0,79.731,6506.125,1.0,MEDIUM,40.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,41.0,79.424,6585.549,1.0,MEDIUM,41.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,42.0,79.851,6665.4,1.0,MEDIUM,42.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,43.0,99.0,6764.4,1.0,MEDIUM,43.0,Williams,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,44.0,82.343,6846.743,2.0,SOFT,1.0,Williams,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,45.0,83.382,6930.125,2.0,SOFT,2.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,46.0,82.221,7012.346,2.0,SOFT,3.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,47.0,82.903,7095.249,2.0,SOFT,4.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,48.0,79.909,7175.158,2.0,SOFT,5.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,49.0,79.573,7254.731,2.0,SOFT,6.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,50.0,80.227,7334.958,2.0,SOFT,7.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,51.0,81.678,7416.636,2.0,SOFT,8.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,52.0,79.769,7496.405,2.0,SOFT,9.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,53.0,82.571,7578.976,2.0,SOFT,10.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,54.0,78.157,7657.133,2.0,SOFT,11.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,55.0,78.9,7736.033,2.0,SOFT,12.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,56.0,77.946,7813.979,2.0,SOFT,13.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,57.0,78.191,7892.17,2.0,SOFT,14.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,58.0,97.607,7989.777,2.0,SOFT,15.0,Williams,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,59.0,109.71,8099.487,2.0,SOFT,16.0,Williams,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,60.0,111.635,8211.122,3.0,SOFT,17.0,Williams,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,61.0,119.566,8330.688,3.0,SOFT,18.0,Williams,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,62.0,91.249,8421.937,3.0,SOFT,19.0,Williams,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,63.0,83.345,8505.282,3.0,SOFT,20.0,Williams,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,64.0,80.988,8586.27,3.0,SOFT,21.0,Williams,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,65.0,113.813,8700.083,3.0,SOFT,22.0,Williams,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,66.0,107.265,8807.348,4.0,SOFT,23.0,Williams,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,67.0,,10936.64,4.0,SOFT,24.0,Williams,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,68.0,145.09,11081.73,5.0,SOFT,7.0,Williams,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,69.0,92.833,11174.563,6.0,SOFT,7.0,Williams,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,70.0,,11332.608,6.0,SOFT,8.0,Williams,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,71.0,89.804,11422.412,6.0,SOFT,9.0,Williams,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,72.0,81.351,11503.763,6.0,SOFT,10.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,73.0,78.158,11581.921,6.0,SOFT,11.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,74.0,76.776,11658.697,6.0,SOFT,12.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,75.0,76.476,11735.173,6.0,SOFT,13.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,76.0,76.604,11811.777,6.0,SOFT,14.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,77.0,76.406,11888.183,6.0,SOFT,15.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,ALB,23,78.0,76.393,11964.576,6.0,SOFT,16.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,1.0,93.75,3413.616,1.0,MEDIUM,1.0,Audi,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,2.0,81.223,3494.839,1.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,3.0,80.535,3575.374,1.0,MEDIUM,3.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,4.0,80.016,3655.39,1.0,MEDIUM,4.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,5.0,80.179,3735.569,1.0,MEDIUM,5.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,6.0,79.709,3815.278,1.0,MEDIUM,6.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,7.0,79.182,3894.46,1.0,MEDIUM,7.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,8.0,79.781,3974.241,1.0,MEDIUM,8.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,9.0,79.373,4053.614,1.0,MEDIUM,9.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,10.0,79.75,4133.364,1.0,MEDIUM,10.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,11.0,78.714,4212.078,1.0,MEDIUM,11.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,12.0,94.679,4306.757,1.0,MEDIUM,12.0,Audi,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,13.0,80.349,4387.106,2.0,HARD,1.0,Audi,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,14.0,76.498,4463.604,2.0,HARD,2.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,15.0,76.332,4539.936,2.0,HARD,3.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,16.0,76.369,4616.305,2.0,HARD,4.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,17.0,76.733,4693.038,2.0,HARD,5.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,18.0,77.167,4770.205,2.0,HARD,6.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,19.0,76.824,4847.029,2.0,HARD,7.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,20.0,78.053,4925.082,2.0,HARD,8.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,21.0,78.043,5003.125,2.0,HARD,9.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,22.0,78.124,5081.249,2.0,HARD,10.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,23.0,78.399,5159.648,2.0,HARD,11.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,24.0,78.826,5238.474,2.0,HARD,12.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,25.0,79.19,5317.664,2.0,HARD,13.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,26.0,78.543,5396.207,2.0,HARD,14.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,27.0,79.256,5475.463,2.0,HARD,15.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,28.0,79.789,5555.252,2.0,HARD,16.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,29.0,79.87,5635.122,2.0,HARD,17.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,30.0,78.774,5713.896,2.0,HARD,18.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,31.0,81.04,5794.936,2.0,HARD,19.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,32.0,79.339,5874.275,2.0,HARD,20.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,33.0,79.006,5953.281,2.0,HARD,21.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,34.0,80.295,6033.576,2.0,HARD,22.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,35.0,81.584,6115.16,2.0,HARD,23.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,36.0,80.936,6196.096,2.0,HARD,24.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,37.0,81.164,6277.26,2.0,HARD,25.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,38.0,82.702,6359.962,2.0,HARD,26.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,39.0,81.961,6441.923,2.0,HARD,27.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,40.0,82.432,6524.355,2.0,HARD,28.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,41.0,81.902,6606.257,2.0,HARD,29.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,42.0,81.921,6688.178,2.0,HARD,30.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,43.0,81.492,6769.67,2.0,HARD,31.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,44.0,80.026,6849.696,2.0,HARD,32.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,45.0,81.175,6930.871,2.0,HARD,33.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,46.0,82.241,7013.112,2.0,HARD,34.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,47.0,82.282,7095.394,2.0,HARD,35.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,48.0,80.325,7175.719,2.0,HARD,36.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,49.0,79.608,7255.327,2.0,HARD,37.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,50.0,80.552,7335.879,2.0,HARD,38.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,51.0,81.379,7417.258,2.0,HARD,39.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,52.0,79.399,7496.657,2.0,HARD,40.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,53.0,83.001,7579.658,2.0,HARD,41.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,54.0,78.069,7657.727,2.0,HARD,42.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,55.0,78.879,7736.606,2.0,HARD,43.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,56.0,78.959,7815.565,2.0,HARD,44.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,57.0,79.124,7894.689,2.0,HARD,45.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,58.0,109.494,8004.183,2.0,HARD,46.0,Audi,124,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,59.0,114.002,8118.185,3.0,HARD,47.0,Audi,4,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,60.0,95.614,8213.799,4.0,HARD,48.0,Audi,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,61.0,119.046,8332.845,4.0,HARD,49.0,Audi,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,62.0,91.763,8424.608,4.0,HARD,50.0,Audi,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,63.0,84.041,8508.649,4.0,HARD,51.0,Audi,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,64.0,82.177,8590.826,4.0,HARD,52.0,Audi,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,65.0,113.34,8704.166,4.0,HARD,53.0,Audi,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,66.0,108.126,8812.292,5.0,HARD,54.0,Audi,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,67.0,,10944.073,5.0,HARD,55.0,Audi,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,68.0,145.851,11089.924,6.0,SOFT,1.0,Audi,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,69.0,89.974,11179.898,7.0,SOFT,2.0,Audi,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,70.0,,11333.359,7.0,SOFT,3.0,Audi,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,71.0,89.192,11422.551,7.0,SOFT,4.0,Audi,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,72.0,79.754,11502.305,7.0,SOFT,5.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,73.0,80.075,11582.38,7.0,SOFT,6.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,74.0,76.748,11659.128,7.0,SOFT,7.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,75.0,76.353,11735.481,7.0,SOFT,8.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,76.0,76.734,11812.215,7.0,SOFT,9.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,77.0,76.49,11888.705,7.0,SOFT,10.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HUL,27,78.0,76.511,11965.216,7.0,SOFT,11.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,VER,3,1.0,,3402.391,1.0,MEDIUM,1.0,Red Bull Racing,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,1.0,91.318,3411.184,1.0,MEDIUM,1.0,Racing Bulls,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,2.0,80.669,3491.853,1.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,3.0,80.394,3572.247,1.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,4.0,79.683,3651.93,1.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,5.0,79.307,3731.237,1.0,MEDIUM,5.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,6.0,79.546,3810.783,1.0,MEDIUM,6.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,7.0,79.053,3889.836,1.0,MEDIUM,7.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,8.0,78.861,3968.697,1.0,MEDIUM,8.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,9.0,78.481,4047.178,1.0,MEDIUM,9.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,10.0,78.474,4125.652,1.0,MEDIUM,10.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,11.0,78.543,4204.195,1.0,MEDIUM,11.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,12.0,78.483,4282.678,1.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,13.0,78.515,4361.193,1.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,14.0,78.624,4439.817,1.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,15.0,78.529,4518.346,1.0,MEDIUM,15.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,16.0,78.72,4597.066,1.0,MEDIUM,16.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,17.0,78.793,4675.859,1.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,18.0,78.958,4754.817,1.0,MEDIUM,18.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,19.0,78.941,4833.758,1.0,MEDIUM,19.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,20.0,78.858,4912.616,1.0,MEDIUM,20.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,21.0,78.962,4991.578,1.0,MEDIUM,21.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,22.0,79.047,5070.625,1.0,MEDIUM,22.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,23.0,79.026,5149.651,1.0,MEDIUM,23.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,24.0,78.926,5228.577,1.0,MEDIUM,24.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,25.0,78.88,5307.457,1.0,MEDIUM,25.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,26.0,79.062,5386.519,1.0,MEDIUM,26.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,27.0,79.058,5465.577,1.0,MEDIUM,27.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,28.0,78.744,5544.321,1.0,MEDIUM,28.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,29.0,78.998,5623.319,1.0,MEDIUM,29.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,30.0,78.493,5701.812,1.0,MEDIUM,30.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,31.0,78.7,5780.512,1.0,MEDIUM,31.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,32.0,79.291,5859.803,1.0,MEDIUM,32.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,33.0,81.305,5941.108,1.0,MEDIUM,33.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,34.0,79.949,6021.057,1.0,MEDIUM,34.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,35.0,78.97,6100.027,1.0,MEDIUM,35.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,36.0,78.634,6178.661,1.0,MEDIUM,36.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,37.0,78.602,6257.263,1.0,MEDIUM,37.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,38.0,78.451,6335.714,1.0,MEDIUM,38.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,39.0,78.449,6414.163,1.0,MEDIUM,39.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,40.0,78.576,6492.739,1.0,MEDIUM,40.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,41.0,78.752,6571.491,1.0,MEDIUM,41.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,42.0,81.09,6652.581,1.0,MEDIUM,42.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,43.0,79.403,6731.984,1.0,MEDIUM,43.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,44.0,97.323,6829.307,1.0,MEDIUM,44.0,Racing Bulls,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,45.0,84.98,6914.287,2.0,SOFT,5.0,Racing Bulls,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,46.0,78.88,6993.167,2.0,SOFT,6.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,47.0,77.982,7071.149,2.0,SOFT,7.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,48.0,77.937,7149.086,2.0,SOFT,8.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,49.0,77.784,7226.87,2.0,SOFT,9.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,50.0,77.257,7304.127,2.0,SOFT,10.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,51.0,77.506,7381.633,2.0,SOFT,11.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,52.0,77.705,7459.338,2.0,SOFT,12.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,53.0,77.812,7537.15,2.0,SOFT,13.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,54.0,77.528,7614.678,2.0,SOFT,14.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,55.0,77.644,7692.322,2.0,SOFT,15.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,56.0,78.018,7770.34,2.0,SOFT,16.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,57.0,77.57,7847.91,2.0,SOFT,17.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,58.0,78.581,7926.491,2.0,SOFT,18.0,Racing Bulls,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,59.0,107.233,8033.724,2.0,SOFT,19.0,Racing Bulls,24,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,60.0,114.186,8147.91,2.0,SOFT,20.0,Racing Bulls,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,61.0,87.188,8235.098,3.0,SOFT,21.0,Racing Bulls,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,62.0,104.492,8339.59,3.0,SOFT,22.0,Racing Bulls,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,63.0,103.665,8443.255,3.0,SOFT,23.0,Racing Bulls,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,64.0,79.559,8522.814,3.0,SOFT,24.0,Racing Bulls,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,65.0,80.385,8603.199,3.0,SOFT,25.0,Racing Bulls,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,66.0,115.503,8718.702,3.0,SOFT,26.0,Racing Bulls,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,67.0,103.746,8822.448,4.0,SOFT,7.0,Racing Bulls,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,68.0,,11076.1,4.0,SOFT,8.0,Racing Bulls,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,69.0,95.103,11171.203,5.0,SOFT,7.0,Racing Bulls,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,70.0,,11332.214,5.0,SOFT,8.0,Racing Bulls,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,71.0,88.68,11420.894,5.0,SOFT,9.0,Racing Bulls,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,72.0,79.113,11500.007,5.0,SOFT,10.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,73.0,77.645,11577.652,5.0,SOFT,11.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,74.0,76.396,11654.048,5.0,SOFT,12.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,75.0,76.047,11730.095,5.0,SOFT,13.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,76.0,75.754,11805.849,5.0,SOFT,14.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,77.0,75.893,11881.742,5.0,SOFT,15.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LAW,30,78.0,75.963,11957.705,5.0,SOFT,16.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,1.0,96.563,3416.429,1.0,MEDIUM,1.0,Haas F1 Team,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,2.0,81.663,3498.092,1.0,MEDIUM,2.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,3.0,80.587,3578.679,1.0,MEDIUM,3.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,4.0,80.237,3658.916,1.0,MEDIUM,4.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,5.0,79.445,3738.361,1.0,MEDIUM,5.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,6.0,79.582,3817.943,1.0,MEDIUM,6.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,7.0,79.707,3897.65,1.0,MEDIUM,7.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,8.0,79.322,3976.972,1.0,MEDIUM,8.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,9.0,97.26,4074.232,1.0,MEDIUM,9.0,Haas F1 Team,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,10.0,81.954,4156.186,2.0,HARD,1.0,Haas F1 Team,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,11.0,77.948,4234.134,2.0,HARD,2.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,12.0,77.261,4311.395,2.0,HARD,3.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,13.0,77.754,4389.149,2.0,HARD,4.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,14.0,77.46,4466.609,2.0,HARD,5.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,15.0,77.572,4544.181,2.0,HARD,6.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,16.0,77.739,4621.92,2.0,HARD,7.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,17.0,77.733,4699.653,2.0,HARD,8.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,18.0,77.669,4777.322,2.0,HARD,9.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,19.0,77.62,4854.942,2.0,HARD,10.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,20.0,77.728,4932.67,2.0,HARD,11.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,21.0,77.968,5010.638,2.0,HARD,12.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,22.0,78.371,5089.009,2.0,HARD,13.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,23.0,77.882,5166.891,2.0,HARD,14.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,24.0,77.999,5244.89,2.0,HARD,15.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,25.0,78.054,5322.944,2.0,HARD,16.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,26.0,80.682,5403.626,2.0,HARD,17.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,27.0,78.592,5482.218,2.0,HARD,18.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,28.0,78.638,5560.856,2.0,HARD,19.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,29.0,78.676,5639.532,2.0,HARD,20.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,30.0,78.57,5718.102,2.0,HARD,21.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,31.0,78.697,5796.799,2.0,HARD,22.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,32.0,78.96,5875.759,2.0,HARD,23.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,33.0,78.887,5954.646,2.0,HARD,24.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,34.0,79.757,6034.403,2.0,HARD,25.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,35.0,81.488,6115.891,2.0,HARD,26.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,36.0,80.975,6196.866,2.0,HARD,27.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,37.0,81.171,6278.037,2.0,HARD,28.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,38.0,82.642,6360.679,2.0,HARD,29.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,39.0,81.871,6442.55,2.0,HARD,30.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,40.0,82.983,6525.533,2.0,HARD,31.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,41.0,81.348,6606.881,2.0,HARD,32.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,42.0,81.911,6688.792,2.0,HARD,33.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,43.0,81.463,6770.255,2.0,HARD,34.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,44.0,80.256,6850.511,2.0,HARD,35.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,45.0,81.039,6931.55,2.0,HARD,36.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,46.0,82.124,7013.674,2.0,HARD,37.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,47.0,82.188,7095.862,2.0,HARD,38.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,48.0,80.817,7176.679,2.0,HARD,39.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,49.0,79.421,7256.1,2.0,HARD,40.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,50.0,81.521,7337.621,2.0,HARD,41.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,51.0,80.616,7418.237,2.0,HARD,42.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,52.0,79.422,7497.659,2.0,HARD,43.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,53.0,82.74,7580.399,2.0,HARD,44.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,54.0,79.325,7659.724,2.0,HARD,45.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,55.0,79.215,7738.939,2.0,HARD,46.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,56.0,81.786,7820.725,2.0,HARD,47.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,57.0,81.703,7902.428,2.0,HARD,48.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,58.0,102.247,8004.675,2.0,HARD,49.0,Haas F1 Team,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,59.0,111.511,8116.186,2.0,HARD,50.0,Haas F1 Team,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,60.0,96.711,8212.897,3.0,HARD,51.0,Haas F1 Team,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,61.0,119.324,8332.221,3.0,HARD,52.0,Haas F1 Team,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,62.0,91.759,8423.98,3.0,HARD,53.0,Haas F1 Team,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,63.0,84.092,8508.072,3.0,HARD,54.0,Haas F1 Team,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,64.0,81.909,8589.981,3.0,HARD,55.0,Haas F1 Team,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,65.0,112.434,8702.415,3.0,HARD,56.0,Haas F1 Team,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,66.0,107.974,8810.389,4.0,HARD,57.0,Haas F1 Team,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,67.0,,10941.569,4.0,HARD,58.0,Haas F1 Team,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,68.0,145.286,11086.855,5.0,SOFT,1.0,Haas F1 Team,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,69.0,91.519,11178.374,6.0,SOFT,2.0,Haas F1 Team,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,70.0,,11333.175,6.0,SOFT,3.0,Haas F1 Team,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,71.0,89.856,11423.031,6.0,SOFT,4.0,Haas F1 Team,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,72.0,81.025,11504.056,6.0,SOFT,5.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,73.0,79.121,11583.177,6.0,SOFT,6.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,74.0,77.222,11660.399,6.0,SOFT,7.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,75.0,76.952,11737.351,6.0,SOFT,8.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,76.0,76.992,11814.343,6.0,SOFT,9.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,77.0,76.914,11891.257,6.0,SOFT,10.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,OCO,31,78.0,77.057,11968.314,6.0,SOFT,11.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,1.0,95.957,3415.823,1.0,MEDIUM,1.0,Racing Bulls,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,2.0,81.402,3497.225,1.0,MEDIUM,2.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,3.0,80.628,3577.853,1.0,MEDIUM,3.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,4.0,80.116,3657.969,1.0,MEDIUM,4.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,5.0,79.419,3737.388,1.0,MEDIUM,5.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,6.0,79.714,3817.102,1.0,MEDIUM,6.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,7.0,79.709,3896.811,1.0,MEDIUM,7.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,8.0,79.197,3976.008,1.0,MEDIUM,8.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,9.0,79.162,4055.17,1.0,MEDIUM,9.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,10.0,79.815,4134.985,1.0,MEDIUM,10.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,11.0,78.989,4213.974,1.0,MEDIUM,11.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,12.0,79.191,4293.165,1.0,MEDIUM,12.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,13.0,78.999,4372.164,1.0,MEDIUM,13.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,14.0,78.342,4450.506,1.0,MEDIUM,14.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,15.0,78.411,4528.917,1.0,MEDIUM,15.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,16.0,78.552,4607.469,1.0,MEDIUM,16.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,17.0,79.406,4686.875,1.0,MEDIUM,17.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,18.0,78.528,4765.403,1.0,MEDIUM,18.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,19.0,78.44,4843.843,1.0,MEDIUM,19.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,20.0,78.485,4922.328,1.0,MEDIUM,20.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,21.0,78.458,5000.786,1.0,MEDIUM,21.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,22.0,78.683,5079.469,1.0,MEDIUM,22.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,23.0,78.741,5158.21,1.0,MEDIUM,23.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,24.0,79.012,5237.222,1.0,MEDIUM,24.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,25.0,79.152,5316.374,1.0,MEDIUM,25.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,26.0,79.134,5395.508,1.0,MEDIUM,26.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,27.0,79.287,5474.795,1.0,MEDIUM,27.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,28.0,79.018,5553.813,1.0,MEDIUM,28.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,29.0,80.515,5634.328,1.0,MEDIUM,29.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,30.0,79.047,5713.375,1.0,MEDIUM,30.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,31.0,79.313,5792.688,1.0,MEDIUM,31.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,32.0,79.203,5871.891,1.0,MEDIUM,32.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,33.0,80.074,5951.965,1.0,MEDIUM,33.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,34.0,80.969,6032.934,1.0,MEDIUM,34.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,35.0,81.758,6114.692,1.0,MEDIUM,35.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,36.0,81.074,6195.766,1.0,MEDIUM,36.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,37.0,81.122,6276.888,1.0,MEDIUM,37.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,38.0,81.743,6358.631,1.0,MEDIUM,38.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,39.0,82.851,6441.482,1.0,MEDIUM,39.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,40.0,81.813,6523.295,1.0,MEDIUM,40.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,41.0,82.619,6605.914,1.0,MEDIUM,41.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,42.0,81.906,6687.82,1.0,MEDIUM,42.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,43.0,81.455,6769.275,1.0,MEDIUM,43.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,44.0,79.907,6849.182,1.0,MEDIUM,44.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,45.0,81.326,6930.508,1.0,MEDIUM,45.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,46.0,82.295,7012.803,1.0,MEDIUM,46.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,47.0,82.248,7095.051,1.0,MEDIUM,47.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,48.0,78.882,7173.933,1.0,MEDIUM,48.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,49.0,78.655,7252.588,1.0,MEDIUM,49.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,50.0,78.746,7331.334,1.0,MEDIUM,50.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,51.0,78.891,7410.225,1.0,MEDIUM,51.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,52.0,81.909,7492.134,1.0,MEDIUM,52.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,53.0,79.248,7571.382,1.0,MEDIUM,53.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,54.0,78.942,7650.324,1.0,MEDIUM,54.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,55.0,79.0,7729.324,1.0,MEDIUM,55.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,56.0,79.652,7808.976,1.0,MEDIUM,56.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,57.0,80.994,7889.97,1.0,MEDIUM,57.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,58.0,96.82,7986.79,1.0,MEDIUM,58.0,Racing Bulls,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,59.0,111.112,8097.902,1.0,MEDIUM,59.0,Racing Bulls,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,60.0,112.205,8210.107,2.0,MEDIUM,60.0,Racing Bulls,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,61.0,119.596,8329.703,2.0,MEDIUM,61.0,Racing Bulls,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,62.0,88.831,8418.534,2.0,MEDIUM,62.0,Racing Bulls,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,63.0,85.122,8503.656,2.0,MEDIUM,63.0,Racing Bulls,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,64.0,82.124,8585.78,2.0,MEDIUM,64.0,Racing Bulls,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,65.0,112.993,8698.773,2.0,MEDIUM,65.0,Racing Bulls,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,66.0,107.083,8805.856,3.0,MEDIUM,66.0,Racing Bulls,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,67.0,,10934.178,3.0,MEDIUM,67.0,Racing Bulls,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,68.0,145.523,11079.701,4.0,SOFT,1.0,Racing Bulls,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,69.0,92.743,11172.444,5.0,SOFT,1.0,Racing Bulls,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,70.0,,11332.571,5.0,SOFT,2.0,Racing Bulls,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,71.0,89.062,11421.633,5.0,SOFT,3.0,Racing Bulls,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,72.0,79.275,11500.908,5.0,SOFT,4.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,73.0,78.393,11579.301,5.0,SOFT,5.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,74.0,76.789,11656.09,5.0,SOFT,6.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,75.0,76.245,11732.335,5.0,SOFT,7.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,76.0,75.908,11808.243,5.0,SOFT,8.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,77.0,75.92,11884.163,5.0,SOFT,9.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,LIN,41,78.0,75.96,11960.123,5.0,SOFT,10.0,Racing Bulls,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,1.0,94.728,3414.594,1.0,MEDIUM,1.0,Alpine,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,2.0,81.158,3495.752,1.0,MEDIUM,2.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,3.0,80.483,3576.235,1.0,MEDIUM,3.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,4.0,80.159,3656.394,1.0,MEDIUM,4.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,5.0,80.084,3736.478,1.0,MEDIUM,5.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,6.0,79.89,3816.368,1.0,MEDIUM,6.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,7.0,79.427,3895.795,1.0,MEDIUM,7.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,8.0,79.631,3975.426,1.0,MEDIUM,8.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,9.0,78.824,4054.25,1.0,MEDIUM,9.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,10.0,80.143,4134.393,1.0,MEDIUM,10.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,11.0,78.682,4213.075,1.0,MEDIUM,11.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,12.0,78.891,4291.966,1.0,MEDIUM,12.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,13.0,78.417,4370.383,1.0,MEDIUM,13.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,14.0,78.352,4448.735,1.0,MEDIUM,14.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,15.0,78.809,4527.544,1.0,MEDIUM,15.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,16.0,78.493,4606.037,1.0,MEDIUM,16.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,17.0,78.227,4684.264,1.0,MEDIUM,17.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,18.0,78.676,4762.94,1.0,MEDIUM,18.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,19.0,78.695,4841.635,1.0,MEDIUM,19.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,20.0,78.76,4920.395,1.0,MEDIUM,20.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,21.0,78.708,4999.103,1.0,MEDIUM,21.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,22.0,78.784,5077.887,1.0,MEDIUM,22.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,23.0,79.127,5157.014,1.0,MEDIUM,23.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,24.0,79.087,5236.101,1.0,MEDIUM,24.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,25.0,79.138,5315.239,1.0,MEDIUM,25.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,26.0,79.121,5394.36,1.0,MEDIUM,26.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,27.0,79.18,5473.54,1.0,MEDIUM,27.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,28.0,78.754,5552.294,1.0,MEDIUM,28.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,29.0,79.837,5632.131,1.0,MEDIUM,29.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,30.0,80.13,5712.261,1.0,MEDIUM,30.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,31.0,79.382,5791.643,1.0,MEDIUM,31.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,32.0,79.522,5871.165,1.0,MEDIUM,32.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,33.0,79.742,5950.907,1.0,MEDIUM,33.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,34.0,81.727,6032.634,1.0,MEDIUM,34.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,35.0,99.849,6132.483,1.0,MEDIUM,35.0,Alpine,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,36.0,81.423,6213.906,2.0,HARD,1.0,Alpine,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,37.0,77.418,6291.324,2.0,HARD,2.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,38.0,76.852,6368.176,2.0,HARD,3.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,39.0,80.057,6448.233,2.0,HARD,4.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,40.0,79.09,6527.323,2.0,HARD,5.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,41.0,80.543,6607.866,2.0,HARD,6.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,42.0,81.845,6689.711,2.0,HARD,7.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,43.0,81.644,6771.355,2.0,HARD,8.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,44.0,80.054,6851.409,2.0,HARD,9.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,45.0,80.894,6932.303,2.0,HARD,10.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,46.0,82.231,7014.534,2.0,HARD,11.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,47.0,82.125,7096.659,2.0,HARD,12.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,48.0,81.306,7177.965,2.0,HARD,13.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,49.0,80.53,7258.495,2.0,HARD,14.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,50.0,81.165,7339.66,2.0,HARD,15.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,51.0,79.635,7419.295,2.0,HARD,16.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,52.0,81.035,7500.33,2.0,HARD,17.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,53.0,80.66,7580.99,2.0,HARD,18.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,54.0,79.678,7660.668,2.0,HARD,19.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,55.0,79.258,7739.926,2.0,HARD,20.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,56.0,82.493,7822.419,2.0,HARD,21.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,57.0,80.523,7902.942,2.0,HARD,22.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,58.0,103.252,8006.194,2.0,HARD,23.0,Alpine,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,59.0,115.405,8121.599,2.0,HARD,24.0,Alpine,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,60.0,93.555,8215.154,3.0,HARD,25.0,Alpine,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,61.0,118.025,8333.179,3.0,HARD,26.0,Alpine,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,62.0,93.04,8426.219,3.0,HARD,27.0,Alpine,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,63.0,84.708,8510.927,3.0,HARD,28.0,Alpine,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,64.0,81.664,8592.591,3.0,HARD,29.0,Alpine,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,65.0,116.957,8709.548,3.0,HARD,30.0,Alpine,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,66.0,105.556,8815.104,4.0,HARD,31.0,Alpine,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,67.0,,10945.481,4.0,HARD,32.0,Alpine,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,68.0,,11095.715,5.0,SOFT,1.0,Alpine,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,69.0,89.741,11185.456,6.0,SOFT,1.0,Alpine,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,70.0,147.871,11333.327,6.0,SOFT,2.0,Alpine,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,71.0,99.346,11432.673,6.0,SOFT,3.0,Alpine,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,72.0,79.699,11512.372,6.0,SOFT,4.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,73.0,78.642,11591.014,6.0,SOFT,5.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,74.0,76.316,11667.33,6.0,SOFT,6.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,75.0,76.531,11743.861,6.0,SOFT,7.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,76.0,77.519,11821.38,6.0,SOFT,8.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,77.0,77.095,11898.475,6.0,SOFT,9.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,COL,43,78.0,76.654,11975.129,6.0,SOFT,10.0,Alpine,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,1.0,84.337,3404.203,1.0,MEDIUM,1.0,Ferrari,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,2.0,78.745,3482.948,1.0,MEDIUM,2.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,3.0,77.678,3560.626,1.0,MEDIUM,3.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,4.0,77.078,3637.704,1.0,MEDIUM,4.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,5.0,77.058,3714.762,1.0,MEDIUM,5.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,6.0,76.7,3791.462,1.0,MEDIUM,6.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,7.0,76.587,3868.049,1.0,MEDIUM,7.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,8.0,77.005,3945.054,1.0,MEDIUM,8.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,9.0,76.641,4021.695,1.0,MEDIUM,9.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,10.0,76.841,4098.536,1.0,MEDIUM,10.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,11.0,77.136,4175.672,1.0,MEDIUM,11.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,12.0,77.234,4252.906,1.0,MEDIUM,12.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,13.0,77.028,4329.934,1.0,MEDIUM,13.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,14.0,76.99,4406.924,1.0,MEDIUM,14.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,15.0,76.912,4483.836,1.0,MEDIUM,15.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,16.0,77.014,4560.85,1.0,MEDIUM,16.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,17.0,77.239,4638.089,1.0,MEDIUM,17.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,18.0,77.029,4715.118,1.0,MEDIUM,18.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,19.0,77.271,4792.389,1.0,MEDIUM,19.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,20.0,77.119,4869.508,1.0,MEDIUM,20.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,21.0,77.076,4946.584,1.0,MEDIUM,21.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,22.0,77.249,5023.833,1.0,MEDIUM,22.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,23.0,77.38,5101.213,1.0,MEDIUM,23.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,24.0,77.783,5178.996,1.0,MEDIUM,24.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,25.0,77.734,5256.73,1.0,MEDIUM,25.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,26.0,77.988,5334.718,1.0,MEDIUM,26.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,27.0,78.225,5412.943,1.0,MEDIUM,27.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,28.0,94.17,5507.113,1.0,MEDIUM,28.0,Ferrari,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,29.0,80.829,5587.942,2.0,HARD,1.0,Ferrari,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,30.0,77.692,5665.634,2.0,HARD,2.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,31.0,76.519,5742.153,2.0,HARD,3.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,32.0,76.552,5818.705,2.0,HARD,4.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,33.0,76.66,5895.365,2.0,HARD,5.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,34.0,76.8,5972.165,2.0,HARD,6.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,35.0,76.758,6048.923,2.0,HARD,7.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,36.0,76.566,6125.489,2.0,HARD,8.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,37.0,77.434,6202.923,2.0,HARD,9.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,38.0,77.376,6280.299,2.0,HARD,10.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,39.0,78.471,6358.77,2.0,HARD,11.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,40.0,77.683,6436.453,2.0,HARD,12.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,41.0,77.389,6513.842,2.0,HARD,13.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,42.0,77.112,6590.954,2.0,HARD,14.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,43.0,77.26,6668.214,2.0,HARD,15.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,44.0,77.128,6745.342,2.0,HARD,16.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,45.0,76.793,6822.135,2.0,HARD,17.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,46.0,76.657,6898.792,2.0,HARD,18.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,47.0,76.849,6975.641,2.0,HARD,19.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,48.0,77.189,7052.83,2.0,HARD,20.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,49.0,77.188,7130.018,2.0,HARD,21.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,50.0,77.052,7207.07,2.0,HARD,22.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,51.0,76.695,7283.765,2.0,HARD,23.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,52.0,76.661,7360.426,2.0,HARD,24.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,53.0,76.677,7437.103,2.0,HARD,25.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,54.0,76.689,7513.792,2.0,HARD,26.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,55.0,76.767,7590.559,2.0,HARD,27.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,56.0,76.507,7667.066,2.0,HARD,28.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,57.0,76.656,7743.722,2.0,HARD,29.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,58.0,76.877,7820.599,2.0,HARD,30.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,59.0,76.278,7896.877,2.0,HARD,31.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,60.0,116.118,8012.995,2.0,HARD,32.0,Ferrari,124,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,61.0,120.346,8133.341,3.0,SOFT,5.0,Ferrari,4,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,62.0,92.261,8225.602,4.0,SOFT,6.0,Ferrari,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,63.0,110.782,8336.384,4.0,SOFT,7.0,Ferrari,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,64.0,125.394,8461.778,4.0,SOFT,8.0,Ferrari,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,65.0,118.178,8579.956,4.0,SOFT,9.0,Ferrari,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,66.0,113.272,8693.228,4.0,SOFT,10.0,Ferrari,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,67.0,104.297,8797.525,5.0,SOFT,11.0,Ferrari,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,68.0,,11062.157,5.0,SOFT,12.0,Ferrari,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,69.0,102.193,11164.35,6.0,SOFT,5.0,Ferrari,14,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,70.0,,11330.484,6.0,SOFT,6.0,Ferrari,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,71.0,81.009,11411.493,6.0,SOFT,7.0,Ferrari,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,72.0,75.469,11486.962,6.0,SOFT,8.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,73.0,74.969,11561.931,6.0,SOFT,9.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,74.0,74.643,11636.574,6.0,SOFT,10.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,75.0,74.726,11711.3,6.0,SOFT,11.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,76.0,75.049,11786.349,6.0,SOFT,12.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,77.0,75.33,11861.679,6.0,SOFT,13.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAM,44,78.0,75.791,11937.47,6.0,SOFT,14.0,Ferrari,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,1.0,118.809,3438.675,1.0,SOFT,1.0,Audi,12,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,2.0,84.797,3523.472,2.0,HARD,1.0,Audi,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,3.0,81.267,3604.739,2.0,HARD,2.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,4.0,81.687,3686.426,2.0,HARD,3.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,5.0,81.68,3768.106,2.0,HARD,4.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,6.0,81.412,3849.518,2.0,HARD,5.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,7.0,81.109,3930.627,2.0,HARD,6.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,8.0,80.555,4011.182,2.0,HARD,7.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,9.0,80.673,4091.855,2.0,HARD,8.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,10.0,83.902,4175.757,2.0,HARD,9.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,11.0,82.701,4258.458,2.0,HARD,10.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,12.0,81.444,4339.902,2.0,HARD,11.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,13.0,81.892,4421.794,2.0,HARD,12.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,14.0,80.879,4502.673,2.0,HARD,13.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,15.0,81.083,4583.756,2.0,HARD,14.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,16.0,83.944,4667.7,2.0,HARD,15.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,17.0,78.33,4746.03,2.0,HARD,16.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,18.0,78.193,4824.223,2.0,HARD,17.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,19.0,77.908,4902.131,2.0,HARD,18.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,20.0,78.329,4980.46,2.0,HARD,19.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,21.0,78.469,5058.929,2.0,HARD,20.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,22.0,78.077,5137.006,2.0,HARD,21.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,23.0,78.042,5215.048,2.0,HARD,22.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,24.0,78.071,5293.119,2.0,HARD,23.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,25.0,78.424,5371.543,2.0,HARD,24.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,26.0,77.906,5449.449,2.0,HARD,25.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,27.0,78.096,5527.545,2.0,HARD,26.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,28.0,78.897,5606.442,2.0,HARD,27.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,29.0,78.442,5684.884,2.0,HARD,28.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,30.0,78.765,5763.649,2.0,HARD,29.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,31.0,78.29,5841.939,2.0,HARD,30.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,32.0,78.092,5920.031,2.0,HARD,31.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,33.0,78.137,5998.168,2.0,HARD,32.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,34.0,78.233,6076.401,2.0,HARD,33.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,35.0,80.013,6156.414,2.0,HARD,34.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,36.0,79.671,6236.085,2.0,HARD,35.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,37.0,79.905,6315.99,2.0,HARD,36.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,38.0,81.936,6397.926,2.0,HARD,37.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,39.0,80.369,6478.295,2.0,HARD,38.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,40.0,81.026,6559.321,2.0,HARD,39.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,41.0,80.793,6640.114,2.0,HARD,40.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,42.0,82.157,6722.271,2.0,HARD,41.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,43.0,98.02,6820.291,2.0,HARD,42.0,Audi,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,44.0,81.76,6902.051,3.0,MEDIUM,1.0,Audi,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,45.0,77.416,6979.467,3.0,MEDIUM,2.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,46.0,76.803,7056.27,3.0,MEDIUM,3.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,47.0,76.86,7133.13,3.0,MEDIUM,4.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,48.0,77.182,7210.312,3.0,MEDIUM,5.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,49.0,79.353,7289.665,3.0,MEDIUM,6.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,50.0,82.9,7372.565,3.0,MEDIUM,7.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,51.0,78.396,7450.961,3.0,MEDIUM,8.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,52.0,78.553,7529.514,3.0,MEDIUM,9.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,53.0,81.318,7610.832,3.0,MEDIUM,10.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,54.0,79.58,7690.412,3.0,MEDIUM,11.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,55.0,81.885,7772.297,3.0,MEDIUM,12.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,56.0,84.868,7857.165,3.0,MEDIUM,13.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,57.0,82.509,7939.674,3.0,MEDIUM,14.0,Audi,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,58.0,117.271,8056.945,3.0,MEDIUM,15.0,Audi,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,59.0,116.861,8173.806,4.0,MEDIUM,16.0,Audi,4,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,60.0,83.815,8257.621,5.0,SOFT,1.0,Audi,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,61.0,83.938,8341.559,5.0,SOFT,2.0,Audi,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,62.0,93.942,8435.501,5.0,SOFT,3.0,Audi,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,63.0,81.089,8516.59,5.0,SOFT,4.0,Audi,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,64.0,82.88,8599.47,5.0,SOFT,5.0,Audi,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,65.0,115.078,8714.548,5.0,SOFT,6.0,Audi,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,66.0,105.268,8819.816,6.0,SOFT,7.0,Audi,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,67.0,,10956.707,6.0,SOFT,8.0,Audi,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,68.0,146.26,11102.967,7.0,SOFT,1.0,Audi,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,69.0,87.452,11190.419,8.0,SOFT,2.0,Audi,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,70.0,143.7,11334.119,8.0,SOFT,3.0,Audi,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,71.0,94.851,11428.97,8.0,SOFT,4.0,Audi,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,72.0,77.484,11506.454,8.0,SOFT,5.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,73.0,79.306,11585.76,8.0,SOFT,6.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,74.0,78.224,11663.984,8.0,SOFT,7.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,75.0,77.897,11741.881,8.0,SOFT,8.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,76.0,77.588,11819.469,8.0,SOFT,9.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,77.0,77.104,11896.573,8.0,SOFT,10.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOR,5,78.0,77.312,11973.885,8.0,SOFT,11.0,Audi,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,1.0,93.309,3413.175,1.0,MEDIUM,1.0,Williams,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,2.0,81.138,3494.313,1.0,MEDIUM,2.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,3.0,80.513,3574.826,1.0,MEDIUM,3.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,4.0,80.153,3654.979,1.0,MEDIUM,4.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,5.0,79.896,3734.875,1.0,MEDIUM,5.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,6.0,79.699,3814.574,1.0,MEDIUM,6.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,7.0,79.364,3893.938,1.0,MEDIUM,7.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,8.0,79.122,3973.06,1.0,MEDIUM,8.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,9.0,79.068,4052.128,1.0,MEDIUM,9.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,10.0,78.725,4130.853,1.0,MEDIUM,10.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,11.0,78.86,4209.713,1.0,MEDIUM,11.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,12.0,78.858,4288.571,1.0,MEDIUM,12.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,13.0,78.653,4367.224,1.0,MEDIUM,13.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,14.0,79.22,4446.444,1.0,MEDIUM,14.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,15.0,78.525,4524.969,1.0,MEDIUM,15.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,16.0,78.502,4603.471,1.0,MEDIUM,16.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,17.0,78.386,4681.857,1.0,MEDIUM,17.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,18.0,78.476,4760.333,1.0,MEDIUM,18.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,19.0,78.533,4838.866,1.0,MEDIUM,19.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,20.0,78.701,4917.567,1.0,MEDIUM,20.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,21.0,78.936,4996.503,1.0,MEDIUM,21.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,22.0,79.13,5075.633,1.0,MEDIUM,22.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,23.0,79.36,5154.993,1.0,MEDIUM,23.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,24.0,79.211,5234.204,1.0,MEDIUM,24.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,25.0,79.415,5313.619,1.0,MEDIUM,25.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,26.0,78.968,5392.587,1.0,MEDIUM,26.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,27.0,79.027,5471.614,1.0,MEDIUM,27.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,28.0,78.816,5550.43,1.0,MEDIUM,28.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,29.0,79.039,5629.469,1.0,MEDIUM,29.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,30.0,80.9,5710.369,1.0,MEDIUM,30.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,31.0,78.819,5789.188,1.0,MEDIUM,31.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,32.0,79.039,5868.227,1.0,MEDIUM,32.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,33.0,81.644,5949.871,1.0,MEDIUM,33.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,34.0,81.935,6031.806,1.0,MEDIUM,34.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,35.0,81.9,6113.706,1.0,MEDIUM,35.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,36.0,81.6,6195.306,1.0,MEDIUM,36.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,37.0,81.225,6276.531,1.0,MEDIUM,37.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,38.0,81.452,6357.983,1.0,MEDIUM,38.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,39.0,83.082,6441.065,1.0,MEDIUM,39.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,40.0,81.827,6522.892,1.0,MEDIUM,40.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,41.0,82.593,6605.485,1.0,MEDIUM,41.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,42.0,81.915,6687.4,1.0,MEDIUM,42.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,43.0,81.045,6768.445,1.0,MEDIUM,43.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,44.0,79.89,6848.335,1.0,MEDIUM,44.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,45.0,79.798,6928.133,1.0,MEDIUM,45.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,46.0,78.477,7006.61,1.0,MEDIUM,46.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,47.0,78.369,7084.979,1.0,MEDIUM,47.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,48.0,78.099,7163.078,1.0,MEDIUM,48.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,49.0,78.191,7241.269,1.0,MEDIUM,49.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,50.0,78.072,7319.341,1.0,MEDIUM,50.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,51.0,78.022,7397.363,1.0,MEDIUM,51.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,52.0,96.576,7493.939,1.0,MEDIUM,52.0,Williams,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,53.0,81.892,7575.831,2.0,SOFT,1.0,Williams,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,54.0,79.446,7655.277,2.0,SOFT,2.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,55.0,79.764,7735.041,2.0,SOFT,3.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,56.0,79.968,7815.009,2.0,SOFT,4.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,57.0,78.095,7893.104,2.0,SOFT,5.0,Williams,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,58.0,98.112,7991.216,2.0,SOFT,6.0,Williams,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,59.0,109.775,8100.991,2.0,SOFT,7.0,Williams,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,60.0,111.096,8212.087,3.0,SOFT,8.0,Williams,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,61.0,119.597,8331.684,3.0,SOFT,9.0,Williams,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,62.0,91.587,8423.271,3.0,SOFT,10.0,Williams,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,63.0,84.082,8507.353,3.0,SOFT,11.0,Williams,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,64.0,81.093,8588.446,3.0,SOFT,12.0,Williams,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,65.0,112.561,8701.007,3.0,SOFT,13.0,Williams,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,66.0,107.396,8808.403,4.0,SOFT,14.0,Williams,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,67.0,,10939.666,4.0,SOFT,15.0,Williams,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,68.0,145.003,11084.669,5.0,SOFT,5.0,Williams,14,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,69.0,92.832,11177.501,6.0,SOFT,5.0,Williams,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,70.0,,11332.821,6.0,SOFT,6.0,Williams,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,SAI,55,71.0,,11482.821,6.0,SOFT,7.0,Williams,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,1.0,86.741,3406.607,1.0,MEDIUM,1.0,Red Bull Racing,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,2.0,79.178,3485.785,1.0,MEDIUM,2.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,3.0,78.14,3563.925,1.0,MEDIUM,3.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,4.0,77.551,3641.476,1.0,MEDIUM,4.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,5.0,77.402,3718.878,1.0,MEDIUM,5.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,6.0,77.606,3796.484,1.0,MEDIUM,6.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,7.0,77.428,3873.912,1.0,MEDIUM,7.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,8.0,77.689,3951.601,1.0,MEDIUM,8.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,9.0,77.316,4028.917,1.0,MEDIUM,9.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,10.0,77.138,4106.055,1.0,MEDIUM,10.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,11.0,77.53,4183.585,1.0,MEDIUM,11.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,12.0,77.711,4261.296,1.0,MEDIUM,12.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,13.0,78.54,4339.836,1.0,MEDIUM,13.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,14.0,78.492,4418.328,1.0,MEDIUM,14.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,15.0,78.277,4496.605,1.0,MEDIUM,15.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,16.0,78.239,4574.844,1.0,MEDIUM,16.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,17.0,78.304,4653.148,1.0,MEDIUM,17.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,18.0,78.822,4731.97,1.0,MEDIUM,18.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,19.0,79.347,4811.317,1.0,MEDIUM,19.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,20.0,78.85,4890.167,1.0,MEDIUM,20.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,21.0,79.089,4969.256,1.0,MEDIUM,21.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,22.0,79.421,5048.677,1.0,MEDIUM,22.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,23.0,79.187,5127.864,1.0,MEDIUM,23.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,24.0,78.906,5206.77,1.0,MEDIUM,24.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,25.0,79.418,5286.188,1.0,MEDIUM,25.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,26.0,78.86,5365.048,1.0,MEDIUM,26.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,27.0,79.074,5444.122,1.0,MEDIUM,27.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,28.0,78.695,5522.817,1.0,MEDIUM,28.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,29.0,78.818,5601.635,1.0,MEDIUM,29.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,30.0,78.818,5680.453,1.0,MEDIUM,30.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,31.0,78.715,5759.168,1.0,MEDIUM,31.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,32.0,96.191,5855.359,1.0,MEDIUM,32.0,Red Bull Racing,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,33.0,85.121,5940.48,2.0,HARD,1.0,Red Bull Racing,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,34.0,78.995,6019.475,2.0,HARD,2.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,35.0,77.785,6097.26,2.0,HARD,3.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,36.0,77.706,6174.966,2.0,HARD,4.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,37.0,77.911,6252.877,2.0,HARD,5.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,38.0,77.778,6330.655,2.0,HARD,6.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,39.0,77.329,6407.984,2.0,HARD,7.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,40.0,77.384,6485.368,2.0,HARD,8.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,41.0,77.391,6562.759,2.0,HARD,9.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,42.0,78.16,6640.919,2.0,HARD,10.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,43.0,78.779,6719.698,2.0,HARD,11.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,44.0,78.777,6798.475,2.0,HARD,12.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,45.0,77.615,6876.09,2.0,HARD,13.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,46.0,77.357,6953.447,2.0,HARD,14.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,47.0,77.336,7030.783,2.0,HARD,15.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,48.0,79.354,7110.137,2.0,HARD,16.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,49.0,77.89,7188.027,2.0,HARD,17.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,50.0,77.504,7265.531,2.0,HARD,18.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,51.0,77.774,7343.305,2.0,HARD,19.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,52.0,77.916,7421.221,2.0,HARD,20.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,53.0,77.728,7498.949,2.0,HARD,21.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,54.0,78.794,7577.743,2.0,HARD,22.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,55.0,77.673,7655.416,2.0,HARD,23.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,56.0,77.351,7732.767,2.0,HARD,24.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,57.0,77.594,7810.361,2.0,HARD,25.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,58.0,77.279,7887.64,2.0,HARD,26.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,59.0,92.695,7980.335,2.0,HARD,27.0,Red Bull Racing,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,60.0,112.67,8093.005,2.0,HARD,28.0,Red Bull Racing,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,61.0,114.918,8207.923,3.0,HARD,29.0,Red Bull Racing,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,62.0,120.56,8328.483,3.0,HARD,30.0,Red Bull Racing,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,63.0,87.097,8415.58,3.0,HARD,31.0,Red Bull Racing,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,64.0,79.974,8495.554,3.0,HARD,32.0,Red Bull Racing,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,65.0,86.254,8581.808,3.0,HARD,33.0,Red Bull Racing,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,66.0,113.138,8694.946,3.0,HARD,34.0,Red Bull Racing,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,67.0,105.533,8800.479,4.0,HARD,35.0,Red Bull Racing,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,68.0,,11064.871,4.0,HARD,36.0,Red Bull Racing,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,69.0,100.52,11165.391,5.0,SOFT,5.0,Red Bull Racing,14,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,70.0,,11331.196,5.0,SOFT,6.0,Red Bull Racing,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,71.0,88.042,11419.238,5.0,SOFT,7.0,Red Bull Racing,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,72.0,78.497,11497.735,5.0,SOFT,8.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,73.0,76.813,11574.548,5.0,SOFT,9.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,74.0,76.628,11651.176,5.0,SOFT,10.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,75.0,76.088,11727.264,5.0,SOFT,11.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,76.0,75.898,11803.162,5.0,SOFT,12.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,77.0,75.669,11878.831,5.0,SOFT,13.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,HAD,6,78.0,75.773,11954.604,5.0,SOFT,14.0,Red Bull Racing,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,1.0,87.676,3407.542,1.0,MEDIUM,1.0,Mercedes,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,2.0,80.026,3487.568,1.0,MEDIUM,2.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,3.0,78.411,3565.979,1.0,MEDIUM,3.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,4.0,78.097,3644.076,1.0,MEDIUM,4.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,5.0,77.598,3721.674,1.0,MEDIUM,5.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,6.0,77.257,3798.931,1.0,MEDIUM,6.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,7.0,77.155,3876.086,1.0,MEDIUM,7.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,8.0,77.188,3953.274,1.0,MEDIUM,8.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,9.0,77.352,4030.626,1.0,MEDIUM,9.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,10.0,77.222,4107.848,1.0,MEDIUM,10.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,11.0,77.364,4185.212,1.0,MEDIUM,11.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,12.0,77.596,4262.808,1.0,MEDIUM,12.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,13.0,77.891,4340.699,1.0,MEDIUM,13.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,14.0,78.579,4419.278,1.0,MEDIUM,14.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,15.0,78.004,4497.282,1.0,MEDIUM,15.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,16.0,78.468,4575.75,1.0,MEDIUM,16.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,17.0,78.411,4654.161,1.0,MEDIUM,17.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,18.0,78.474,4732.635,1.0,MEDIUM,18.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,19.0,79.222,4811.857,1.0,MEDIUM,19.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,20.0,78.823,4890.68,1.0,MEDIUM,20.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,21.0,79.229,4969.909,1.0,MEDIUM,21.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,22.0,79.36,5049.269,1.0,MEDIUM,22.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,23.0,79.05,5128.319,1.0,MEDIUM,23.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,24.0,78.895,5207.214,1.0,MEDIUM,24.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,25.0,79.533,5286.747,1.0,MEDIUM,25.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,26.0,78.794,5365.541,1.0,MEDIUM,26.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,27.0,79.183,5444.724,1.0,MEDIUM,27.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,28.0,78.765,5523.489,1.0,MEDIUM,28.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,29.0,78.715,5602.204,1.0,MEDIUM,29.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,30.0,78.753,5680.957,1.0,MEDIUM,30.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,31.0,95.32,5776.277,1.0,MEDIUM,31.0,Mercedes,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,32.0,80.775,5857.052,2.0,HARD,1.0,Mercedes,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,33.0,77.455,5934.507,2.0,HARD,2.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,34.0,76.631,6011.138,2.0,HARD,3.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,35.0,76.448,6087.586,2.0,HARD,4.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,36.0,76.243,6163.829,2.0,HARD,5.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,37.0,77.026,6240.855,2.0,HARD,6.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,38.0,77.821,6318.676,2.0,HARD,7.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,39.0,79.089,6397.765,2.0,HARD,8.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,40.0,79.07,6476.835,2.0,HARD,9.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,41.0,80.603,6557.438,2.0,HARD,10.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,42.0,80.409,6637.847,2.0,HARD,11.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,43.0,79.417,6717.264,2.0,HARD,12.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,44.0,78.622,6795.886,2.0,HARD,13.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,45.0,77.171,6873.057,2.0,HARD,14.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,46.0,76.442,6949.499,2.0,HARD,15.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,47.0,76.477,7025.976,2.0,HARD,16.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,48.0,78.292,7104.268,2.0,HARD,17.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,49.0,76.774,7181.042,2.0,HARD,18.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,50.0,77.402,7258.444,2.0,HARD,19.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,51.0,77.308,7335.752,2.0,HARD,20.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,52.0,76.971,7412.723,2.0,HARD,21.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,53.0,76.03,7488.753,2.0,HARD,22.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,54.0,79.178,7567.931,2.0,HARD,23.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,55.0,76.488,7644.419,2.0,HARD,24.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,56.0,75.773,7720.192,2.0,HARD,25.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,57.0,75.827,7796.019,2.0,HARD,26.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,58.0,75.826,7871.845,2.0,HARD,27.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,59.0,87.497,7959.342,2.0,HARD,28.0,Mercedes,124,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,60.0,137.686,8097.028,2.0,HARD,29.0,Mercedes,4,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,61.0,111.805,8208.833,3.0,SOFT,5.0,Mercedes,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,62.0,120.418,8329.251,3.0,SOFT,6.0,Mercedes,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,63.0,91.076,8420.327,3.0,SOFT,7.0,Mercedes,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,64.0,79.879,8500.206,3.0,SOFT,8.0,Mercedes,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,65.0,81.793,8581.999,3.0,SOFT,9.0,Mercedes,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,66.0,115.061,8697.06,3.0,SOFT,10.0,Mercedes,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,67.0,106.225,8803.285,4.0,SOFT,11.0,Mercedes,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,68.0,,11067.688,4.0,SOFT,12.0,Mercedes,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,69.0,98.312,11166.0,5.0,SOFT,5.0,Mercedes,14,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,70.0,,11331.328,5.0,SOFT,6.0,Mercedes,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,71.0,84.856,11416.184,5.0,SOFT,7.0,Mercedes,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,72.0,88.255,11504.439,5.0,SOFT,8.0,Mercedes,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,73.0,81.885,11586.324,6.0,SOFT,9.0,Mercedes,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,74.0,78.158,11664.482,6.0,SOFT,10.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,75.0,77.905,11742.387,6.0,SOFT,11.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,76.0,77.596,11819.983,6.0,SOFT,12.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,77.0,77.27,11897.253,6.0,SOFT,13.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,RUS,63,78.0,77.257,11974.51,6.0,SOFT,14.0,Mercedes,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,1.0,118.143,3438.009,1.0,SOFT,1.0,Cadillac,12,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,2.0,84.133,3522.142,2.0,MEDIUM,1.0,Cadillac,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,3.0,81.753,3603.895,2.0,MEDIUM,2.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,4.0,81.609,3685.504,2.0,MEDIUM,3.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,5.0,81.912,3767.416,2.0,MEDIUM,4.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,6.0,81.293,3848.709,2.0,MEDIUM,5.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,7.0,81.137,3929.846,2.0,MEDIUM,6.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,8.0,80.494,4010.34,2.0,MEDIUM,7.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,9.0,80.913,4091.253,2.0,MEDIUM,8.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,10.0,83.165,4174.418,2.0,MEDIUM,9.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,11.0,83.08,4257.498,2.0,MEDIUM,10.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,12.0,80.704,4338.202,2.0,MEDIUM,11.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,13.0,82.875,4421.077,2.0,MEDIUM,12.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,14.0,80.872,4501.949,2.0,MEDIUM,13.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,15.0,81.034,4582.983,2.0,MEDIUM,14.0,Cadillac,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BOT,77,16.0,,4660.643,2.0,MEDIUM,15.0,Cadillac,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,1.0,89.36,3409.226,1.0,MEDIUM,1.0,McLaren,12,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,2.0,80.454,3489.68,1.0,MEDIUM,2.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,3.0,79.776,3569.456,1.0,MEDIUM,3.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,4.0,78.886,3648.342,1.0,MEDIUM,4.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,5.0,78.072,3726.414,1.0,MEDIUM,5.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,6.0,78.238,3804.652,1.0,MEDIUM,6.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,7.0,77.573,3882.225,1.0,MEDIUM,7.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,8.0,77.187,3959.412,1.0,MEDIUM,8.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,9.0,77.194,4036.606,1.0,MEDIUM,9.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,10.0,77.18,4113.786,1.0,MEDIUM,10.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,11.0,77.889,4191.675,1.0,MEDIUM,11.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,12.0,77.939,4269.614,1.0,MEDIUM,12.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,13.0,78.468,4348.082,1.0,MEDIUM,13.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,14.0,78.181,4426.263,1.0,MEDIUM,14.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,15.0,78.965,4505.228,1.0,MEDIUM,15.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,16.0,79.568,4584.796,1.0,MEDIUM,16.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,17.0,79.139,4663.935,1.0,MEDIUM,17.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,18.0,78.513,4742.448,1.0,MEDIUM,18.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,19.0,78.22,4820.668,1.0,MEDIUM,19.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,20.0,78.082,4898.75,1.0,MEDIUM,20.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,21.0,78.198,4976.948,1.0,MEDIUM,21.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,22.0,78.23,5055.178,1.0,MEDIUM,22.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,23.0,78.388,5133.566,1.0,MEDIUM,23.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,24.0,78.088,5211.654,1.0,MEDIUM,24.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,25.0,78.29,5289.944,1.0,MEDIUM,25.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,26.0,78.662,5368.606,1.0,MEDIUM,26.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,27.0,78.637,5447.243,1.0,MEDIUM,27.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,28.0,78.707,5525.95,1.0,MEDIUM,28.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,29.0,78.479,5604.429,1.0,MEDIUM,29.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,30.0,78.607,5683.036,1.0,MEDIUM,30.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,31.0,78.66,5761.696,1.0,MEDIUM,31.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,32.0,78.177,5839.873,1.0,MEDIUM,32.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,33.0,78.112,5917.985,1.0,MEDIUM,33.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,34.0,78.41,5996.395,1.0,MEDIUM,34.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,35.0,78.56,6074.955,1.0,MEDIUM,35.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,36.0,78.324,6153.279,1.0,MEDIUM,36.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,37.0,77.918,6231.197,1.0,MEDIUM,37.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,38.0,78.287,6309.484,1.0,MEDIUM,38.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,39.0,78.171,6387.655,1.0,MEDIUM,39.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,40.0,79.349,6467.004,1.0,MEDIUM,40.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,41.0,78.557,6545.561,1.0,MEDIUM,41.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,42.0,78.686,6624.247,1.0,MEDIUM,42.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,43.0,79.093,6703.34,1.0,MEDIUM,43.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,44.0,79.279,6782.619,1.0,MEDIUM,44.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,45.0,79.664,6862.283,1.0,MEDIUM,45.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,46.0,79.345,6941.628,1.0,MEDIUM,46.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,47.0,79.575,7021.203,1.0,MEDIUM,47.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,48.0,96.741,7117.944,1.0,MEDIUM,48.0,McLaren,1,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,49.0,83.646,7201.59,2.0,HARD,1.0,McLaren,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,50.0,78.189,7279.779,2.0,HARD,2.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,51.0,77.423,7357.202,2.0,HARD,3.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,52.0,76.863,7434.065,2.0,HARD,4.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,53.0,76.696,7510.761,2.0,HARD,5.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,54.0,77.252,7588.013,2.0,HARD,6.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,55.0,76.827,7664.84,2.0,HARD,7.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,56.0,76.6,7741.44,2.0,HARD,8.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,57.0,77.104,7818.544,2.0,HARD,9.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,58.0,76.541,7895.085,2.0,HARD,10.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,59.0,117.353,8012.438,2.0,HARD,11.0,McLaren,124,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,60.0,114.894,8127.332,3.0,SOFT,5.0,McLaren,4,False,True,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,61.0,90.466,8217.798,4.0,SOFT,6.0,McLaren,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,62.0,117.761,8335.559,4.0,SOFT,7.0,McLaren,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,63.0,93.879,8429.438,4.0,SOFT,8.0,McLaren,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,64.0,84.159,8513.597,4.0,SOFT,9.0,McLaren,4,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,65.0,82.472,8596.069,4.0,SOFT,10.0,McLaren,412,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,66.0,114.735,8710.804,4.0,SOFT,11.0,McLaren,24,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,67.0,106.726,8817.53,5.0,SOFT,12.0,McLaren,4,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,68.0,,11073.51,5.0,SOFT,13.0,McLaren,451,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,69.0,95.91,11169.42,6.0,SOFT,5.0,McLaren,14,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,70.0,,11332.008,6.0,SOFT,6.0,McLaren,41,False,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,71.0,87.966,11419.974,6.0,SOFT,7.0,McLaren,12,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,72.0,78.759,11498.733,6.0,SOFT,8.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,73.0,76.688,11575.421,6.0,SOFT,9.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,74.0,76.187,11651.608,6.0,SOFT,10.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,75.0,76.258,11727.866,6.0,SOFT,11.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,76.0,75.816,11803.682,6.0,SOFT,12.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,77.0,75.846,11879.528,6.0,SOFT,13.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,PIA,81,78.0,75.862,11955.39,6.0,SOFT,14.0,McLaren,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,1.0,122.78,3442.646,1.0,MEDIUM,1.0,Haas F1 Team,12,False,True,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,2.0,83.665,3526.311,2.0,HARD,1.0,Haas F1 Team,1,False,False,True,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,3.0,79.274,3605.585,2.0,HARD,2.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,4.0,81.021,3686.606,2.0,HARD,3.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,5.0,81.826,3768.432,2.0,HARD,4.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,6.0,81.51,3849.942,2.0,HARD,5.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,7.0,81.01,3930.952,2.0,HARD,6.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,8.0,80.485,4011.437,2.0,HARD,7.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,9.0,80.809,4092.246,2.0,HARD,8.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,10.0,84.121,4176.367,2.0,HARD,9.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,11.0,82.612,4258.979,2.0,HARD,10.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,12.0,83.615,4342.594,2.0,HARD,11.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,13.0,79.542,4422.136,2.0,HARD,12.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,14.0,80.788,4502.924,2.0,HARD,13.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,15.0,82.435,4585.359,2.0,HARD,14.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,16.0,82.695,4668.054,2.0,HARD,15.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,17.0,81.656,4749.71,2.0,HARD,16.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,18.0,78.982,4828.692,2.0,HARD,17.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,19.0,78.589,4907.281,2.0,HARD,18.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,20.0,78.769,4986.05,2.0,HARD,19.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,21.0,78.54,5064.59,2.0,HARD,20.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,22.0,78.475,5143.065,2.0,HARD,21.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,23.0,78.665,5221.73,2.0,HARD,22.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,24.0,79.137,5300.867,2.0,HARD,23.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,25.0,78.683,5379.55,2.0,HARD,24.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,26.0,78.791,5458.341,2.0,HARD,25.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,27.0,78.623,5536.964,2.0,HARD,26.0,Haas F1 Team,1,True,False,False,False
+2026,6,Monaco Grand Prix,2026-06-07,BEA,87,28.0,,5615.421,2.0,HARD,27.0,Haas F1 Team,1,False,True,False,False
