@@ -14,8 +14,10 @@ Integrantes: Francisco Polo, Milan Kurte.
 
 ## Contribuciones (cada integrante puede explicar lo suyo)
 
-- **Milan Kurte:** ejecutó y verificó la referencia (conteos, rondas, `pair_id` disjuntos, preprocesamiento ajustado en train). Redactó HITO1/README con apoyo de IA y armó el paquete de entrega.
-- **Francisco Polo:** *[COMPLETAR: qué hizo concretamente, p. ej. revisión del plan de experimento o definición de chequeos]*
+Todas las decisiones de la tabla anterior (dirección, usuario y decisión, regla de historial corto, búsqueda acotada) se tomaron **en conjunto**, en una sesión de trabajo con ambos presentes. El trabajo se dividió en partes iguales:
+
+- **Milan Kurte:** preparó el entorno (`.venv`), ejecutó la referencia y verificó conteos, rondas, `pair_id` disjuntos y que el preprocesamiento se ajusta solo en train. Armó el README, el paquete y la entrega en GitHub.
+- **Francisco Polo:** co-definió la hipótesis de historial de ritmo, la regla `short_history` y la decisión del ingeniero de carrera. Revisó el plan de experimento (controles fijos, ablaciones A1–A3, chequeos 1–5) y comparó los MAE reportados en HITO1 con las salidas de `salidas_referencia/`.
 
 ## Uso de IA
 
@@ -33,9 +35,9 @@ Integrantes: Francisco Polo, Milan Kurte.
 
 | Tarea | Responsable |
 |---|---|
-| Implementar `recent_std_s`, `recent_slope_s`, `short_history` desde los snapshots crudos + chequeos 1–4 | *[asignar]* |
-| Correr R0, E1, A1–A3, E2 y registrar todas las corridas aquí | *[asignar]* |
-| MAE por carrera, errores contextuales y SHAP | *[asignar]* |
+| Implementar `recent_std_s`, `recent_slope_s`, `short_history` desde los snapshots crudos + chequeos 1–4 | Francisco Polo |
+| Correr R0, E1, A1–A3, E2 y registrar todas las corridas aquí | Milan Kurte |
+| MAE por carrera, errores contextuales y SHAP | Ambos (Milan: MAE por carrera y errores contextuales; Francisco: SHAP) |
 
 ## Registro de corridas
 
