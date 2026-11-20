@@ -1,0 +1,9 @@
+k,split,round,rows,std_observed,slope_observed,short_history_1,slope_coverage
+3,train,all,5772,5316,4587,1185,0.7947
+3,validation,all,1808,1660,1487,321,0.8225
+3,validation,8,1066,984,893,173,0.8377
+3,validation,9,742,676,594,148,0.8005
+5,train,all,5772,5406,4978,794,0.8624
+5,validation,all,1808,1700,1569,239,0.8678
+5,validation,8,1066,1007,922,144,0.8649
+5,validation,9,742,693,647,95,0.872

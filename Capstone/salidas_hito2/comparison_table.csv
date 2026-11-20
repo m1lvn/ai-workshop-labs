@@ -1,0 +1,4 @@
+version,run,model_inputs,n,MAE_s,output
+OLS reference,R0,OLS · 6 inputs publicados,1808,0.3867069503640432,salidas_hito2/validation_predictions_hito2.csv:R0 (= salidas_referencia/validation_reference_predictions.csv:OLS_reference)
+Candidate,E1,OLS · 6 inputs + recent_std_s + recent_slope_s + short_history (k=3),1808,0.36636267186608085,salidas_hito2/validation_predictions_hito2.csv:E1
+Matched control,R0 (misma corrida que OLS reference),E1 sin el cambio = OLS · 6 inputs,1808,0.3867069503640432,salidas_hito2/validation_predictions_hito2.csv:R0

@@ -1,0 +1,102 @@
+{
+  "script": "hito2_experimento.py",
+  "git_commit_at_run": "b51a7804672a9bf8030e607d5441c9c3c0b789dd",
+  "seed": 414,
+  "test_used": false,
+  "decision_rule": "E1 se apoya si control_minus_candidate > 0 en R8 y en R9 (pre-registrado en HITO1 §4)",
+  "hypothesis_supported": true,
+  "pooled_control_minus_candidate_s": 0.02034427849796233,
+  "shap_explained_run": "E1",
+  "shap_max_reconstruction_error_s": 1.4210854715202004e-14,
+  "checks": {
+    "split": {
+      "train_rounds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "validation_rounds": [
+        8,
+        9
+      ],
+      "train_rows": 5772,
+      "validation_rows": 1808,
+      "validation_rows_by_round": {
+        "8": 1066,
+        "9": 742
+      },
+      "test_used": false
+    },
+    "check1_time_k3": {
+      "rule": "max end_time_s de las vueltas usadas <= end_time_s(t)",
+      "rows": 9849,
+      "violations": 0,
+      "passed": true
+    },
+    "check2_boundaries_k3": {
+      "rule": "primera vuelta de cada piloto/carrera/stint: std y pendiente NaN, short_history=1",
+      "first_lap_rows": 311,
+      "std_defined": 0,
+      "slope_defined": 0,
+      "short_history_0": 0,
+      "passed": true
+    },
+    "check1_time_k5": {
+      "rule": "max end_time_s de las vueltas usadas <= end_time_s(t)",
+      "rows": 9849,
+      "violations": 0,
+      "passed": true
+    },
+    "check2_boundaries_k5": {
+      "rule": "primera vuelta de cada piloto/carrera/stint: std y pendiente NaN, short_history=1",
+      "first_lap_rows": 311,
+      "std_defined": 0,
+      "slope_defined": 0,
+      "short_history_0": 0,
+      "passed": true
+    },
+    "check1b_future_perturbation_k3": {
+      "rule": "alterar todas las vueltas > t del piloto (+50 s; t+2.. marcadas deleted) no cambia std, pendiente ni conteo de t",
+      "sampled_pair_ids": 200,
+      "seed": 414,
+      "mismatches": 0,
+      "passed": true
+    },
+    "check4_construction_order": {
+      "original_rule_hito1": "features sobre snapshots completos y luego unidas por pair_id. Falla: valores distintos a calcularlos después de filtrar.",
+      "revised_rule": "recent_mean_s reconstruido desde los snapshots crudos = recent_mean_s publicado en todas las filas unidas; se reporta cuántas filas cambiarían si std se calculara después del filtro clean_pair (incorrecto).",
+      "join_coverage_train": 1.0,
+      "join_coverage_validation": 1.0,
+      "recent_mean_s_matches_release": true,
+      "rows_where_post_filter_std_would_differ": 621,
+      "rows_total": 7580,
+      "passed": true
+    },
+    "check3_rows": {
+      "rule": "mismo conjunto de 1.808 pair_id en todas las corridas, sin duplicados ni NaN",
+      "validation_ids": 1808,
+      "duplicates": 0,
+      "ids_equal_hito1_reference_file": true,
+      "nan_predictions": 0,
+      "R0_equals_hito1_OLS_predictions_atol_1e-8": true,
+      "passed": true
+    }
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.5.5",
+    "pandas": "2.3.1",
+    "sklearn": "1.9.1",
+    "shap": "0.54.1"
+  },
+  "sha256": {
+    "train_clean_v1.csv": "43544f38cc9ef32b44886e6751e03522601265160086fe3a4956f04b87bd5c13",
+    "validation_clean_v1.csv": "b19efb6a908af12a5d2c6bdde29aa40984295e62ce0f187a201b579278db7ee8",
+    "nextlap_reference_v1.py": "f6c58925cd4a477bf3e1a5a2b3968e67df3a1cffabecee9e89701c3ac2d5f994",
+    "source_manifest_v2.json": "04bfe34c4d9dff707f842dd4b96049525b66dcd5179cb120d9c050de27c1c0e8"
+  }
+}

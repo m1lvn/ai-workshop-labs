@@ -1,0 +1,19 @@
+run,description,k,inputs,population,n,MAE_s
+R0,OLS referencia: 6 inputs publicados (control emparejado de E1),3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+current_compound+current_team,all_validation,1808,0.3867069503640432
+R0,OLS referencia: 6 inputs publicados (control emparejado de E1),3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+current_compound+current_team,round_8,1066,0.3735705571219003
+R0,OLS referencia: 6 inputs publicados (control emparejado de E1),3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+current_compound+current_team,round_9,742,0.4055794506283617
+E1,"Candidato: R0 + std + pendiente + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+recent_slope_s+short_history+current_compound+current_team,all_validation,1808,0.36636267186608085
+E1,"Candidato: R0 + std + pendiente + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+recent_slope_s+short_history+current_compound+current_team,round_8,1066,0.35604448587372606
+E1,"Candidato: R0 + std + pendiente + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+recent_slope_s+short_history+current_compound+current_team,round_9,742,0.38118637303569025
+A1,"Ablación: R0 + pendiente + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_slope_s+short_history+current_compound+current_team,all_validation,1808,0.3868632733446635
+A1,"Ablación: R0 + pendiente + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_slope_s+short_history+current_compound+current_team,round_8,1066,0.37117305805171097
+A1,"Ablación: R0 + pendiente + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_slope_s+short_history+current_compound+current_team,round_9,742,0.4094047416765874
+A2,"Ablación: R0 + std + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+short_history+current_compound+current_team,all_validation,1808,0.3656744792114419
+A2,"Ablación: R0 + std + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+short_history+current_compound+current_team,round_8,1066,0.35578707441761204
+A2,"Ablación: R0 + std + short_history, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+short_history+current_compound+current_team,round_9,742,0.37987929526295483
+A3,"Control: R0 + short_history solamente, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+short_history+current_compound+current_team,all_validation,1808,0.3867874373986355
+A3,"Control: R0 + short_history solamente, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+short_history+current_compound+current_team,round_8,1066,0.3711670672613302
+A3,"Control: R0 + short_history solamente, k=3",3,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+short_history+current_compound+current_team,round_9,742,0.40922856215115244
+E2,Variación: como E1 con k=5,5,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+recent_slope_s+short_history+current_compound+current_team,all_validation,1808,0.3799332802891542
+E2,Variación: como E1 con k=5,5,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+recent_slope_s+short_history+current_compound+current_team,round_8,1066,0.3715077347487281
+E2,Variación: como E1 con k=5,5,current_lap_s+recent_mean_s+current_lap_number+current_tyre_life+recent_std_s+recent_slope_s+short_history+current_compound+current_team,round_9,742,0.39203790501434854

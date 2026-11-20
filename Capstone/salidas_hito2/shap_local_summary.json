@@ -1,0 +1,14 @@
+{
+  "model": "E1",
+  "pair_id": "2026-R9-23-L7",
+  "explainer": "shap.LinearExplainer (interventional, Independent masker)",
+  "background": "500 filas de train (rondas 1-7) muestreadas con seed 414, transformadas por el pipeline ajustado en train",
+  "base_value_s": 86.71302875831338,
+  "sum_contributions_s": 12.514285205137115,
+  "base_plus_contributions_s": 99.2273139634505,
+  "model_prediction_s": 99.2273139634505,
+  "reconstruction_abs_diff_s": 0.0,
+  "tolerance_s": 1e-06,
+  "observed_next_lap_s": 97.882,
+  "abs_error_s": 1.3453139634504936
+}

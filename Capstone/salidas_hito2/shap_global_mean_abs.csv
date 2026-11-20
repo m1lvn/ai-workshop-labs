@@ -1,0 +1,10 @@
+original_input,mean_abs_shap_s,mean_signed_shap_s,sample
+recent_mean_s,8.532112991697392,-3.2947768377704314,todas las 1808 filas de validación (R8+R9)
+current_lap_s,3.154462267520682,-1.2039732428569034,todas las 1808 filas de validación (R8+R9)
+recent_std_s,0.15420808271457115,0.06398474398529334,todas las 1808 filas de validación (R8+R9)
+short_history,0.07795732570601456,0.014651057217767043,todas las 1808 filas de validación (R8+R9)
+current_team,0.06252788840095262,-0.004812599090753643,todas las 1808 filas de validación (R8+R9)
+current_compound,0.027838948148987498,0.006971134876831662,todas las 1808 filas de validación (R8+R9)
+current_lap_number,0.02411314201770835,0.0006915804371722614,todas las 1808 filas de validación (R8+R9)
+recent_slope_s,0.022948217964712015,0.005368941216759609,todas las 1808 filas de validación (R8+R9)
+current_tyre_life,0.009057652318528992,-0.005306063107304503,todas las 1808 filas de validación (R8+R9)

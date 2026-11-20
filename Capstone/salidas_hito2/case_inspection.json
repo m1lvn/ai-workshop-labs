@@ -1,0 +1,22 @@
+{
+  "pair_id": "2026-R9-23-L7",
+  "selection_rule": "máximo |abs_err_E1 - abs_err_R0| en validación",
+  "round": 9,
+  "event": "British Grand Prix",
+  "driver_number": "23",
+  "current_lap_number": 7,
+  "stint": 2.0,
+  "compound": "HARD",
+  "tyre_life": 6.0,
+  "current_lap_s": 105.128,
+  "recent_mean_s": 99.83233333333334,
+  "recent_std_s": 4.670885818914152,
+  "recent_slope_s": 4.414499999999982,
+  "history_valid_laps": 3,
+  "short_history": 0,
+  "observed_next_lap_s": 97.882,
+  "pred_R0_s": 102.03426527752538,
+  "abs_err_R0_s": 4.152265277525373,
+  "pred_E1_s": 99.2273139634505,
+  "abs_err_E1_s": 1.3453139634504936
+}
