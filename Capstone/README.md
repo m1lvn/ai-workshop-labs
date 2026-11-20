@@ -1,7 +1,7 @@
 # Capstone NextLap · Grupo 3 (Francisco Polo, Milan Kurte)
 
 **Repositorio:** https://github.com/m1lvn/ai-workshop-labs (carpeta `Capstone/`)
-**Commit de la entrega Hito 2:** `COMMIT_HITO2` (ver texto de entrega)
+**Commit de la evidencia Hito 2:** [`9ad3dc3`](https://github.com/m1lvn/ai-workshop-labs/commit/9ad3dc310404d4d2384661505b56784cf3304faf) (`9ad3dc310404d4d2384661505b56784cf3304faf`): código, salidas, HITO2 y DECISION_LOG. El commit siguiente solo agrega este hash y el zip. `run_hito2.json → git_commit_at_run` muestra el commit padre (`b51a780`) porque el script se ejecutó antes de ser commiteado; al ejecutarlo de nuevo desde `9ad3dc3` las salidas CSV son idénticas.
 
 ## Hito 2 · mapa de evidencia
 
