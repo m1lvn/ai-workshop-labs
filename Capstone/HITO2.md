@@ -26,6 +26,7 @@
 | 3. Filas: mismas 1.808 `pair_id` y sin NaN | ✅ |
 | 4. Orden de construcción (**revisado**, ver DECISION_LOG): `recent_mean_s` reconstruido desde los crudos = publicado | ✅. Además, calcular std **después** del filtro habría cambiado 621 de 7.580 filas. |
 | 5. MAE por carrera | Sección 2 |
+| 6. Agregado: el conteo de vueltas limpias de nuestra ventana k = 3 (reconstruido desde los crudos) = `recent_count` publicado | 0 diferencias en 1.808 filas ✅. Confirma, de forma independiente, la misma ventana que la referencia |
 
 ## 1. Comparación ejecutada y ablación (C2, C3)
 
@@ -35,7 +36,7 @@
 | Candidato | OLS · 6 inputs + `recent_std_s` + `recent_slope_s` + `short_history` (k = 3) | 1808 | **0,36636** | E1 · `validation_predictions_hito2.csv:E1` |
 | Control emparejado | Candidato sin el cambio = OLS · 6 inputs | 1808 | **0,38671** | **Misma corrida R0** que la referencia: misma familia, mismo pipeline y mismas filas, reajustado en el script |
 
-**Control − candidato = 0,38671 − 0,36636 = +0,0203 s** (≈ 5,3 %). Como la diferencia es positiva, el candidato tiene menor MAE en estas 1.808 filas.
+**Control − candidato = 0,38671 − 0,36636 = +0,0203 s = 20,3 ms** (100 × 0,02034 / 0,38671 = **5,26 %**). Como la diferencia es positiva, el candidato tiene menor MAE en estas 1.808 filas.
 
 Corridas adicionales (todas con OLS, el mismo pipeline y las mismas 1.808 filas; `metrics_all_runs.csv`):
 
@@ -81,8 +82,21 @@ Las vueltas 4–6 fueron 96,46, 96,30 y 98,07, y la vuelta t = 7 fue **105,13**,
 
 **Diagnóstico:** la std ayuda cuando ya hay historial, pero **en R9 con historial corto (n = 148) E1 empeora 0,030 s**. En esas 148 filas la pendiente siempre se imputa con la mediana de train. La std solo se imputa en 66 (1 vuelta limpia en la ventana); en las otras 82 se calcula con solo 2 vueltas. E1 empeora en los dos grupos: −0,040 s con n = 66 y −0,022 s con n = 82. Por eso la imputación de la std no basta para explicar el problema. Una std de 2 vueltas es inestable, y la bandera (coeficiente −0,095 s, ajustado en train) podría no trasladarse bien a R9. Esto es una hipótesis, no algo verificado. En R8 los dos grupos mejoran (+0,019 s con n = 82 y +0,017 s con n = 91). Además, el caso muestra que una sola vuelta atípica en t todavía contamina `recent_mean_s`.
 
+**El problema ya existe en la referencia** (`slice_recent_count.csv`; `recent_count` es la columna publicada y coincide con nuestro conteo, chequeo 6):
+
+| Carrera | `recent_count` | n | MAE persistencia | MAE R0 | MAE E1 | Persistencia − R0 | R0 − E1 |
+|---|---|---|---|---|---|---|---|
+| R8 | 1 | 82 | 0,4027 | 0,3908 | 0,3714 | +0,0119 | +0,0194 |
+| R8 | 2 | 91 | 0,3947 | 0,3842 | 0,3671 | +0,0104 | +0,0171 |
+| R8 | 3 | 893 | 0,4009 | 0,3709 | 0,3535 | +0,0300 | +0,0174 |
+| R9 | 1 | 66 | 0,3904 | 0,4022 | 0,4420 | **−0,0118** | **−0,0398** |
+| R9 | 2 | 82 | 0,4750 | 0,4666 | 0,4881 | +0,0084 | −0,0215 |
+| R9 | 3 | 594 | 0,4181 | 0,3975 | 0,3597 | +0,0205 | +0,0379 |
+
+En R9 con una sola vuelta limpia en la ventana (n = 66), incluso el OLS de referencia es peor que repetir la vuelta actual, y E1 amplía esa brecha. Lo que falla en R9 con historial corto no es solo nuestra imputación: los modelos lineales ajustados en R1–R7 extrapolan mal al comienzo del stint en esa pista. Con n = 66 y n = 82 los grupos son chicos, así que esto es una señal a revisar y no una conclusión.
+
 **Siguiente chequeo:** con los mismos 1.808 `pair_id`, comparar dos variantes en las filas `short_history = 1`, separadas por carrera:
-(a) usar la predicción de R0 como respaldo cuando `short_history = 1`;
+(a) usar R0 o la persistencia como respaldo cuando `recent_count < 3` (es una regla disponible en t);
 (b) reemplazar `recent_mean_s` y std por versiones robustas (mediana o MAD de la ventana).
 Se apoya si R9 con `short_history = 1` deja de empeorar sin perder lo ganado en `short_history = 0`.
 
@@ -129,11 +143,23 @@ Base 86,713 + 12,514 = **99,227 s**, igual a la predicción de E1 (diferencia 0,
 
 **Alcance:** describe E1 solo en estas 1.808 filas limpias de dos carreras y con este background. La magnitud de `recent_mean_s` depende de la distancia entre el nivel de cada pista y el background (es 10,0 s en R8 y 6,4 s en R9, `shap_global_by_round.csv`), así que no se generaliza como "importancia" a otras pistas. La media firmada no indica una dirección universal.
 
-## 4. Reproducibilidad
+## 4. Afirmación revisada (para la demo)
+
+| Elemento | Valor |
+|---|---|
+| OLS (R0) / candidato (E1) / filas | 0,38671 s / 0,36636 s / n = 1.808 (las mismas `pair_id`) |
+| Ganancia | +20,3 ms (+5,26 %) |
+| Dónde se sostiene | Con `recent_count` = 3 (≥ 3 vueltas limpias), n = 1.487: +25,6 ms (R8 +17,4 ms con n = 893; R9 +37,9 ms con n = 594) |
+| Dónde se debilita o se invierte | R9 con `recent_count` < 3, n = 148: −29,7 ms (con 1 vuelta limpia, n = 66: −39,8 ms) |
+| Acción que podría cambiar | El ingeniero podría usar E1 para la alerta de degradación una vez que haya ≥ 3 vueltas limpias en el stint. Antes de eso, conviene seguir con R0 o la persistencia hasta que el chequeo (a) de la §2 lo confirme. |
+
+**Afirmación:** en R8–R9, dentro de la población `clean_pair`, agregar al OLS la variabilidad de las últimas 3 vueltas limpias baja el MAE en 20 ms (5 %) en las mismas 1.808 filas, en ambas carreras. La mejora viene de `recent_std_s` y no de la pendiente, y no se sostiene en R9 con historial corto. Es evidencia de selección en validación, no un resultado final.
+
+## 5. Reproducibilidad
 
 Ver [`README.md`](README.md): comando, entorno, datos (SHA-256 en `run_hito2.json`) y mapa del código a las salidas.
 
-## 5. Explicación individual
+## 6. Explicación individual
 
 > Cada integrante escribe su párrafo con sus propias palabras (≈1 minuto de lectura): una decisión en la que contribuyó, el resultado o chequeo que la respalda (con archivo y número), una limitación o siguiente chequeo, y el uso de IA y cómo lo verificó.
 

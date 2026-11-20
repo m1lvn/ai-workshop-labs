@@ -257,6 +257,20 @@ for rnd in ['all', 8, 9]:
                    'control_minus_candidate_s': preds.loc[m, 'abs_err_R0'].mean() - preds.loc[m, 'abs_err_E1'].mean()})
 pd.DataFrame(sl).to_csv(OUT / 'slice_short_history.csv', index=False)
 
+# Corte por recent_count publicado (pregunta 1 del worksheet de la semana 11): persistencia, R0 y E1
+rc = preds.merge(val[['pair_id', 'recent_count']], on='pair_id', validate='one_to_one')
+checks['check6_valid_laps_equal_released_recent_count'] = {
+    'rule': 'history_valid_laps (k=3, reconstruido desde los crudos) = recent_count publicado en las 1.808 filas',
+    'mismatches': int((rc.history_valid_laps_k3 != rc.recent_count).sum()),
+    'passed': bool((rc.history_valid_laps_k3 == rc.recent_count).all())}
+assert checks['check6_valid_laps_equal_released_recent_count']['passed']
+rc['abs_err_persistence'] = (rc.y_true - rc.persistence).abs()
+rcs = rc.groupby(['round', 'recent_count']).agg(n=('pair_id', 'size'), MAE_persistence_s=('abs_err_persistence', 'mean'),
+                                                 MAE_R0_s=('abs_err_R0', 'mean'), MAE_E1_s=('abs_err_E1', 'mean')).reset_index()
+rcs['persistence_minus_R0_s'] = rcs.MAE_persistence_s - rcs.MAE_R0_s
+rcs['R0_minus_E1_s'] = rcs.MAE_R0_s - rcs.MAE_E1_s
+rcs.to_csv(OUT / 'slice_recent_count.csv', index=False)
+
 # Caso inspeccionado: mayor |abs_err_E1 - abs_err_R0|
 preds['err_gap'] = preds.abs_err_E1 - preds.abs_err_R0
 case_id = preds.loc[preds.err_gap.abs().idxmax(), 'pair_id']

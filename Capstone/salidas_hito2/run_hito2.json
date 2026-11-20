@@ -1,6 +1,6 @@
 {
   "script": "hito2_experimento.py",
-  "git_commit_at_run": "b51a7804672a9bf8030e607d5441c9c3c0b789dd",
+  "git_commit_at_run": "454aaeddcd9fea4d298efdb2de625db89c020b9f",
   "seed": 414,
   "test_used": false,
   "decision_rule": "E1 se apoya si control_minus_candidate > 0 en R8 y en R9 (pre-registrado en HITO1 §4)",
@@ -83,6 +83,11 @@
       "ids_equal_hito1_reference_file": true,
       "nan_predictions": 0,
       "R0_equals_hito1_OLS_predictions_atol_1e-8": true,
+      "passed": true
+    },
+    "check6_valid_laps_equal_released_recent_count": {
+      "rule": "history_valid_laps (k=3, reconstruido desde los crudos) = recent_count publicado en las 1.808 filas",
+      "mismatches": 0,
       "passed": true
     }
   },
