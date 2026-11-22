@@ -5,7 +5,8 @@
 
 ## Informe final (22-11-2026)
 
-**Informe:** [`INFORME_FINAL.md`](INFORME_FINAL.md) (el PDF entregado en Canvas indica el commit exacto de la evidencia).
+**Informe:** [`INFORME_FINAL.md`](INFORME_FINAL.md) · PDF entregado: [`Informe_Final_Grupo3.pdf`](Informe_Final_Grupo3.pdf)
+**Commit de la evidencia final:** [`689f81c`](https://github.com/m1lvn/ai-workshop-labs/commit/689f81c9c7c4e40cdaa1b741887fefa3345612c0) (`689f81c9c7c4e40cdaa1b741887fefa3345612c0`): código, salidas, informe y DECISION_LOG. El commit siguiente solo agrega este hash y el PDF. Predeclaración de la regla: `732988f` (anterior a la ejecución).
 
 ```bash
 # desde la raíz del repositorio
