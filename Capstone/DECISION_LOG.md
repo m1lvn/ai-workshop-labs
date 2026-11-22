@@ -101,3 +101,29 @@ Igual que en el Hito 1, trabajamos **en persona y en conjunto**: todas las decis
 - **Qué cambiamos o rechazamos:** al ver que A2 (solo std + bandera) tenía un MAE algo menor que E1 (0.36567 vs. 0.36636 s), consideramos reemplazar el candidato por A2. Lo **rechazamos** y mantuvimos E1, el candidato fijado antes de correr: la diferencia (0.0007 s) se observó en la misma validación y es unas diez veces menor que la variación de la mejora entre carreras (R8 +0.0175, R9 +0.0244). Retirar la pendiente queda como siguiente chequeo, sin usar R8–R9.
 - **Cómo se verificó:** (1) R0 reajustado reproduce exactamente las predicciones del Hito 1; (2) chequeos 1, 1b, 2, 3 y 4 en `run_hito2.json`; (3) la reconstrucción SHAP base + contribuciones = predicción en las 1.808 filas (error máx. < 1e-6 s) y a mano para `2026-R9-23-L7` (86,713 + 12,514 = 99,227); (4) recalculamos a mano el pooled ponderado (1066·0,01753 + 742·0,02439)/1808 = 0,02034; (5) revisamos en `case_context_laps.csv` que la vuelta 7 de ALB (105,13 s) tenga bandera verde y no sea pit ni borrada.
 - **Lo que no se delegó:** la decisión de mantener E1, las explicaciones individuales en HITO2 §5 y la defensa en la demo.
+
+---
+
+# Informe final (22-11-2026)
+
+## Feedback recibido
+
+- **Hito 2 (feedback del instructor, 22-11, 100/100).** Prioridad: *historial corto en R9*. E1 agrega 29,7 ms de MAE en 148 filas; en las 66 filas con una sola vuelta limpia, el OLS de referencia ya pierde contra la persistencia. Chequeo pedido: predeclarar un respaldo cuando `recent_count < 3`, comparar R0 y persistencia en los mismos IDs por carrera y revisar el MAE pooled antes de congelar la regla; describir la feature como una ventana de hasta tres vueltas consecutivas, excluyendo las inválidas dentro de ella.
+- **Demo Day (20-11).** El jurado no dio una prioridad específica. Una sola revisión responde a la prioridad del Hito 2.
+
+## Predeclaración de la regla de respaldo (escrita y commiteada ANTES de ejecutar `final_respaldo.py`)
+
+**Corrección de la descripción.** `recent_std_s`, `recent_slope_s` y `recent_count` se calculan sobre una **ventana de hasta tres vueltas consecutivas (t−2, t−1, t) del mismo piloto, carrera y stint**; las vueltas inválidas (no `current_clean`) dentro de la ventana se excluyen, no se reemplazan por vueltas anteriores. Por eso `recent_count` ∈ {1, 2, 3} y "historial corto" significa `recent_count < 3`. No son "las últimas 3 vueltas limpias".
+
+**Opciones para filas con `recent_count < 3`** (`recent_count` es un input publicado y disponible en t; chequeo 6 confirma que coincide con nuestro conteo):
+- `E1`: sin respaldo (el candidato del Hito 2).
+- `R0`: usar la predicción del OLS de referencia (6 inputs).
+- `P`: persistencia, `next_lap_s` predicho = `current_lap_s`.
+En filas con `recent_count = 3` siempre se usa E1.
+
+**Transparencia.** Los MAE de validación de R0, E1 y persistencia por `recent_count` ya se vieron en el Hito 2 (`salidas_hito2/slice_recent_count.csv`). Para no elegir el respaldo mirando la validación otra vez:
+
+1. **Selección solo con train (R1–R7), leave-one-round-out.** Para cada ronda r ∈ {1..7}: se reajustan R0 y E1 con las otras 6 rondas (mismo pipeline, imputación y escalado ajustados en esas 6) y se predicen las filas de r. En las filas de train con `recent_count < 3`, se compara el MAE pooled (ponderado por n) de E1, R0 y P. **La opción con menor MAE LORO es la seleccionada.** Si es E1, no hay respaldo.
+2. **Confirmación en validación (mismos 1.808 `pair_id`).** Se reportan, por carrera y pooled: (a) R0 vs persistencia en las filas `recent_count < 3`; (b) el candidato híbrido H = E1 si `recent_count = 3`, si no la opción seleccionada, vs E1 y vs R0 en las 1.808 filas. Se agrega un IC95 bootstrap pareado (2.000 remuestreos de `pair_id`, seed 414) para E1 − H.
+3. **Regla de congelamiento.** Se congela H como candidato final **si y solo si** el MAE pooled de H en las 1.808 filas es ≤ el de E1. Si no, se mantiene E1 sin respaldo y se reporta como resultado nulo/negativo. No se eligen umbrales por carrera ni se cambia de opción después de ver la validación.
+4. El test reservado (R17) no se usa.
