@@ -1,6 +1,6 @@
 {
   "script": "hito2_experimento.py",
-  "git_commit_at_run": "454aaeddcd9fea4d298efdb2de625db89c020b9f",
+  "git_commit_at_run": "732988f698a422aa37e899dcac3925f27e819b4c",
   "seed": 414,
   "test_used": false,
   "decision_rule": "E1 se apoya si control_minus_candidate > 0 en R8 y en R9 (pre-registrado en HITO1 §4)",

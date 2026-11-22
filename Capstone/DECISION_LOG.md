@@ -127,3 +127,36 @@ En filas con `recent_count = 3` siempre se usa E1.
 2. **Confirmación en validación (mismos 1.808 `pair_id`).** Se reportan, por carrera y pooled: (a) R0 vs persistencia en las filas `recent_count < 3`; (b) el candidato híbrido H = E1 si `recent_count = 3`, si no la opción seleccionada, vs E1 y vs R0 en las 1.808 filas. Se agrega un IC95 bootstrap pareado (2.000 remuestreos de `pair_id`, seed 414) para E1 − H.
 3. **Regla de congelamiento.** Se congela H como candidato final **si y solo si** el MAE pooled de H en las 1.808 filas es ≤ el de E1. Si no, se mantiene E1 sin respaldo y se reporta como resultado nulo/negativo. No se eligen umbrales por carrera ni se cambia de opción después de ver la validación.
 4. El test reservado (R17) no se usa.
+
+## Resultado de la regla predeclarada (`final_respaldo.py`, ejecutado después de `732988f`)
+
+| Fecha | Decisión | Evidencia | Quién |
+|---|---|---|---|
+| 22-11-2026 | Respaldo seleccionado **solo con train** (LORO R1–R7, filas `recent_count < 3`, n = 1.185): **E1** (0,59681 s) frente a persistencia (0,61775) y R0 (0,63431). E1 gana 5/7 rondas, P 2/7, R0 0/7 | `salidas_final/loro_train_short_history.csv`, `run_final.json → selection_train_loro` | Francisco Polo, Milan Kurte (lidera: Francisco Polo) |
+| 22-11-2026 | Confirmación en validación, mismas 321 filas cortas: R0 vs persistencia R8 0,38735/0,39849 (n=173), R9 0,43788/0,43729 (n=148), pooled 0,41065/0,41638. En 1.808 filas: E1 0,36636; H_R0 0,36567 (E1−H_R0 +0,7 ms, IC95 [−2,2; +3,4] ms); H_P 0,36669 (−0,3 ms, IC95 [−4,3; +3,4] ms) | `salidas_final/validation_short_history_R0_vs_persistence.csv`, `validation_hybrid_by_race.csv`, `run_final.json` | Francisco Polo, Milan Kurte (lidera: Milan Kurte) |
+| 22-11-2026 | **Regla aplicada: se mantiene E1 sin respaldo** (selected = E1). No se adopta H_R0 aunque mejore 0,7 ms en validación: no fue seleccionado en train, empeora R8 (0,35604 → 0,35899) y su IC95 incluye 0. El fallo de R9 con historial corto queda como límite declarado | `run_final.json → frozen_candidate = E1` | Francisco Polo, Milan Kurte |
+| 22-11-2026 | Descripción corregida de la ventana (hasta 3 vueltas consecutivas, inválidas excluidas) en el informe y en el docstring de `history_features`; las salidas no cambian (CSV de `salidas_hito2/` con md5 idéntico) | `INFORME_FINAL.md` §2 | Francisco Polo, Milan Kurte (lidera: Francisco Polo) |
+| 22-11-2026 | Nominar **E1** al bonus. `predecir_e1.py` implementa el contrato de entrada (solicitudes sin `next_*`, historial as-of por `end_time_s`) y reproduce E1 en R8–R9 (máx. diferencia 1,4e-14 s, 0 respaldos) | `salidas_final/bonus_autocheck.json` | Francisco Polo, Milan Kurte |
+
+### Registro de corridas (informe final)
+
+| Corrida | Fecha | Features / regla | n validación | MAE (s) | Nota |
+|---|---|---|---|---|---|
+| LORO-E1/R0/P | 22-11-2026 | R1–R7, cada ronda predicha con modelo ajustado en las otras 6; filas `recent_count < 3` | 1.185 (train) | 0,59681 / 0,63431 / 0,61775 | Selección del respaldo: E1 |
+| H_R0 | 22-11-2026 | E1 si `recent_count = 3`, R0 si < 3 | 1808 | 0,36567 | **No adoptado** (no seleccionado en train; R8 empeora) |
+| H_P | 22-11-2026 | E1 si `recent_count = 3`, persistencia si < 3 | 1808 | 0,36669 | **No adoptado** (peor que E1 pooled) |
+| E1 (final) | 22-11-2026 | Sin cambios respecto del Hito 2 | 1808 | 0,36636 | Candidato final y nominado al bonus |
+
+## Contribuciones (informe final)
+
+Igual que en los hitos anteriores, trabajamos en persona y las decisiones se tomaron en conjunto; cada uno puede explicarlas todas. Lideró la implementación/verificación:
+- **Francisco Polo:** selección LORO en train y corrección de la descripción de la ventana (docstring + informe §2).
+- **Milan Kurte:** predeclaración de la regla, confirmación por carrera y pooled en validación, bootstrap pareado e informe final.
+
+## Uso de IA (informe final)
+
+- **Herramienta:** Claude Code (Anthropic), sesión del 22-11-2026.
+- **Prompt representativo:** *"Tengo que hacer mi última entrega para el ramo […]"* + el feedback del Hito 2 pegado.
+- **Sugerencias adoptadas:** elegir el respaldo con LORO en train en vez de la validación (porque los cortes por `recent_count` ya se habían visto en el Hito 2) y commitear la predeclaración antes de correr; `final_respaldo.py` con bootstrap pareado; `predecir_e1.py` para el bonus; borradores de `INFORME_FINAL.md` y de esta sección.
+- **Cómo se verificó:** (1) los CSV de `salidas_hito2/` regenerados son idénticos (md5) a los del Hito 2 y R0 = referencia Hito 1 (atol 1e-8); (2) `predecir_e1.py --autocheck` = E1 en 1.808 filas (máx. 1,4e-14 s) con el mismo `recent_count`; (3) el pooled ponderado por carrera se verifica con `assert` en el script; (4) `git log` confirma que `732988f` (predeclaración) es anterior a la ejecución.
+- **Lo que no se delegó:** aceptar el resultado nulo de la revisión y mantener E1; participar en el bonus; la defensa oral.

@@ -1,0 +1,78 @@
+{
+  "script": "final_respaldo.py",
+  "git_commit_at_run": "732988f698a422aa37e899dcac3925f27e819b4c",
+  "seed": 414,
+  "test_used": false,
+  "predeclaration": "DECISION_LOG.md, sección \"Informe final\", commit 732988f (antes de esta ejecución)",
+  "window": "hasta 3 vueltas consecutivas (t-2, t-1, t) del mismo piloto/carrera/stint; inválidas excluidas; recent_count en {1,2,3}",
+  "selection_train_loro": {
+    "population": "filas de train con recent_count < 3, cada ronda predicha por un modelo ajustado en las otras 6",
+    "n": 1185,
+    "MAE_s": {
+      "E1": 0.5968124650902462,
+      "R0": 0.6343111453942263,
+      "P": 0.6177459915611815
+    },
+    "rounds_won_of_7": {
+      "E1": 5,
+      "R0": 0,
+      "P": 2
+    },
+    "selected_fallback": "E1",
+    "context_recent_count_eq_3_MAE_s": {
+      "E1": 0.45637509140848215,
+      "R0": 0.4840508417482017,
+      "P": 0.4690071942446043
+    }
+  },
+  "validation": {
+    "MAE_pooled_s": {
+      "R0": 0.3867069503640432,
+      "E1": 0.36636267186608085,
+      "P": 0.40928871681415924,
+      "H": 0.36636267186608085,
+      "H_R0": 0.365672830871353,
+      "H_P": 0.36669015456306164
+    },
+    "E1_minus_H_s": 0.0,
+    "bootstrap_95ci_s": {
+      "E1_minus_H": [
+        0.0,
+        0.0
+      ],
+      "R0_minus_E1": [
+        0.011830632409140876,
+        0.02957156893002956
+      ],
+      "R0_minus_H": [
+        0.011830632409140876,
+        0.02957156893002956
+      ],
+      "E1_minus_H_R0_not_selected": [
+        -0.002184936678749727,
+        0.0034338928609308214
+      ],
+      "E1_minus_H_P_not_selected": [
+        -0.004303023382271705,
+        0.003390699297471083
+      ]
+    },
+    "n_boot": 2000
+  },
+  "freeze_rule": "congelar H si selected != E1 y MAE_pooled(H) <= MAE_pooled(E1); si no, mantener E1",
+  "frozen_candidate": "E1",
+  "checks": {
+    "train_window_count_equals_recent_count": {
+      "rows": 5772,
+      "mismatches": 0
+    },
+    "validation_ids": {
+      "rule": "mismos 1.808 pair_id únicos que la referencia del Hito 1 y que salidas_hito2",
+      "n": 1808,
+      "duplicates": 0,
+      "equal_to_reference_ids": true,
+      "nan_predictions": 0,
+      "fallback_rows": 321
+    }
+  }
+}

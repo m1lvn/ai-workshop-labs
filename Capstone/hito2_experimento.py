@@ -47,7 +47,9 @@ assert set(raw['round']) == TRAIN_ROUNDS | VAL_ROUNDS, 'Solo rondas 1-9 en los d
 
 
 def history_features(raw, k):
-    """std y pendiente de las últimas k vueltas (incluye t) por piloto/carrera/stint.
+    """std y pendiente sobre una ventana de hasta k vueltas consecutivas (t-k+1 ... t) del mismo
+    piloto/carrera/stint, excluyendo las vueltas inválidas dentro de ella (no se buscan vueltas
+    válidas más atrás). history_valid_laps = número de vueltas válidas en la ventana (= recent_count).
 
     Usa la misma regla que build_pairs para recent_mean_s: solo vueltas ya observadas y
     'current_clean' entran al historial; vueltas sucias quedan como NaN dentro de la ventana.

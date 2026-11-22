@@ -1,0 +1,10 @@
+{
+  "rule": "predecir_e1.py con el contrato de entrada (solicitudes sin next_*, historial as-of) = E1 de salidas_hito2",
+  "n": 1808,
+  "max_abs_diff_vs_E1_s": 1.4210854715202004e-14,
+  "equal_atol_1e-8": true,
+  "recent_count_window_equals_released": true,
+  "fallback_lap_t_missing": 0,
+  "short_history_rows": 321,
+  "validation_MAE_s": 0.36636267186608085
+}

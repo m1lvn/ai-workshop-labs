@@ -3,6 +3,29 @@
 **Repositorio:** https://github.com/m1lvn/ai-workshop-labs (carpeta `Capstone/`)
 **Commit de la evidencia Hito 2:** [`79089c1`](https://github.com/m1lvn/ai-workshop-labs/commit/79089c1d8100f3c7452c7654234b6350168fcda7) (`79089c1d8100f3c7452c7654234b6350168fcda7`): código, salidas, HITO2 y DECISION_LOG. El commit siguiente solo agrega este hash y el zip. `run_hito2.json → git_commit_at_run` muestra `454aaed` porque el script se ejecutó antes de ser commiteado; el código y las salidas no cambiaron desde `9615abd` (solo se editó el texto de HITO2), y al ejecutarlo de nuevo las salidas CSV son idénticas.
 
+## Informe final (22-11-2026)
+
+**Informe:** [`INFORME_FINAL.md`](INFORME_FINAL.md) (el PDF entregado en Canvas indica el commit exacto de la evidencia).
+
+```bash
+# desde la raíz del repositorio
+python3 -m venv .venv
+.venv/bin/pip install -r Capstone/requirements.txt
+cd Capstone
+../.venv/bin/python final_respaldo.py          # regenera salidas_hito2/ (vía hito2_experimento.py) y salidas_final/  (~10 s)
+../.venv/bin/python predecir_e1.py --autocheck # candidato del bonus: reproduce E1 con el contrato de entrada (~5 s)
+```
+
+Salida esperada: respaldo seleccionado en train = `E1`; candidato congelado = `E1`; MAE validación R0 0,38671 · E1 0,36636 (control − candidato +0,0203 s); `bonus_autocheck.json → equal_atol_1e-8: true`.
+
+| Sección del informe | Salida (`salidas_final/` salvo indicación) | Código |
+|---|---|---|
+| §2 Comparación R0 / E1 / control | `../salidas_hito2/comparison_table.csv`, `metrics_all_runs.csv`, `validation_predictions_hito2.csv`; IC95 en `run_final.json` | `hito2_experimento.py` §3–4, `final_respaldo.py` |
+| §3 Por carrera, caso, SHAP | `../salidas_hito2/race_comparison.csv`, `case_inspection.json`, `shap_*`; `validation_hybrid_by_race.csv` | `hito2_experimento.py` §4–5 |
+| §4 Revisión tras feedback | `loro_train_short_history.csv`, `validation_short_history_R0_vs_persistence.csv`, `validation_hybrid_by_race.csv`, `run_final.json` | `final_respaldo.py` |
+| Bonus | `bonus_autocheck.json` | `predecir_e1.py` |
+| Decisiones e IA | [`DECISION_LOG.md`](DECISION_LOG.md#informe-final-22-11-2026) | — |
+
 ## Hito 2 · mapa de evidencia
 
 | Sección (rúbrica) | Dónde está el texto | Salida que lo respalda (en `salidas_hito2/`) | Código (`hito2_experimento.py`) |
